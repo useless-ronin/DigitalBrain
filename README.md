@@ -1,0 +1,6042 @@
+> **Subjects** :
+ > - [[History]]
+ >- [[Geography]]
+ >- [[Indian Society : Features and Social Justice]]
+ >- [[Polity and Governance]]
+> - [[International Relations]]
+> - [[Economy]]
+> - [[Ecology and Environment]]
+> - [[Science and Technology]]
+> - [[Internal Security]]
+> - [[Ethics, Integrity and Aptitude]]
+> - [[International Organisations]]  
+
+# History
+
+## Ancient History
+
+- [ ] Classification of History
+- [ ] Periodization of Indian Pre-History
+- [ ] Sources of Pre-History
+- [ ]  Stone Age
+	- [ ] Paleolithic [ 2 Million BC - 10,000 BC]
+		- [ ] Lower Paleolithic
+		- [ ] Upper Paleolithic
+		- [ ] Middle Paleolithic
+	- [ ] Mesolithic [ 10,000 BC - 8000 BC]
+	- [ ] Neolithic   [ 8000 BC - 1500 BC ]
+	- [ ] Social & Economic Condition
+		- [ ] Occupation
+		- [ ] Tools
+		- [ ] Pottery
+		- [ ] Settlements
+		- [ ] Lifestyle
+		- [ ] Administration
+		- [ ] Pre-historic Art
+- [ ] Chalcolithic Age [ 4000 BC - 1500 BC ]
+  - [ ] Early Towns
+  - [ ] Farming Cultures (Ahar, Malwa, Jorwe)
+  - [ ] Pottery
+  - [ ] Dwelling and Burial practices
+- [ ] Iron Age [ 1500 BC - 200 BC ]
+- [ ] Impact of Iron
+- [ ] Geographical Distribution and Characteristics
+- [ ] Indus Valley Civilization [ Bronze Age]
+    - [ ] Origin
+    - [ ] Geographical Extent
+    - [ ] Major Cities
+    - [ ] Major Towns
+    - [ ] Town Planning
+    - [ ] Major Structures
+    - [ ] Trade and Economy [ Harappan Trade]
+    - [ ] Agriculture
+    - [ ] Domestication of Animals
+    - [ ] Domestication of Animals
+    - [ ] Crafts
+    - [ ] Pottery
+    - [ ] Weights and Measurements
+    - [ ] Script and Language
+    - [ ] Administration
+    - [ ] Religion Practices
+       - [ ] Nature Worship
+       - [ ] Animal Worship
+       - [ ] Seals
+       - [ ] Proofs
+    - [ ] Bronze And Terracotta Figurines
+    - [ ] Images
+    - [ ] Reasons for Decline
+- [ ] Early Vedic Age [ 1500 BC - 900 BC]
+   - [ ] Advent of Aryans
+   - [ ] Original Home Of The Aryans
+   - [ ] Features of Aryan Culture 
+   - [ ] Family and Kinship
+   - [ ] Social Practices
+   - [ ] Sources for Reconstructing Vedic Society and Culture
+   - [ ] Occupation
+   - [ ] Agriculture
+   - [ ] Varna System
+   - [ ] Geography of Early and Later Periods
+   - [ ] Trade and Economy
+   - [ ] Economic Conditions
+   - [ ] Political Organisation
+   - [ ] Religions
+   - [ ] Vedic Gods
+   - [ ] Crafts
+   - [ ] Scripts and Language
+   - [ ] Figurines
+- [ ] Later Vedic Age [ 900 BC - 600 BC]
+	 - [ ] Transition to Later Vedic Age
+	 - [ ] Developments in Various Fields
+	 - [ ] Political Development
+	 - [ ] Economical Development
+	 - [ ] Social Order
+	 - [ ] Gotra System , Ashramas and Caste
+	 - [ ] Differences between Rig Vedic and Later Vedic Society
+	 - [ ] Use of Iron
+	 - [ ] Vedic Texts
+        - [ ] Vedas
+        - [ ] Brahmanas
+        - [ ] Upanishads
+        - [ ] The Aranyakas
+	 - [ ] Painted Grey Ware and Iron Phase
+	 - [ ] Religion
+	 - [ ] Rituals
+	 - [ ] Heterodox Philosophical Systems   
+- [ ] Mahajanapadas [ 600 BC - 300 BC] 
+   - [ ] Transition from Later Vedic Age
+   - [ ] Meaning of Mahajanapadas
+   - [ ] The Sixteen Mahajanapadas
+   - [ ] Second Urbanisation
+   - [ ] Reasons for Urbanisation
+   - [ ] Rise of New Cities / States
+   - [ ] Rise of Republics
+   - [ ] Rise of State Polity
+- [ ] Magadhan Empire  [ 600 BC - 300 BC]
+   - [ ] Haryanka Dynasty
+   - [ ] Shisunaga Dynasty
+   - [ ] Nanda Dynasty
+   - [ ] Administration
+   - [ ] Trade and Economy
+   - [ ] Religion
+   - [ ] Society
+   - [ ] Republics
+   - [ ] Iranian Invasion
+   - [ ] Macedonian Invasion
+- [ ] Age of Buddhism/Jainism  [ 600 BC - 300 BC]
+	 - Causes for Rise of Jainism and Buddhism
+	 - [ ] Buddhism
+	      - [ ] Birth of Buddha
+	      - [ ] Origin
+	      - [ ] Spread of Buddhism
+	      - [ ] Doctrines and Principles
+	      - [ ] Monastic Establishments
+	      - [ ] Buddhist Councils
+	      - [ ] Art and Architecture
+	      - [ ] Literature
+	 - [ ] Jainism
+	      - [ ] Birth of Mahavira
+	      - [ ] Origin
+	      - [ ] Spread of Jainism
+	      - [ ] Doctrines and Principles
+	      - [ ] Monastic Establishments
+	      - [ ] Jainism Councils
+	      - [ ] Art and Architecture
+	      - [ ] Literature
+	      - [ ] Decline of Jainism
+- [ ] Mauryan Empire [322 BC - 185 BC]
+	- [ ] Rise of Mauryan Dynasty
+	- [ ] Chandragupta Maurya
+	- [ ] Chanakya
+	- [ ] Chanakya's Arthasashtra
+	- [ ] Bindusara
+	- [ ] Mauryan Administration
+	- [ ] Bureaucracy
+	- [ ] Economy and Taxation
+	- [ ] Polity
+	- [ ] Condition of the Society
+	- [ ] Art and Culture
+	- [ ] Megasthenes
+	- [ ] Ashoka
+	- [ ] Ashoka's Dhamma
+	- [ ] Patronage to Buddhism
+	- [ ] Ashoka's Contribution to Art and Architecture
+	- [ ] Ashoka's Inscriptions [ Minor and Major Edicts]
+	- [ ] Decline of Mauryas
+- [ ] Post Mauryan Age [ 185 BC - 225 AD] 
+	- [ ] Society: Evolution of Jatis 
+	- [ ] Sunga Dynasty [ 185 BC - 73 BC]
+		- [ ] Betrayal
+		- [ ] Founder
+		- [ ] Administration and Socio-Economic Conditions
+		- [ ] Decline
+	- [ ] Kanva Dynasty [ 73 BC - 25 BC]
+	- [ ] Central Asian Invasions
+		- [ ] Indo-Greeks
+		- [ ] Shakas
+		- [ ] Parthians
+		- [ ] Kushans
+	- [ ] Impact of the Invaders
+		- [ ] Economy
+		- [ ] Expansion of Trade
+		- [ ] Silk Route
+		- [ ] Introduction of Foreign Elements
+		- [ ] Changes in Army
+		- [ ] Changes in Polity
+		- [ ] Development of Craft
+		- [ ] Art and Architecture
+	- [ ] Religious Developments
+		- [ ] Buddhism
+			- [ ] Separation of Sects
+			- [ ] Their Beliefs
+			- [ ] Differences between the Two Sects
+			- [ ] Impact on Buddhism
+	- [ ] Schools of Art
+		- [ ] Gandhara School of Art
+		- [ ] Mathura School of Art
+		- [ ] Major Works
+		- [ ] Significant Properties
+	- [ ] The Satavahanas [ 60 BC to 225 AD]
+		- [ ] Emergence
+		- [ ] Polity
+		- [ ] Administration
+		- [ ] Economy
+		- [ ] Social Condition/Organisation
+		- [ ] Religious Patronage
+		- [ ] Art and Architecture
+		- [ ] Decline of Satavahanas
+- [ ] Megaliths In South India
+	- [ ] What is Megalithic Culture
+	- [ ] Burials
+	- [ ] Pottery
+	- [ ] Tools
+	- [ ] Settlements and their Features
+- [ ] Sangam Age [ 3rd Century BC - 3rd Century AD]
+	- [ ] Sangam Literature
+	- [ ] Sangam Society
+	- [ ] Cheras
+	- [ ] Cholas
+	- [ ] Pandyas
+	- [ ] Evolution of Tamil Polity and Society [ Sourced from Sangam Texts]
+- Dark Age of Kalabhras [ 3rd Century AD - 6th Century AD]
+- [ ] Imperial Guptas [ 320 AD - 550 AD]
+	- [ ] Sources of Gupta Rule
+	- [ ] Rise of Guptas
+	- [ ] Political History of Guptas
+	- [ ] Expansion of Guptas
+	- [ ] Extent of the Guptas
+	- [ ] Administration
+	- [ ] Urban Centres
+	- [ ] Trade and Economy
+	- [ ] Social Conditions
+	- [ ] Art and Architecture
+	- [ ] Developments in Science and Technology
+	- [ ] Fa-Hien Scholar
+	- [ ] Religion
+		- [ ] Religious Literature
+			- [ ] Ramayana
+			- [ ] Mahabharatha
+			- [ ] Puranas
+	- [ ] Secular Works
+		- [ ] Works of Kalidasa
+		- [ ] Works of Bhasa
+		- [ ] Others
+	- [ ] Scientific Works	
+		- [ ] Works of Aryabhatta
+		- [ ] Works of Varahamihra
+		- [ ] Others
+	- [ ] Causes and Decline of Guptas
+- [ ] Post Guptas / Harshavardhana
+	- [ ] Sources of Harsha's Period
+	- [ ] Early Life of Harsha
+	- [ ] Administration
+	- [ ] Important Officials
+	- [ ] Trade and Economy
+	- [ ] Social Conditions
+	- [ ] Religion
+	- [ ] Harsha and Buddhism
+	- [ ] Hiuen Tsang's Visit
+		- [ ] His account of India
+	- [ ] Works of Bhana
+	- [ ] Works of Harsha
+- [ ] The Pallavas [ 330 AD - 796 AD]
+	- [ ] Emergence
+	- [ ] Administration
+	- [ ] Economy
+	- [ ] Art and Architecture
+	- [ ] Literary Works
+	- [ ] Decline
+- [ ] The Chalukyas [ 535 AD - 1190 AD]
+	- [ ] Emergence
+	- [ ] Administration
+	- [ ] Economy
+	- [ ] Art and Architecture
+	- [ ] Literary Works
+	- [ ] Decline
+- [ ] The Pandyas of Madurai [ 590 AD - 1323 AD]
+	- [ ] Emergence
+	- [ ] Administration
+	- [ ] Economy
+	- [ ] Art and Architecture
+	- [ ] Literary Works
+	- [ ] Decline
+
+-----
+## Medieval History
+
+- [ ] Chola Empire [ 9th Century - 12th Century AD]
+	- [ ] The Rise of Cholas
+	- [ ] Administration
+	- [ ] Trade and Economy
+	- [ ] Taxation
+	- [ ] Territorial Expansion
+	- [ ] Society
+	- [ ] Culture
+	- [ ] Art and Architecture
+- [ ] Ghaznavid Invasion
+	 - [ ] Sabuktigin
+	 - [ ] Mahmud Ghazni
+	 - [ ] The 17th Invasions of Ghazni
+	 - [ ] Raid of Somnath Temple
+	 - [ ] Status of Rajputs
+	 - [ ] Reasons for Defeat
+	 - [ ] Alberuni  
+	 - [ ] His work - ``Kitab-ul-Hind``
+- [ ] Ghurid Invasion
+	- [ ] Muhammad Ghori
+	- [ ] First Battle of Tarain
+	- [ ] Second Battle of Tarain
+	- [ ] Importance of the Tarain Battles
+	- [ ] Outcome
+- [ ] Slave Dynasty [ 1200 AD - 1526 AD ]
+	- [ ] Mamluk Dynasty [1206 AD - 1290 AD]
+		- [ ] Qutb-ud-din Aibak
+		- [ ] Aram Shah
+		- [ ] Chihalgani - The Forty
+		- [ ] Iltutmish
+		- [ ] Feroze
+		- [ ] Raziya Sultana
+		- [ ] Balban
+			- [ ] Policies 
+			- [ ] Administration
+			- [ ] Espionage System
+			- [ ] Dissolution of the Forty
+		- [ ] Mongol Menace
+	- [ ] Khilji Dynasty [ 1290 AD - 1320 AD]
+		- [ ] Jalal-ud-din Khilji
+		- [ ] Alauddin Khilji
+			- [ ] Policies
+			- [ ] Administration
+			- [ ] Espionage System
+			- [ ] Architecture
+			- [ ] The Inefficient Sultans
+			- [ ] Decline
+	- [ ] Tughlaq Dynasty [ 1320 AD - 1414 AD ]
+		- [ ] Establishment
+		- [ ] Ibn-Battuta's Memoir
+		- [ ] Ghiyasuddin Tughlaq
+		- [ ] Muhammad-bin-Tughlaq
+			- [ ] His Policies
+			- [ ] Reasons for Failure
+			- [ ] Expansion activities
+			- [ ] Administration
+			- [ ] Revolts
+		- [ ] Feroz Shah Tughluq
+		- [ ] Timur's Invasion
+		- [ ] Decline
+	- [ ] Sayyid Dynasty [ 1414 AD - 1451 AD]
+		- [ ] Establishment
+		- [ ] Khizr Khan
+		- [ ] Mubarak Shah
+		- [ ] Muhammad Shah
+		- [ ] Alam Shah
+		- [ ] Decline
+	- [ ] Lodi Dynasty [ 1451 AD - 1526 AD]
+		- [ ] Bahlul Lodi
+		- [ ] Sikandar Lodi
+		- [ ] Ibrahim Lodi
+		- [ ] Decline
+- [ ] The Delhi Sultanate
+	- [ ] Nature of State
+	- [ ] Administration of Delhi Sultanate
+	- [ ] State Departments
+	- [ ] Various Posts
+	- [ ] Military Reforms
+	- [ ] Land Revenue
+	- [ ] Forms of Taxation
+	- [ ] Local Administration / Village Administration
+	- [ ] Cities
+	- [ ] Trade and Crafts
+	- [ ] Agriculture
+	- [ ] State of Economy
+	- [ ] Social State
+	- [ ] Religion and Customs
+	- [ ] Scientific Advancements
+	- [ ] Art and Architecture
+	- [ ] Major Monuments
+	- [ ] Rise of New Cities
+	- [ ] Accounts of Barani, Amir Khusrau
+- [ ] Vijayanagara Empire
+	- [ ] Rise of VijayanagaraEmpire
+	- [ ] Harihara and Bukkaraya
+	- [ ] Four Dynasties
+		- [ ] Sangama
+		- [ ] Saluva
+		- [ ] Tuluva
+		- [ ] Aravidu
+	- [ ] Krishnadeva Raya [ 1509 AD - 1529 AD ]
+		- [ ] His Conquest
+		- [ ] His Contributions
+		- [ ] His Administration
+	- [ ] Political Organisation
+	- [ ] Nayaka System
+	- [ ] Religion
+	- [ ] Social Life
+	- [ ] Economy and Trade
+	- [ ] Art and Architecture
+	- [ ] Structures of Hampi
+	- [ ] Foreign Travellers
+		- [ ] Nicolo Conti
+		- [ ] Abdul Razack
+		- [ ] Nuniz
+		- [ ] Barbossa
+	- [ ] Battle of Talikota
+	- [ ] Decline of the Empire
+- [ ] Bahmini Sultanate [ 1347 AD - 1526 AD ]
+	- [ ] Foundation
+	- [ ] Early Rule
+	- [ ] Five Kingdoms
+	- [ ] Polity and Internal Conflicts
+	- [ ] Administration
+	- [ ] Economy
+	- [ ] Battle of Talikota
+	- [ ] Rise of Deccan Culture
+	- [ ] Art and Architecture
+	- [ ] Decline of Bahminis
+	- [ ] Annexation by the Mughals
+- [ ] Arrival of Portuguese
+	- [ ] Impact on India
+		- [ ] Polity
+		- [ ] Trade
+		- [ ] Economy
+		- [ ] Relationships with Indian Kings
+		- [ ] Significance
+- [ ] Religions and Cultural Development During 12th - 15th Century
+	- [ ] Bhakthi Movement
+		- [ ] Vaishnavites / Alwars
+		- [ ] Saivites / Nayanmars
+		- [ ] Their differences
+		- [ ] Shakanaracharya
+		- [ ] Ramanuja
+		- [ ] Bhakthi Movement In North India and Maharashtra
+		- [ ] Saguna School
+		- [ ] Nirguna school
+		- [ ] Saints and Poets
+		- [ ] Bhakthi Literature
+		- [ ] Impact on the Society
+	- [ ] Sufi Movement
+		- [ ] Basic Concept
+		- [ ] 12 Orders or 12 Silsilahs
+		- [ ] Sufi Saints
+			- [ ] Nizamuddin Auliya
+			- [ ] Moinuddin Chisti
+			- [ ] Baba Farid
+		- [ ] Impact on Society
+		- [ ] Impact on Art
+		- [ ] Impact on Culture
+- [ ] Struggle for a New Empire
+	- [ ] Struggle between Ibrahim Lodi and Babur
+	- [ ] The First Battle of Panipat
+	- [ ] The Battle of Khanwa
+	- [ ] Reasons for Failure of Lodis
+	- [ ] Reason for Victory of Babur
+	- [ ] Babur Nama
+	- [ ] Babur's Problem After Victory
+	- [ ] Fight with Rana Sanga
+	- [ ] Significance of Babur's Invasion
+	- [ ] Establishment of the Mughal Empire
+- [ ] Mughal Empire [ Babur and Humayun ]
+	- [ ] Babur [ 1526 AD - 1530 AD]
+		- [ ] His Administration
+		- [ ] Religious View
+		- [ ] Taxation
+		- [ ] Economy
+		- [ ] Trade
+		- [ ] Art and Architecture
+		- [ ] Literature
+		- [ ] Social Condition
+		- [ ] Consolidation of his territories
+	- [ ] Humayun [ 1530 - 1535 AD , 1555-56 AD ]
+		- [ ] Adminstration
+		- [ ] Conquests
+			- [ ] Early Activities
+			- [ ] Trouble with Afghans
+			- [ ] Fight with Bahadur Shah
+			- [ ] Gujarat Campaign
+			- [ ] Bengal Campaign
+			- [ ] Struggle with Sher Khan
+		- [ ] Art and Architecture
+		- [ ] Cultural Changes
+		- [ ] His Blunders
+		- [ ] Reason for losing the Mughal Throne
+		- [ ] Period of Exile
+		- [ ] Becoming the Emperor Once More
+		- [ ] Death
+- [ ] Sur Empire [ 1540 - 56 AD]
+	- [ ] Who were the Surs?
+	- [ ] Sher Shah's Early Life
+	- [ ] Background of Sher Shah
+	- [ ] His Rise to Power
+	- [ ] 15 Years Rule [ 1540 - 56 AD]
+	- [ ] Contributions of Sher Shah
+	- [ ] Decline
+- [ ] Re-Emergence Under Akbar [ 1556 AD - 1605 AD]
+	- [ ] Who was Akbar?
+	- [ ] Why was he a big deal?
+	- [ ] Consolidation and Expansion
+		- [ ] Conflict with Afghans
+		- [ ] Conflict with Hemu
+		- [ ] Second Battle of Panipat
+		- [ ] Regency
+		- [ ] Revolt of Uzbek Nobles
+		- [ ] Early Expansion under Bairam Khan
+			- [ ] Malwa
+			- [ ] Garh-Katanga
+			- [ ] Rajasthan
+			- [ ] Gujarat
+			- [ ] Eastern India
+	- [ ] Relationship with Rajputs and His Policy 
+	- [ ] Composite Ruling Class
+	- [ ] Rebellions
+	- [ ] Expansion in North West
+	- [ ] His Concept of Suzerainty
+	- [ ] Political Organisation
+	- [ ] Structure of Government
+		- [ ] Central and Provincial
+			- [ ] The Vikalat
+			- [ ] The Central Ministers
+			- [ ] Provincial Government
+			- [ ] District Government
+			- [ ] Local Government
+	- [ ] Working of The Government
+		- [ ] The Ruler
+		- [ ] Land Revenue Handling / System - Todar Mal
+		- [ ] The Dahsala System
+		- [ ] Mansabdari System
+	- [ ] Religious Tolerance
+	- [ ] Relations with Ulamas
+	- [ ] Social Reforms
+	- [ ] His Religious Views 
+		- [ ] Early Phase ( 1556 - 73 )
+		- [ ] Second Phase ( 1573- 80 ) [ The Ibadat Khana]
+		- [ ] Debates [ The Mahzar]
+		- [ ] Breach with Orthodoxy
+		- [ ] Ulama
+		- [ ] Reorganisation of Madadd-i-Maash Grants
+		- [ ] Final Phase [ Din-i-Ilahi ]
+		- [ ] Policies
+		- [ ] Failure of his New Religion
+		- [ ] Reasons for Failure of his Religion
+	- [ ] His Death
+- [ ] The Deccan and The Mughals [ Upto 1657 ]
+	- [ ] State of Deccan upto 1595
+	- [ ] Mughal Advance
+	- [ ] Their Conquest
+		- [ ] Berar
+		- [ ] Khandesh
+		- [ ] Parts of Ahmadnagar
+	- [ ] Rise of Malik Ambar
+	- [ ] Mughal's Consolidation Attempt [ 1601- 27 AD]
+	- [ ] Extinction of Ahmadnagar
+	- [ ] Acceptance of Mughals
+	- [ ] Suzerainty of Bijapur and Golconda
+	- [ ] Shah Jahan and the Deccan
+	- [ ] Cultural Contribution of Deccan States
+- [ ] Foreign Policy of Mughals
+	- [ ] Akbar and Uzbeks
+	- [ ] Question of Qandahar
+	- [ ] Relations with Iran
+	- [ ] Shah Jahan's Balkh Campaign
+	- [ ] Mughal-Persian Relations [ Last Phase ]
+- [ ] Jahangir's Accession
+	- [ ] Early Difficulties
+	- [ ] Sharp Contrast with Akbar
+	- [ ] Conquest
+		- [ ] Mewar
+		- [ ] East India
+		- [ ] Kangra
+	- [ ] Nur Jahan
+	- [ ] Her `Junta`
+	- [ ] Jahangir's Inadequacy
+	- [ ] Jahangir as a Ruler
+	- [ ] Rebellion of Shah Jahan
+	- [ ] Coup De Main of Mahabat Khan
+	- [ ] Religion Conditions
+	- [ ] Social Conditions
+	- [ ] Death and The Aftermath
+- [ ] Shah Jahan 
+	- [ ] Expansion of the Empire
+	- [ ] Evolution of Mughal Ruling Class
+	- [ ] Mansabdari System
+	- [ ] His Failures
+	- [ ] Golden Age of Architecture
+	- [ ] Imprisonment
+- [ ] Aurangazeb
+	- [ ] War of Succession
+	- [ ] Aftermath of the War
+	- [ ] Rise to Power
+	- [ ] Religion Policy [ First Phase ] ( 1658 - 79 AD)
+	- [ ] Various Reforms
+	- [ ] Puritanical Measures
+	- [ ] Destruction of Hindi Temples
+	- [ ] Jizyah [ Second Phase] ( 1679-1707 AD)
+	- [ ] Consolidation and Expansion Of The Empire
+	- [ ] Popular Revolts 
+		- [ ] Jats
+		- [ ] Satnamis
+		- [ ] Afghans
+		- [ ] Sikhs
+	- [ ] Breach with Marwar and Mewar
+	- [ ] Impact of Deccan Conquests
+	- [ ] Causes of Disintegration
+- [ ] The Country During Mughal Rule
+	- [ ] Cultural Evolution
+	- [ ] Economic and Social Conditions
+		- [ ] City and Village Life
+		- [ ] Zamindars
+		- [ ] Life of Peasants
+		- [ ] Status of Women
+		- [ ] Exports and Imports
+		- [ ] Coins
+		- [ ] Labour
+		- [ ] Agriculture
+		- [ ] Manufacturing Industries
+		- [ ] Bengal Subah - ==Wealthiest Province==
+	- [ ] Literature
+		- [ ] Arabic
+		- [ ] Persian
+		- [ ] Accounts by Court Historians
+		- [ ] Foreign Accounts of Mughal Rule
+	- [ ] Mughal Army
+	- [ ] Mughal Arts
+		- [ ] Miniature Painting
+		- [ ] Mughal Architecture
+		- [ ] Monuments
+		- [ ] Traditional Crafts
+	- [ ] Science and Technology
+- [ ] Rise of Marathas 
+	- [ ] Who were the Marathas?
+	- [ ] Early Career of Shivaji
+	- [ ] His Importance
+	- [ ] Treaty of Purandar
+	- [ ] The Agra Visit
+	- [ ] Shivaji's Swarajya
+	- [ ] Administration
+	- [ ] His Achievements
+	- [ ] Aurangazeb and Deccani Sates [ 1658 - 1687 AD]
+	- [ ] Marathas and the Deccan [ 1658 - 1707 AD]
+	- [ ] Assessment of Aurangazeb
+	- [ ] Jagirdari Crisis
+- [ ] Structure of Society and Growth [ Medieval ]
+	- [ ] Rural Society
+	- [ ] State of Towns
+	- [ ] Artisans and Master Craftsmen
+	- [ ] Women
+	- [ ] Servants and Slaves
+	- [ ] Standard of Living
+	- [ ] Ruling Classes
+		- [ ] Nobility
+		- [ ] Rural Gentry
+	- [ ] The Middle Strata
+	- [ ] Commercial Classes
+	- [ ] Guilds
+- [ ] Economic Life [ Medieval ]
+	- [ ] Inland Trade
+	- [ ] Overseas Trade
+	- [ ] Role of Foreign Trading
+	- [ ] Companies
+	- [ ] Position of Indian Merchants Over Land Trade
+	- [ ] The Mughal State and Commerce
+	- [ ] Trend of India's Economy
+	- [ ] Prospects during Early 18th Century
+- [ ] Religion
+	- [ ] Hindu
+	- [ ] Sikh
+	- [ ] Islam
+- [ ] Fine Arts
+	- [ ] Architecture
+	- [ ] Painting
+	- [ ] Languages
+	- [ ] Literature
+	- [ ] Music
+- [ ] Science and Technological Advancements
+- [ ] North India in First Half of Eighteenth Century
+	- [ ] Bahadur Shah I
+	- [ ] Beginning of a Struggle
+	- [ ] Wizarat or Wazirs
+	- [ ] Rajput Affairs
+	- [ ] Marathas and the Deccan
+	- [ ] Accentuation
+	- [ ] Struggle for New Wizarat
+		- [ ] Zulfiqar Khan and Jahandar Shah [ 1712-13  AD]
+		- [ ] Saiyid Brother's Struggle
+	- [ ] Wizarat of Saiyid Brothers
+	- [ ] Wizarat of Nizam-ul-Mulk
+	- [ ] Rise of Regional States
+	- [ ] Beginning of Foreign Invasions [ 1725 AD - 1748 AD ]
+- [ ] Maratha Bid for Supremacy
+	- [ ] 
+	- [ ] 
+	- [ ] Marathas and their Policy of Expansion
+	- [ ] Marathas and Nizam-ul-Mulk
+	- [ ] Advance into Gujarat and Malwa
+	- [ ] Advance into Doab and Punjab
+	- [ ] First Phase [ 1741 AD - 1752 AD ]
+	- [ ] Second Phase [ 1752 AD - 1761 AD]
+	- [ ] Third Battle of Panipat
+
+----
+## Modern History
+
+- [ ] Before the Revolt
+	- [ ] Advent of Europeans
+		- [ ] The Major Powers
+			- [ ] Portuguese
+			- [ ] French
+			- [ ] Dutch
+			- [ ] English
+			- [ ] Danish
+			- [ ] Their activities
+	- [ ] Anglo-French Wars
+	- [ ] Carnatic Wars
+	- [ ] The Significance of Anglo-French War
+	- [ ] The Significance of Carnatic Wars
+	- [ ] Weak Mughal Rulers After Aurangazeb
+	- [ ] Reason for their failure
+	- [ ] Rise of Regional Kingdoms
+		- [ ] Bengal
+		- [ ] Hyderabad
+		- [ ] Awadh
+	- [ ] Establishment of British Empire
+		- [ ] Battle of Plassey
+		- [ ] Battle of Buxar
+		- [ ] The Important of Battle of Plassey
+		- [ ] The Importance of Battle of Buxar
+		- [ ] Conquests
+			- [ ] Mysore
+			- [ ] Maratha
+			- [ ] Sikh
+			- [ ] Afghan Wars
+		- [ ] Innovative Administrative Policies
+		- [ ] Policy of Ringfence
+		- [ ] Subsidiary Alliance
+		- [ ] Doctrine of Lapse
+- [ ] Revolt of 1857
+	- [ ] Causes of the Revolt
+	- [ ] Spread of the Revolt
+	- [ ] Nature of the Revolt
+	- [ ] Consequences
+	- [ ] Importance Personalities
+	- [ ] Area of Revolt
+- [ ] Socio-Religious Movements
+	- [ ] Important Leaders
+	- [ ] Their policies
+	- [ ] Condemned Practices
+	- [ ] Important Associations
+	- [ ] Nature of Reforms
+	- [ ] Various Takes on Reforms
+		- [ ] Based on Old Texts
+		- [ ] Based on Modern Conditions
+	- [ ] Role in Nationalism
+- [ ] Modern Nationalism
+	- [ ] Pre-Indian National Congress Organizations
+	- [ ] Newspapers
+	- [ ] Factors of Growth of Nationalism
+- [ ] Indian National Congress [ Moderate Phase ]
+	- [ ] Foundation of Indian National Congress
+	- [ ] Approach they followed
+	- [ ] Ideology
+	- [ ] Important Leaders
+	- [ ] Contribution of the Party
+	- [ ] Economic Criticism of British Rule
+- [ ] Indian National Congress [ Extremist Phase ] ( 1905- 1918 )
+	- [ ] Rise of Extremism
+	- [ ] Partition of Bengal
+	- [ ] Anti-Partition Movement
+	- [ ] Swadeshi Movement
+	- [ ] Surat Split
+	- [ ] Minto Morley Reforms
+- [ ] Revolutionary Activism
+	- [ ] Bengal
+	- [ ] Maharashtra
+	- [ ] Punjab
+	- [ ] Abroad
+	- [ ] Important Leaders
+	- [ ] Important Activities
+- [ ] World Events and Nationalist Response
+	- [ ] World War I and Our Response
+	- [ ] Home Rule Movement
+	- [ ] Lucknow Pact
+	- [ ] Russian Revolution and Its Impact
+	- [ ] Montague Chelmsford Reforms
+- [ ] Emergence of Gandhi as a Leader
+	- [ ] Experience in South Africa
+	- [ ] Emergence of Satyagraha
+	- [ ] Experiments in India
+		- [ ] Champaran
+		- [ ] Kheda
+		- [ ] Ahmedabad
+	- [ ] Why was he important?
+	- [ ] His Impact
+	- [ ] Were there any shortcomings?
+- [ ] Non-Cooperation Movement
+	- [ ] Rowlatt Act
+	- [ ] Jalianwala Bagh Massacre
+	- [ ] Khilafat Movement
+	- [ ] Reasons for the Movement
+	- [ ] Course of the Movement
+	- [ ] Results of the Movement
+	- [ ] Impact
+	- [ ] Participation of Masses
+	- [ ] Withdrawal
+	- [ ] Reasons for Withdrawal
+- [ ] Phase in-between Non-Cooperation Movement and Civil Disobedience Movement
+	- [ ] Swarajists and Swaraj Party
+	- [ ] No Changers
+	- [ ] Emergence of Socialists
+	- [ ] Emergence of Marxist Ideas
+	- [ ] Peasant,Trade and Caste Movements
+	- [ ] Revolutionary Activity [ Second Phase ]
+- [ ] Civil Disobedience Movement
+	- [ ] Kickoff of Civil Disobedience Movement
+		- [ ] Simon Commission
+		- [ ] Nehru Report and Response
+		- [ ] Lahore Session
+		- [ ] Poorna Swaraj
+	- [ ] Spread of Civil Disobedience Movement
+	- [ ] Government Response to Civil Disobedience Movement
+	- [ ] Gandhi-Irwin Pact
+	- [ ] Round Table Conferences
+	- [ ] Communal Award
+	- [ ] Poona Pact
+	- [ ] Gandhi Harijan Campaign
+- [ ] Post Civil Disobedience Movement
+	- Government of India Act 1935
+	- Council Entry
+	- Congress Performance
+	- Congress Rule in Provinces
+- [ ] India during `1939-1947`
+	- [ ] Nationalist Response to World War II
+	- [ ] Popular Struggles in Princely States
+	- [ ] Subash Chandra Bose's Ideology
+	- [ ] Gandhi's Ideology
+	- [ ] Nehru's Ideology
+	- [ ] August Offer
+	- [ ] Individual Satyagraha
+	- [ ] Cripps Mission
+	- [ ] Quit India Movement
+		- [ ] Causes
+		- [ ] Course
+		- [ ] Result
+		- [ ] Resolution
+		- [ ] Mass Participation
+	- [ ] Wavell Plan
+	- [ ] Indian National Army [ 1st Phase ] [ Arrival of Bose ]
+	- [ ] Elections
+		- [ ] Congress's Performance
+		- [ ] League's Performance
+- [ ] Partition of India
+	- [ ] Rise of Communalism
+	- [ ] Wavell Plan
+	- [ ] Cabinet Mission Plan
+	- [ ] Atlee Statement
+	- [ ] Mountbatten Plan
+- [ ] `India Independence Act`
+- [ ] During Freedom Struggle
+	- [ ] Indian Renaissance
+	- [ ] Tribal Movements During British Period
+	- [ ] Working Class Movement [ 1850 -1900 AD]
+	- [ ] Press During British period
+	- [ ] Education During British Period
+	- [ ] Role of Women in Freedom Struggle
+- [ ] Governor Generals of India
+- [ ] Viceroys of India
+- [ ] Important Persons
+- [ ] Important Newspapers/Journals
+- [ ] Congress Sessions
+
+## Post Independence India
+
+- [ ] Re-Organisation of Indian States
+	- [ ] Constitutional Provisions related to State Formations
+	- [ ] Factors that lead to Merger
+	- [ ] Accession of Princely States
+	- [ ] Accession of States Under French and Portuguese
+	- [ ] Accession of Sikkim
+	- [ ] Rehabilitation of Refugees
+	- [ ] Federal Crisis
+	- [ ] Regional Aspirations, Insurgencies and Areas of Tension
+	- [ ] Accommodation
+	- [ ] National Integration
+- [ ] Linguistic Regionalism
+	- [ ] Meaning
+	- [ ] Constitutional Position
+	- [ ] Language Policy
+	- [ ] Language and Regionalism
+	- [ ] Recent Controvery Due to Rise of Hindi
+- [ ] Tribal Issue and Policy Consolidation
+	- [ ] Issues
+	- [ ] Present Status
+	- [ ] Policy Consolidation
+- [ ] Issue of Women and Evolution of Women Movement
+	- [ ] Issues
+	- [ ] Challenges
+	- [ ] Women Movement
+	- [ ] Government Policy Response and Legislation
+	- [ ] Governmental Schemes
+	- [ ] Were they successful?
+- [ ] Problem of Caste and Social Consolidation
+	- [ ] Case Practices
+	- [ ] Ambedkar Movement
+	- [ ] Significance of Ambedkar Movement
+	- [ ] Constitutional Provisions
+	- [ ] Recent Government Initiatives for Scheduled Castes
+	- [ ] Issues of Manual Scavenging
+- [ ] Communalism and Social Consolidation
+	- [ ] Secularism
+	- [ ] It's Importance
+	- [ ] Causes of Communalism
+	- [ ] Consequences of Communalism
+	- [ ] Social Consolidation
+- [ ] Linguistic Minorities
+	- [ ] Their Issues
+	- [ ] Operational Inefficiency
+	- [ ] Government Initiatives
+	- [ ] Results
+- [ ] Economic Development
+	- [ ] Planning In India
+	- [ ] Results
+- [ ] Agriculture
+	- [ ] Industry
+	- [ ] Service Sector
+	- [ ] Journey Through Five Year Plans
+	- [ ] Land Reforms
+	- [ ] Green Revolution
+	- [ ] Post Green Revolution Agricultural Issues
+	- [ ] Agrarian Movements
+	- [ ] Achievements in Agriculture Since Independence
+	- [ ] Recent Challenges
+- [ ] Industry
+	- [ ] Industrial Development Since Independence
+	- [ ] Public Sectors
+	- [ ] Sectoral Development
+	- [ ] Private Sectors
+	- [ ] Industrial Policy
+	- [ ] Make in India
+- [ ] New Economic Policy
+	- [ ] Emergence
+	- [ ] Course
+	- [ ] Impact
+- [ ] Science and Technology
+	- [ ] India's Policy in Science and Technology
+	- [ ] Institutional Framework for Science and Technology Development
+	- [ ] State of Science and Technology during the Pre-Reform Period
+	- [ ] Impact of Economic Reform on Science and Technology
+	- [ ] New Policy Initiatives
+	- [ ] Agenda of Skill Training
+
+----
+
+
+## Indian Art and Culture
+
+- [ ] Visual Art
+	- [ ] Indus Valley Civilization
+		- [ ] Sculptures of Harappan Civilization
+		- [ ] Figurines
+		- [ ] Seals
+		- [ ] Significance
+		- [ ] Location
+	- [ ] Sculptures of Mauryan Age
+	- [ ] Post-Mauryan Period
+		- [ ] Gandhara School of Art
+		- [ ] Mathura School of Art
+		- [ ] Amaravati School of Art
+		- [ ] Rock Cut Caves
+	- [ ] Jain Sculptures
+	- [ ] Buddhist Sculptures
+	- [ ] Gupta Sculptures
+		- [ ] Cave Art
+			- [ ] Ajanta
+			- [ ] Ellora
+			- [ ] Bagh
+			- [ ] Nasik
+			- [ ] Others
+	- [ ] Medieval School of Sculpture
+	- [ ] Modern Indian Sculpture
+- [ ] Architecture in Ancient India
+	- [ ] Harappa Period
+		- [ ] Significance
+		- [ ] Location
+		- [ ] Important Features
+	- [ ] Mauryan Architecture
+		- [ ] Ashokan Pillars
+		- [ ] Stupas
+		- [ ] Cave
+	- [ ] Buddhist Architecture
+		- [ ] Chaitiyas
+		- [ ] Viharas
+	- [ ] Jainist Architecture
+	- [ ] Post Mauryan Architecture
+		- [ ] Gandhara School of Art
+		- [ ] Mathura School of Art
+		- [ ] Amaravati School of Art
+		- [ ] Rock Cut Caves
+	- [ ] Gupta Period
+		- [ ] Cave Architecture
+			- [ ] Ajanta
+			- [ ] Ellora
+			- [ ] Bagh
+			- [ ] Nasik
+			- [ ] Others
+	- [ ] Temples of Khajuraho
+	- [ ] Temples of Odisha
+	- [ ] Temples of Gwalior
+	- [ ] Temples of Gujarat
+	- [ ] Temples of Rajasthan
+	- [ ] Temples of Bengal
+	- [ ] Temples of Assam
+	- [ ] Temples of Himachal Pradesh
+	- [ ] Temples of Jammu and Kashmir
+	- [ ] Pallava Period
+	- [ ] Chola Period
+	- [ ] Pandya Temples
+	- [ ] Vijayanagar Period
+	- [ ] Nayaka Temples
+	- [ ] Temples of Kerala
+	- [ ] Vesara Style
+	- [ ] Hoysala Style
+	- [ ] Rashtakuta Period
+- [ ] Indo-Islamic Architecture
+	- [ ] Imperialist Style [ Delhi Sultanate]
+		- [ ] Different Characteristics
+		- [ ] Introduction of New Features By Different Dynasties
+		- [ ] Mamluks
+		- [ ] Khiljis
+		- [ ] Lodhis
+	- [ ] Provincial Styles
+		- [ ] Bengal 
+		- [ ] Malwa
+		- [ ] Rajputana
+	- [ ] Mughal Style
+		- [ ] Features
+		- [ ] Important Structures
+	- [ ] Sikh Architecture
+	- [ ] Rajput Architecture
+	- [ ] Salient Features
+- [ ] Modern Architecture
+	- [ ] European Influence
+	- [ ] Indo-Saracenic Architecture
+	- [ ] Post-Independence Period
+- [ ] Indian Paintings
+	- [ ] Tradition of Mural Paintings
+	- [ ] Tradition of Miniature Painting
+	- [ ] Pre-Histoic Paintings
+		- [ ] Cave Paintings
+			- [ ] Paleolithic
+			- [ ] Mesolithic
+			- [ ] Neolithic
+			- [ ] Chalcolithic
+			- [ ] Their Location
+			- [ ] Colors
+			- [ ] Themes
+		- [ ] Mural Paintings
+			- [ ] Ajanta
+			- [ ] Ellora
+			- [ ] Sittanavasal
+			- [ ] Others
+	- [ ] Paintings in the Deccan
+	- [ ] Rajput School of Painting
+	- [ ] Pahari School of Painting
+	- [ ] Miniature Painting in Mughal Era
+	- [ ] Miniature Painting in South India
+	- [ ] Regional Paintings
+		- [ ] Different Schools
+			- [ ] Rajasthani
+			- [ ] Pahari
+			- [ ] Kishangarh
+			- [ ] Bundi
+			- [ ] Kangra
+			- [ ] Basholi
+			- [ ] Tanjore
+	- [ ] Folk Paintings
+		- [ ] Madhubani
+		- [ ] Pattachitra
+		- [ ] Kalighat
+		- [ ] Pattua
+		- [ ] Kalamkari
+		- [ ] Warli
+	- [ ] Modern Paintings
+	- [ ] Contemporary Paintings
+- [ ] Indian Pottery
+	- [ ] Ochre Coloured Pottery [ OCP ]
+	- [ ] Black and Red Ware [ BRW ]
+	- [ ] Painted GreyWare [ PGW ]
+	- [ ] Northern Black Polished Ware [ NBPW ]
+	- [ ] Glazed and Unglazed Pottery
+- [ ] Music in India
+	- [ ] Main Pillars of Indian Music
+	- [ ] Forms of Indian Music
+		- [ ] Classical
+			- [ ] Hindusthani
+			- [ ] Carnatic Forms
+			- [ ] Their Features
+			- [ ] Their Styles
+		- [ ] Folk Music
+			- [ ] Pandwani
+			- [ ] Lavani
+			- [ ] Dandiya
+			- [ ] Wanawan
+			- [ ] Khonjom
+			- [ ] Parwa
+			- [ ] Others
+	- [ ] Musical Instruments
+	- [ ] Institutions Realted to Music
+- [ ] Dances in India
+	- [ ] Concept of Dance in India
+	- [ ] Concept of Ashta Nayika 
+	- [ ] Eight Classical Dance Forms In India
+		- [ ] Bharatanatyam
+		- [ ] Kuchipudi
+		- [ ] Mohiniyattam
+		- [ ] Odissi
+		- [ ] Kathkali
+		- [ ] Sattriya
+		- [ ] Manipuri
+		- [ ] Kathak
+	- [ ] Folk Dances
+		- [ ] Chauu
+		- [ ] Raslila
+		- [ ] Garba
+		- [ ] Dandiya
+		- [ ] Ghoomar
+		- [ ] Padayani
+		- [ ] Others
+	- [ ] Modern Dances
+- [ ] Martial Arts
+	- [ ] Genesis of Martial Arts
+	- [ ] Forms of Traditional Martial Arts
+- [ ] Indian Theatre
+	- [ ] Ritual Thatres of Different Traditions
+		- [ ] Ankianat
+		- [ ] Ramlila
+		- [ ] Others
+	- [ ] Entertainment Theatre Forms
+		- [ ] Tamasha
+		- [ ] Nautanki
+		- [ ] Swang
+	- [ ] Classical Sanskrit Theatre
+	- [ ] Regional Theatre
+	- [ ] Modern Theatre
+	- [ ] Renaissance of Indian Theatre
+- [ ] Indian Puppetry
+	- [ ] String Puppets
+		- [ ] Kathpuli
+		- [ ] Bommalatam
+	- [ ] Shadow Puppets
+		- [ ] Ravan Chayya
+		- [ ] Togalu Gombayetta
+	- [ ] Rod Puppets
+		- [ ] Putul Nautch
+		- [ ] Yampuri
+	- [ ] Glove Puppets
+	- [ ] Modern Puppetry
+	- [ ] Tribal Puppetry
+- [ ] Indian Cinema
+	- [ ] Cinema in India
+	- [ ] History of Indian Cinema
+	- [ ] Classification of Indian Cinema Film
+	- [ ] Film Music of India
+- [ ] Fairs & Festivals
+	- [ ] Important Tribal Festivals
+	- [ ] Northeast Festivals
+		- [ ] Losar
+		- [ ] Wangala
+		- [ ] Bihu
+- [ ] Religions in India
+	- [ ] Pre-vedic Religion
+	- [ ] Hinduism
+	- [ ] Buddhism
+	- [ ] Jainism
+	- [ ] Sikhism
+	- [ ] Islam
+	- [ ] Christianity
+	- [ ] Zoroastrianism
+	- [ ] Judaism
+	- [ ] Philosophy in India
+- [ ] Bhakthi and Sufi Movements
+	- [ ] Bhakthi Movement
+	- [ ] Importance
+	- [ ] Vaishnava Acharyas
+	- [ ] Metaphysical Foundation
+	- [ ] Others Saints of Bhakthi Movement
+	- [ ] Maharashtra Dharma
+	- [ ] Sufism
+- [ ] Languages and Literature in India
+	- [ ] Ancient India
+		- [ ] Vedas
+		- [ ] Brahmanas
+		- [ ] Aryanyakas
+		- [ ] Upanishads
+		- [ ] Ramayana
+		- [ ] Mahabharatha
+		- [ ] Puranas
+	- [ ] Sanskrit Literature
+		- [ ] Prose
+		- [ ] Drama
+		- [ ] Poetry
+	- [ ] Works of Court Poets
+		- [ ] Kalidasa
+		- [ ] Sudraka
+		- [ ] Bhasa of Ancient
+		- [ ] Medieval Indian Poets
+	- [ ] Pali Literature
+	- [ ] Prakrit Literature
+	- [ ] Jain Texts
+		- [ ] Angas
+		- [ ] Upangas
+	- [ ] Buddhist Texts
+		- [ ] Cannonical [ Tripitakas ]
+		- [ ] Non-Cannonical [ Jatakas ]
+	- [ ] Tamil Literature
+	- [ ] Telugus Literature
+	- [ ] Malayalam Literature
+	- [ ] Kannada Literature
+	- [ ] Odia Literature
+	- [ ] Assamese Literature
+	- [ ] Bengali Literature
+	- [ ] Gujarati Literature
+	- [ ] Rajasthani Literature
+	- [ ] Punjabi Literature
+	- [ ] Marathi Literature
+	- [ ] Hindi Literature
+	- [ ] Persian Literature
+	- [ ] Urdu Literature
+- [ ] Persian / Arabic Literature
+	- [ ] Works of Court Historians
+		- [ ] Delhi Sultanate
+		- [ ] Mughals
+		- [ ] Bahminis
+- [ ] Miscellanous Topics
+	- [ ] Indian Handicrafts
+	- [ ] Indian Universities
+	- [ ] Personalities Related to Culture
+	- [ ] Places of Cultural Interest
+	- [ ] Fairs and Festivals in India
+	- [ ] Cultural Institutions in India
+	- [ ] Awards and Honours Associated with Culture
+	- [ ] The Calendar
+	- [ ] The Eras
+	- [ ] Science and Technology In Ancient India
+	- [ ] UNESCO's List of Cultural Heritage in India
+	- [ ] Legal Provisions Related to the Protection
+	- [ ] Promotions of Indian Culture and Heritage
+- [ ] Recent Developments
+	- [ ] Schemes of Cleanliness of Tourist Places
+		- [ ] Swachh Bharat
+			- [ ] Swachh Smarak
+			- [ ] Swachh Pakwan [ Hunar Zaika ]
+			- [ ] Swachh Partyatan
+			- [ ] Swachh Smarak Swatchh Bharat App
+	- [ ] National Tourism Policy, 2015
+	- [ ] Schemes of Developemtn of Cultural Heritage
+		- [ ] Sanskriti App
+		- [ ] Cultural Mapping of India
+		- [ ] Cultural Heritage Youth Leadership Programme
+		- [ ] Preservation of Cultural Heritage of Himalayas
+		- [ ] Nearly 100 Mounments Identified for Portal on "Must See Monuments"
+	- [ ] Schemes for Monument Development
+		- [ ] HRIDAY
+		- [ ] SWADESH DARSHAN
+		- [ ] PRASAD SCHEME
+		- [ ] Adarsh Smarak Yojana
+		- [ ] Monuments of National Importance
+	- [ ] Cultural Scheme Monitoring System
+	- [ ] Schemes for Promotion of Culture
+		- [ ] Culture Ministry To Grade Artists, Writers for Selection Process
+		- [ ] Schemes for Serious Literature
+		- [ ] National Mission on Monuments and Antiquities
+		- [ ] National Mission on Manuscripts
+		- [ ] National Mission on Libraries
+		- [ ] Gandhi Heritage Sites Mission
+	- [ ] International Initiatives for Cultural Development and Recognition
+		- [ ] Project Mausam
+		- [ ] International Buddhism Conclave
+		- [ ] World's Heritage
+		- [ ] UNESCO Inscribes Yoga in Representative List of Intangible Cultural Hertiage of Humanity
+		- [ ] UNESCO Creative Cities Network
+		- [ ] UNESCO Global Geopark
+	- [ ] National Virtual Library of India
+		- [ ] Animal Sports in India
+		- [ ] Jallikattu
+		- [ ] Kambala
+		- [ ] Bulbul Fight
+		- [ ] Bullock Cart Racing
+	- [ ] GI Tag
+		- [ ] Definition
+		- [ ] GI vs Trademark
+		- [ ] Rights under GI
+		- [ ] Famous Goods
+		- [ ] Latest Addition
+	- [ ] Festivals in News
+	- [ ] International Yoga Day
+	- [ ] Rashtriya Yoga Day
+	- [ ] Rashtriya Ekta Diwas
+	- [ ] Buddhist Circuit
+- [ ]   ==Focus Areas==
+	- [ ] 
+	- [ ] Indus Valley Civilization
+		- [ ] Presence/Absence
+			- [ ] Items
+			- [ ] Practices
+			- [ ] Sites
+		- [ ] Ancient / Medieval Terms
+			- [ ] Professions
+			- [ ] Govt Departments
+		- [ ] Timeline / Contemporaries
+		- [ ] Sites/Ports
+			- [ ] Significance
+			- [ ] Location
+	- [ ] Literary Works / Recent Trend
+	- [ ] Religious Doctrines in News
+	- [ ] Buddhism [ Short Questions ]
+	- [ ] Jainism [ Short Questions ] 
+	- [ ] Architecture
+	- [ ] Inscriptions
+	- [ ] Communities / States and their Festivals
+
+----
+
+
+## World History
+
+- [ ] Beginning of Modern Age
+	- [ ] Disintegration of the Feudal System 
+	- [ ] Renaissance 
+	- [ ]  Humanism 
+	- [ ] Art and Architecture
+	- [ ] Literature
+	- [ ] Science
+	- [ ] Reformation etc
+	- [ ] Explorations, Discovery, Trade 
+	- [ ] Colonization – Rise of Nation State 
+	- [ ] The English Revolution
+- [ ] French Revolution
+	- [ ] 
+	- [ ] Causes                                                          
+	- [ ] The revolution in France                             
+	- [ ] France under Napoleon                              
+	- [ ]  Impact of revolution                                  
+	- [ ] Significance of revolution                              
+- [ ] Nationalism in Europe
+	- [ ] Rise of the nation- state system
+	- [ ] Unification of Italy
+	- [ ] Unifi cation of Germany
+- [ ] Colonialism and Imperialism
+	- [ ] Colonialism
+	- [ ] The Age of Imperialism (1870-1914)
+	- [ ] Imperialism in Asia
+	- [ ] Analysis of Colonialism
+- [ ] Emergence of USA
+	- [ ] Foundation of American Colonies
+	- [ ] The Independence of United States of America
+	- [ ] The American Revolutionary War
+		- [ ] Impact 
+		- [ ] Political Effects
+		- [ ] Influence of this war on French Revolution
+	- [ ] US Civil War
+	- [ ] Impact of Civil War on USA
+	- [ ] Global Impact of US Civil War
+	- [ ] Impact on India
+- [ ] World War I 
+	- [ ] Major causes of the War
+	- [ ] Course of the War
+	- [ ] Analysis of Major Events of the War
+	- [ ] Consequences
+	- [ ] Aftermath
+	- [ ] League of Nations
+		- [ ] Formation
+		- [ ] Problems Solved
+		- [ ] Problems Worsened
+		- [ ] Reasons for Failure
+		- [ ] Criticism
+- [ ] Russian Revolution
+	- [ ] Major events in Pre-Revolution Russia
+	- [ ] Causes
+	- [ ] Course of Revolution
+	- [ ] Consequences
+	- [ ] Aftermath
+	- [ ] Post-Lenin Russia
+- [ ] Inter-War Years [1919 to 1939]
+	- [ ] The Great Depression
+	- [ ] An Economic Perspective of Great Depression
+	- [ ] Rise of Fascism in Italy
+	- [ ] Rise of Nazism in Germany
+	- [ ] Soviet Union [ USSR ]
+- [ ] World War II
+	- [ ] Foundations Of The War
+	- [ ] Course Of The War
+	- [ ] Aftermath Of War
+	- [ ] Analysis Of The War
+	- [ ] Decolonization Phase
+- [ ] Development in Middle East
+	- [ ] Democratic Reforms in Middle East
+	- [ ] Arab Nationalism
+	- [ ] Israel
+- [ ] Cold War
+	- [ ] Reasons
+	- [ ] Developments of Cold War [ 1945 - 1953 ]
+	- [ ] To what extent was there a thaw in 1953?
+	- [ ] Nuclear Arms Race
+	- [ ] Cuban Missile Crisis [ 1962 ]
+- [ ] Post Cold-War World
+	- [ ] Global Issues Since 1991
+	- [ ] Integration of Europe
+	- [ ] European Integration -  A Timeline
+	- [ ] Rise of Global Islamic Terrorism
+	- [ ] Rise of China
+- [ ] Communism, Socialism and Capitalism
+	- [ ] 
+	- [ ] 
+	- [ ] Capitalism
+		- [ ] Concept
+		- [ ] Types
+		- [ ] Examples
+	- [ ] Communism
+		- [ ] Concept
+		- [ ] Types
+		- [ ] Examples
+	- [ ] Relevance of Capitalism in Present Era
+
+----
+
+# Geography 
+## Physical Geography
+
+### ==Geomorphology==
+
+- [ ] The Origin Of Earth
+	- [ ] Early Theories
+	- [ ] Modern Theories
+	- [ ] Big Bang Theory
+	- [ ] Star Formation
+	- [ ] Formation of Planets
+- [ ] Solar System
+	- [ ] Planets
+	- [ ] Stars
+	- [ ] Satellites
+	- [ ] Other Features
+- [ ] The Evolution of Earth
+	- [ ] Layered Structure [ 5 Layers ]
+	- [ ] Evolution of Lithosphere
+	- [ ] Evolution of Atmosphere
+	- [ ] Evolution of Hydrosphere
+- [ ] Geological History Of The Earth
+- [ ] Earth
+	- [ ] Latitude
+	- [ ] Longitude
+	- [ ] Important Parallels
+	- [ ] Important Meridians
+	- [ ] Motions of the Earth
+		- [ ] Rotation
+		- [ ] Revolution
+		- [ ] Their Effects
+	- [ ] Inclination of Earth's Axis
+	- [ ] The Effects of Inclination
+	- [ ] Local Time
+	- [ ] Standard Time
+	- [ ] International Date Line
+	- [ ] Calendar
+	- [ ] Eclipses 
+		- [ ] Solar
+		- [ ] Lunar
+		- [ ] Differences
+		- [ ] Effects
+- [ ] Origin of Life
+- [ ] Geological Time Scale
+- [ ] Interior of the Earth
+	- [ ] Sources of Information
+		- [ ] Direct
+		- [ ] Indirect
+			- [ ] Earth Quake Waves
+			- [ ] Volcanoes
+			- [ ] Others
+	- [ ] Crust
+	- [ ] Mantle
+	- [ ] Core
+- Indian Physical Geography
+	- Location
+		- Mainland
+		- Oceans
+		- Island Extensions
+	- Structure
+		- The Peninsular Block
+		- The Himalayas
+		- Other Peninsular Mountains
+		- Indo-Ganga-Brahmanputra Plain
+	- Physiography
+		- Northern Mountains
+		- North-Eastern Mountains
+		- The Northern Plain
+		- The Peninsular Plateau
+		- The Indian Desert
+		- The Coastal Plains
+		- The Islands
+	- Drainage Systems
+		- Himalayan Drainage System
+			- Source of Origin
+			- Tributaries
+		- Peninsular Drainage System
+			- Distributaries
+			- Dams 
+			- Irrigation Canals
+			- Hydro Electric Projects
+			- Source of Origin
+		- Smaller Rivers Flowing Towards the West
+			- Water Ways
+			- Flows Through State?
+			- National Parks
+			- Wild Life Sanctuaries
+		- Smaller Rivers Flowing Towards the East
+			- Border Sharing
+			- Important Drainage Patterns
+	- Climate
+		- Factors Determining It
+			- Factors
+			- Factors related to Location and Relief
+			- Factors related to Air Pressure and Wind
+		- Mechanism of Weather in Winter Season
+		- Mechanism of Weather in Summer Season
+		- Mechanism of South West Monsoon
+		- Mechanism of Retreating Monsoon
+		- The Rhythm of Seasons
+			- Cold Weather Seasons
+			- Hot Weather Seasons
+			- Southwest Monsoon Seasons
+			- Retreating Monsoon Seasons
+		- Famous Local Storms of Hot Weather Season
+		- Characteristics of Monsoonal Rainfall
+		- Traditional Indian Seasons
+		- Distribution of Rainfall
+		- Climatic Regions of India
+	- Forests
+		- Types of Forests
+			- Tropical Evergreen
+			- Semi Evergreen
+			- Tropical Deciduous
+			- Tropical Thorn
+			- Montane
+			- Littoral and Swamp
+		- Their Climatic Conditions
+		- Their Characteristics
+		- Their Distribution
+	- Soil
+		- Classification of Soil
+		- Soil Genesis
+		- Characteristics
+		- Distribution
+	- Agriculture
+		- Types of Farming
+		- Cropping Seasons in India
+		- Cropping Pattern
+		- Agro-Climate of India
+		- Conditions Required for Crop Cultivation
+		- Irrigation System
+	- Resources
+		- Their distribution
+		- Forest and Wildlife Resources
+		- Water Resources
+		- Minerals
+		- Energy Resources
+	- Industries
+		- Primary
+		- Secondary
+		- Tertiary
+
+
+----
+
+### ==Geology==
+- [ ] Minerals
+- [ ] Major Elements of Earth's Crust
+	- [ ] Minerals 
+		- [ ] Feldspar
+		- [ ] Quartz
+		- [ ] Pyroxene Amphibole
+		- [ ] Mica
+		- [ ] Olivine
+	- [ ] Physical Characteristics
+		- [ ] Crystal Form
+		- [ ] Cleavage Fracture
+		- [ ] Lusture
+		- [ ] Color
+		- [ ] Streak
+	- [ ] Transparency
+	- [ ] Structure
+	- [ ] Hardness
+	- [ ] Specific Gravity
+	- [ ] Metallic Minerals
+		- [ ] Precious Ferrous
+		- [ ] Non Ferrous
+	- [ ] Non Metallic Minerals
+		- [ ] Sulphur
+		- [ ] Phospates
+		- [ ] Cement
+- [ ] Rocks [ Aggregate of Minerals ]
+	- [ ] Petrology
+	- [ ] Rocks and Landforms
+	- [ ] Rocks and Soil
+	- [ ] Family of Rocks [ 3 ]
+		 - [ ] Igneous
+		 - [ ] Sedimentary
+		 - [ ] Metamorphic
+	- [ ] Rock Cycle
+- [ ] Earthquakes
+	- [ ] Waves
+		- [ ] P Waves
+		- [ ] S Waves
+		- [ ] Body
+		- [ ] Surface
+	- [ ] Shadow Zone
+	- [ ] Types of Earthquakes
+	- [ ] Effects
+	- [ ] Frequency
+	- [ ] Locating an Epicentre
+- [ ] Volcanoes
+	- [ ] Types
+		- [ ] Shield
+		- [ ] Composite
+		- [ ] Caldera
+		- [ ] Flood Basalt
+		- [ ] Mid Ocean Ridge
+	- [ ] Landforms [ Intrusive ]
+		- [ ] Batholiths
+		- [ ] Lacoliths
+		- [ ] Lapoliths
+		- [ ] Phacoliths
+		- [ ] Sills
+		- [ ] Dykes
+- [ ] Geomorphic Processes
+	- [ ] Earth's Surface
+		- [ ] Exogenic Forces
+		- [ ] Endogenic Forces
+		- [ ] Gradation
+		- [ ] Degradation
+		- [ ] Agradation
+	- [ ] Geomorphic Process
+		- [ ] Endogenic Process
+			- [ ] Diastrophism
+				- [ ] Orogenic
+				- [ ] Epierogenic
+				- [ ] Plate Movements
+			- [ ] Volcanism
+		- [ ] Exogenic Forces
+			- [ ] Denudation Processes
+				- [ ] Weathering
+				- [ ] Mass Movement
+				- [ ] Erosion Transportation and Deposition
+- [ ] Distribution of Continents & Oceans
+	- [ ] Theories
+		- [ ] Continental Drift Theory
+			- [ ] Alfred Wegner [ 1912 ]
+			- [ ] Pangea , Panthalasa
+			- [ ] Laurasia , Gondwana Land
+		- [ ] Evidence in Support of Continental Drift Theory
+			- [ ] Jigsaw Fit
+			- [ ] Rocks of Same Age Across Oceans
+			- [ ] Tillite
+			- [ ] Placer Deposits
+			- [ ] Distribution of Fossils
+		- [ ] Forces of Drifting
+			- [ ] Pole Fleeing Force
+			- [ ] Tidal Force
+		- [ ] Post Drift Studies
+			- [ ] Convectional Current Theory
+			- [ ] Mapping of the Ocean Floor
+	- [ ] Continents - Plate Tectonics
+		- [ ] Lithospheric Plates
+		- [ ] Major Plate
+		- [ ] Minor Plate
+	- [ ] Plate Boundaries
+		- [ ] Divergent
+		- [ ] Convergent
+		- [ ] Transform
+	- [ ] Rates of Plate Movements
+	- [ ] Force of Plate Movements
+	- [ ] Indian Plate
+		- [ ] Movement from 71 Million Years Ago Until Today
+- [ ] Landforms and Their Evolution
+	- [ ] Causes
+		- [ ] Geomorphic Processes
+		- [ ] Agents
+	- [ ] Geomorphic Agents
+		- [ ] Erosional or Destructional
+		- [ ] Depositional or Constructional
+	- [ ] Agents and their Impacts
+		- [ ] Wind
+		- [ ] Running Water
+		- [ ] Ground Water
+		- [ ] Glaciers
+		- [ ] Waves
+		- [ ] Currents
+	- [ ] Winds
+		- [ ] One of the two dominant agents in Hot Deserts
+		- [ ] Cause
+			- [ ] Deflation
+			- [ ] Abrasion
+			- [ ] Impact
+		- [ ] Erosional Landforms
+			- [ ] Pediments
+			- [ ] Pedi Plains
+			- [ ] Playas
+			- [ ] Deflation Hollows
+			- [ ] Caves
+			- [ ] Mushroom
+			- [ ] Table
+			- [ ] Pedestal Rocks
+		- [ ] Depositional Landforms
+			- [ ] Barchans
+			- [ ] Seif
+			- [ ] Parabolic
+			- [ ] Transverse
+			- [ ] Longitudinal
+	- [ ] Running Water
+		- [ ] Humid Regions
+		- [ ] 2 Components
+			- [ ] Overland Flow - Sheet
+			- [ ] Linear Flow - Strems
+		- [ ] Stages
+			- [ ] Youth
+			- [ ] Mature
+			- [ ] Old
+		- [ ] Erosional Landforms
+			- [ ] Valleys
+				- [ ] Rills
+				- [ ] Gullies
+				- [ ] Types
+					- [ ] V Shape
+					- [ ] Gorge [ Hard Rocks ]
+					- [ ] Canyon [ Sedimentary ]
+			- [ ] Potholes
+			- [ ] Plunge Pools
+			- [ ] Incised or Entrenched Meanders
+			- [ ] River Terraces
+				- [ ] Paired
+				- [ ] Unpaired
+		- [ ] Depositional Landforms
+			- [ ] Alluvial Fans
+			- [ ] Delta
+			- [ ] Flood Plains
+			- [ ] Natural Levees
+			- [ ] Point Bars
+			- [ ] Meansders
+			- [ ] Slip Off Bank
+			- [ ] Under Cut Bank
+			- [ ] Oxbow Lake
+			- [ ] Braided Channels
+		- [ ] Ground Water [ Karst Topography ]
+			- [ ] Permeable Rocks
+				- [ ] Percolation
+				- [ ] Bedding Plains
+			- [ ] Limestone and Dolomite Regions
+				- [ ] Balkans
+				- [ ] Adjacent to Adriatic Regions
+			- [ ] Erosional Landforms
+				- [ ] Pools
+					- [ ] Swallow Hole
+					- [ ] Valley Sinks [ Uvalas ]
+					- [ ] Sinkholes
+					- [ ] Collapse Sinks [ Dolines ]
+					- [ ] Lapies
+					- [ ] Ridges
+					- [ ] Limestone Pavements
+				- [ ] Caves
+					- [ ] Altering Bed of Rocks [ Shale Sandstone Quartzite ]
+					- [ ] Caves and Tunnels
+			- [ ] Depositional Landforms
+				- [ ] Stalactites
+				- [ ] Stalagmites
+				- [ ] Pillar Columns
+	- [ ] Glaciers
+		- [ ] Erosional Landforms
+			- [ ] Cirque of Tarn Lakes
+			- [ ] Hors and Serrated Regions - Arete
+			- [ ] Glacial Valleys / Troughs - Fiords
+		- [ ] Depositonal Landforms
+			- [ ] Glacial Tills
+			- [ ] Moraines
+			- [ ] Eskers
+			- [ ] Outwash Planes
+			- [ ] Drumlins
+	- [ ] Waves and Currents
+		- [ ] High Rocky Coasts
+		- [ ] Low Sedimentary Coasts
+		- [ ] Erosional Landforms
+			- [ ] Cliffs
+			- [ ] Terraces
+			- [ ] Caves
+			- [ ] Stacks
+		- [ ] Depositional Landforms
+			- [ ] Beaches
+			- [ ] Dunes
+			- [ ] Bars
+			- [ ] Barriers
+			- [ ] Spits
+	- [ ] Weathering
+		- [ ] Weather Over Earth Materials
+		- [ ] Factors
+			- [ ] Geological
+			- [ ] Climatic
+			- [ ] Topographic
+			- [ ] Vegetative
+		- [ ] Major Processes
+			- [ ] Chemical
+			- [ ] Physical or Mechanical
+			- [ ] Biological
+		- [ ] Chemical - Forces Chemical Action
+			- [ ] Solution
+			- [ ] Carbonation
+			- [ ] Hydration
+			- [ ] Oxidation
+			- [ ] Reduction
+		- [ ] Physical Forces
+			- [ ] Gravitational 
+			- [ ] Expansion
+			- [ ] Water Pressure
+			- [ ] Unloading
+			- [ ] Expansion
+			- [ ] Temperature Changes and Expansion
+			- [ ] Freezing, Thawing, Frost Wedging
+			- [ ] Salt Weathering
+		- [ ] Biological Weathering
+			- [ ] Burrowing
+			- [ ] Wedging
+			- [ ] Plant Roots
+			- [ ] Effects of Weathering
+			- [ ] Exfoliation [ Flaking ] - Exfoliation Domes , Tors
+		- [ ] Significance of Weathering
+			- [ ] Soil Formation
+			- [ ] Biomes and Bio-Diversity
+			- [ ] Leaching / Enrichment
+		- [ ] Mass Movements
+			- [ ] Activating Causes
+			- [ ] Forms of Movement
+				- [ ] Heave
+				- [ ] Flow
+				- [ ] Slide
+			- [ ] 3 Major Groups
+				- [ ] Slow Movement
+				- [ ] Rapid Movements
+				- [ ] Land Slides
+	- [ ] Landforms across the World
+		- [ ] Rivers and Lakes
+		- [ ] Mountains and Peaks
+		- [ ] Plateaus
+
+----
+
+### ==Climatology== 
+
+- [ ] Climatology
+	- [ ] Composition
+		- [ ] Gases
+		- [ ] Water Vapour
+		- [ ] Dust Particles
+	- [ ] Structures
+		- [ ] Exosphere
+		- [ ] Thermosphere
+		- [ ] Mesosphere
+		- [ ] Stratosphere
+		- [ ] Troposphere
+		- [ ] Altitude vs Temperature
+- [ ] Solar Radiation
+	- [ ] Insolation
+	- [ ] Aphelion
+	- [ ] Perihelion
+	- [ ] Variability of Insolation at the Surface of the Earth
+		- [ ] Day Season Year
+		- [ ] Rotation on Axis
+		- [ ] Angle of Inclination of Sun Rays
+		- [ ] Length of the Day
+		- [ ] Transparency of Atmosphere
+		- [ ] Configuration of Land in Terms Of It's Aspects
+- [ ] Heat Balance
+	- [ ] Heating and Cooling of Atmosphere
+		- [ ] Conduction
+		- [ ] Convection
+		- [ ] Advection
+	- [ ] Terrestial Radiation
+	- [ ] Heat Budget of the Planet Earth
+	- [ ] Macro Budget
+		- [ ] Albedo
+		- [ ] Shortwave Radiation
+		- [ ] Long Wave Earth Radiation
+	- [ ] Variation in the Net Heat Budget at Earth's Surface
+- [ ] Temperature
+	- [ ] Factors Controlling Temperature Distribution
+	- [ ] Distribution of Temperature Month of January - July
+	- [ ] Range of Temperature Month of January - July
+	- [ ] Inversion of Temperature
+	- [ ] Adiabatic Lapse Rate
+	- [ ] Latent Heat of Condensation
+- [ ] Atmospheric Circulation and Weather Systems
+	- [ ] Atmospheric Pressure
+	- [ ] Vertical Variation of Pressure
+	- [ ] Horizontal Distribution of Pressure
+	- [ ] World Distribution of Sea Level Pressure
+- [ ] Factors Affecting The Velocity and Direction of the WIND
+	- [ ] Pressure Gradient Force
+	- [ ] Frictional Force
+	- [ ] Coriolis Force
+	- [ ] Pressure and Wind [ Cyclonic & Anticyclone Circulation ]
+- [ ] General Circulation of the Atmosphere – Pattern of Planetary Winds
+	- [ ] Latitudinal Variation of Atmospheric Heating
+	- [ ] Emergence of Pressure Belts
+	- [ ] Migration of Belts Following Apparent Path of Sun
+	- [ ] Distribution of Continents & Oceans
+	- [ ] Rotation of the Earth
+- [ ] Circulation
+	- [ ] Simplified Global Circulation
+		- [ ] Hadley Cell
+		- [ ] Ferrel Cell
+	- [ ] Seasonal Wind
+	- [ ] Local Wind
+	- [ ] Land and Sea Breezes
+	- [ ] Mountain Winds
+	- [ ] Vally Winds
+	- [ ] Air Mass - Fronts
+	- [ ] Extra Tropical Cyclone
+	- [ ] Thunderstorms
+	- [ ] Tornadoes
+- [ ] Water In The Atmosphere
+	- [ ] Water Vapour
+	- [ ] Precipitation
+	- [ ] Humidity - Absolute and Relative
+	- [ ] Saturation - Dew Point
+	- [ ] Evaporation and Condensation
+		- [ ] Dew
+		- [ ] Frost
+		- [ ] Fog and Mist
+	- [ ] Clouds
+		- [ ] Types 
+			- [ ] Cirrus 
+			- [ ] Cumulus
+			- [ ] Stratus 
+			- [ ] Nimbus
+		- [ ] High 
+			- [ ] Cirrus
+			- [ ] Cirrostratus
+			- [ ] Cirrocumulus
+		- [ ] Middle
+			- [ ] Altostratus
+			- [ ] Altocumulus
+		- [ ] Low
+			- [ ] Stratocumulus
+			- [ ] Nimbostratus
+		- [ ] Vertical Development
+			- [ ] Cumulus
+			- [ ] Cumulonimbus
+		- [ ] Precipitation
+			- [ ] Rainfall
+			- [ ] Snowfall
+			- [ ] Sleet 
+			- [ ] Hail
+			- [ ] Hailstones
+		- [ ] Types of Rainfall
+			- [ ] Conventional
+			- [ ] Orographic
+			- [ ] Cyclonic
+			- [ ] World Distribution of Rainfall
+- [ ] World Climate
+	- [ ] The Hot, Wet Equatorial Climate
+	- [ ] The Tropical Monsoon
+	- [ ] The Tropical Marine Climates
+	- [ ] The Savanna or Sudan Climate
+	- [ ] The Hot Desert
+	- [ ] Mid-Latitude Desert Climates
+	- [ ] The Warm Temperate Western Margin [ Mediterranean ] Climate
+	- [ ] The Temperate Continental [ Steppe ] Climate
+	- [ ] The Warm Temperate Eastern Margin [ China Type ] Climate
+	- [ ] The Cool Temperate Western Margin [ British Type ] Climate
+	- [ ] The Cool Temperate Continental [ Siberian ] Climate
+	- [ ] The Cool Temperature Eastern Margin [ Lauren-tian ] Climate
+	- [ ] The Artic or Polar Climate
+- [ ] Important Climatic Phenomena and Its Effects
+	- [ ] ENSO
+	- [ ] La Nina
+	- [ ] IOD
+	- [ ] Polar Vortex
+	- [ ] Others
+
+----
+
+### ==Oceanography==
+- [ ] Water of the Surface of the Earth
+	- [ ] Hydrological Cycle
+		- [ ] Component
+		- [ ] Processes
+- [ ] Oceans
+	- [ ] Relief of the Ocean Floor
+	- [ ] 4 Divisions of the Ocean Floor
+		- [ ] Continental Shelf
+		- [ ] Continental Slope
+		- [ ] Deep Sea Plain
+		- [ ] Oceanic Deep and Trenches
+	- [ ] Minor Relief Features
+		- [ ] Mid Oceanic Ridges
+		- [ ] Seamount
+		- [ ] Submarine Canyons
+		- [ ] Guy Outs
+		- [ ] Atoll
+	- [ ] Temperature of the Ocean Water
+		- [ ] Vertical
+		- [ ] Spatial
+		- [ ] Factors Affecting Temperature Distribution
+			- [ ] Latitude
+			- [ ] Unequal Distribution of Land and Water
+			- [ ] Prevailing Wind
+			- [ ] Ocean Currents
+		- [ ] Horizontal & Vertical Distribution
+			- [ ] Thermocline
+			- [ ] Three Layers
+		- [ ] Salinity of the Ocean Water
+			- [ ] Factors Affecting Salinity
+				- [ ] Evaporation
+				- [ ] Precipitation
+				- [ ] Fresh Water Flow From Rivers
+				- [ ] Wing
+				- [ ] Ocean Currents
+			- [ ] Horizontal Distribution of Salinity
+			- [ ] Vertical Distribution of Salinity
+		- [ ] Density of Ocean Waters
+- [ ] Movements of Ocean Waters
+	- [ ] Factors Influencing Movement
+		- [ ] Temperature
+		- [ ] Salinity
+		- [ ] Density
+		- [ ] Sun Moon Winds
+	- [ ] Motion - Horizontal & Vertical Currents
+	- [ ] Waves
+		- [ ] Motion of Waves and Water Molecules
+		- [ ] Characteristic of WAVE
+			- [ ] Crest
+			- [ ] Trough
+			- [ ] Height
+			- [ ] Amplitude
+			- [ ] Period
+			- [ ] Length
+			- [ ] Speed
+			- [ ] Frequency
+			- [ ] Tides
+		- [ ] Relation Between Gravitational Forces and Tides
+			- [ ] Tidal Currents
+			- [ ] Types of Tides
+				- [ ] Based on Frequency
+					- [ ] Semi-Diurnal
+					- [ ] Diurnal
+					- [ ] Mixed
+				- [ ] Based of SME Position
+					- [ ] Spring
+					- [ ] Neap Tides
+				- [ ] Importance of Tides
+		- [ ] Ocean Currents
+			- [ ] Influenced by 2 Forces
+			- [ ] Primary Force That Initiates The Movement
+				- [ ] Heating of Solar Energy
+				- [ ] Wind
+				- [ ] Gravity
+				- [ ] Coriolis Force
+			- [ ] Secondary Force That Influence The Currents To Flow
+			- [ ] Characteristic - Drift - 5 Knots
+			- [ ] Types of Ocean Currents
+				- [ ] Surface Currents Based on Depth
+				- [ ] Deep Water Currents  Based on Depth
+				- [ ] Cold Currents Based On Temperature
+				- [ ] Warm Currents Based On Temperature
+			- [ ] Major Ocean Currents of the World
+			- [ ] Effects of Ocean Currents
+
+----
+
+### ==Water Resources==
+
+- [ ] Water Resource
+	- [ ] Underground Water Resource
+	- [ ] Surface Water Resources
+	- [ ] Inland Water Resources
+		- [ ] Utilization of Inland Water Resources by Man
+	- [ ] Oceanic Water Resources
+		- [ ] Main Features of Ocean
+	- [ ] Utilization of Oceans by Man
+	- [ ] Water Consumption Patterns
+	- [ ] Water Pollution
+	- [ ] Conservation Of Water Resources
+	- [ ] Techniques Of Water Conservation
+
+----
+
+### ==Biogeography==
+
+- [ ] Soil
+	- [ ] Soil Characteristics
+	- [ ] Factors Reponsible for Soil Formation
+	- [ ] Stages of Soil Formation
+	- [ ] Soil Forming Processes
+	- [ ] Soil Profiles and Horizons
+	- [ ] Soil Classification
+	- [ ] Soil Erosion and Conservation
+- [ ] Vegetation Resources
+	- [ ] Types of Natural Vegetation
+	- [ ] Forests
+	- [ ] Significance of Forests
+		- [ ] Economic Significance
+		- [ ] Ecological Significance
+		- [ ] Cultural Significance
+- [ ] Factors of Forest Development
+- [ ] Extent of Forest Cover
+- [ ] Classification of Forests
+	- [ ] Grasslands
+	- [ ] Desert Vegetation
+	- [ ] Tundra Vegetation
+- [ ] Economic Utilization of Forests
+- [ ] Deforestation
+	- [ ] Deforestation in Tropical Forests
+	- [ ] Deforestation in Temperate Forests
+	- [ ] Rate and Extent of Deforestation
+	- [ ] Causes of Deforestation
+	- [ ] Factors of Deforestation
+	- [ ] Immediate Causes
+	- [ ] Indirect Deforestation
+	- [ ] Underlying Causes of Deforestation
+- [ ] Conservation of Forests
+	- [ ] Forest Conservation Strategies
+	- [ ] Reforestation
+	- [ ] Monoculture Plantation
+	- [ ] Afforestation
+- [ ] Types of Forestry
+	- [ ] Social Forestry
+	- [ ] Agro Forestry
+- [ ] Wild Life
+	- Sanctuaries
+	- Wild Life Preservation
+		- Location
+		- How do they do it?
+		- Importance
+		- Steps Taken By Government
+	- Red Book
+	- Extinction
+		- Reasons
+		- Impact
+	- Flora
+		- Types
+		- Distribution
+		- Status
+		- Location in India
+	- Fauna
+		- Types
+		- Distribution
+		- Status
+		- Location in India
+
+----
+
+## Human Geography
+
+----
+
+### ==Demography==
+
+- [ ] Concept of Human Resources
+- [ ] Population Distribution
+- [ ] Factors of Population Distribution
+   - [ ] Physical Factors
+   - [ ] Socio-Cultural Factors
+   - [ ] Demographic Factors
+- [ ] World Population Distribution
+   - [ ] Ecumene
+   - [ ] Non-Ecumene
+- [ ] Continent Wise Distribution of Population
+- [ ] Density of Population
+- [ ] Pattern of Population Density
+- [ ] Population Increase [ Growth ] In The World
+- [ ] Causes of Rapid Increase in Population
+- [ ] Present Trend
+- [ ] Future Projections
+- [ ] Determinants of Population Growth
+- [ ] Natural Increase
+- [ ] Characteristics of Population
+	- [ ] Age Composition
+	- [ ] Population Pyramids
+	- [ ] Sex Composition
+	- [ ] Literacy
+- [ ] Theories of Population
+	- [ ] Malthusian Theory
+	- [ ] Marxian Theory
+	- [ ] Demographic Transition Theory
+- [ ] Optimum Population
+	- [ ] Over Population
+	- [ ] Under Population
+- [ ] Population Problems
+	- [ ] In Developing Countries
+	- [ ] In Developed Countries
+	- [ ] Population Dilemma of Europe
+- [ ] Population Policies of China
+- [ ] Population Policies of India
+- [ ] Various Types of Settlements
+- [ ] Relationship Between House Types
+	- With Relief
+	- With Climate
+	- With Building Materials
+
+---
+
+### ==Urbanization==
+
+- [ ] Basic Features of India's Urbanization
+- [ ] Basic Pattern of India's Urbanization
+- [ ] Issues of Urbanization in India
+	- [ ] Rural --> Urban Migration
+	- [ ] Emergence of Slums
+	- [ ] Urban Transport
+	- [ ] Waste Disposal
+	- [ ] Water Supply
+	- [ ] Drainage
+	- [ ] Sanitation
+	- [ ] Electronic Waste
+	- [ ] Urban Poverty
+	- [ ] Real Estate [ Regulation and Development ] Bill 2013
+- [ ] Way Forward to Tackle These Issues
+	- [ ] Inclusive Cities / Smart Cities
+	- [ ] Recent Governement Programme - AMRUT
+- [ ] Migration
+- [ ] Displacement
+- [ ] Importance of Rehabilitation Policy
+- [ ] Urban Settlements
+- [ ] Urban Settlement Types
+- [ ] Urbanization Process in India
+- [ ] Morphology of Urban Settlements
+- [ ] Town Planning of Rural Settlements
+- [ ] Patterns of Rural Settlement
+- [ ] Settlement Types of the World
+- [ ] Migration
+	- [ ] Push Factor
+	- [ ] Pull Factor
+- [ ] Emigration
+	- [ ] During Colonial Period
+	- [ ] During Post Independent Period
+	- [ ] During Post Liberalization Period
+- [ ] Internal vs World Migration
+- [ ] Functional Classification of Cities
+- [ ] Boundaries and Frontiers
+	- [ ] Definition
+	- [ ] Difference Between Them
+	- [ ] Their Classifications
+- [ ] Rural Urban Fringe Characteristics
+	- [ ] Advantages
+	- [ ] Problems
+- [ ] National Urbanization Policy
+- [ ] Principles of Urban Planning
+- [ ] Land Cover Transformation
+- [ ] Factors Affecting Rural Settlements
+	- [ ] Their Types
+	- [ ] Their Patterns
+- [ ] Cities
+	- Hierarchical Classification
+	- Morphological Classification
+
+----
+
+### ==Census==
+
+- [ ] Literacy
+- [ ] Sex Ratio
+- [ ] Family Planning
+- [ ] Old Age
+- [ ] Age Structure
+- [ ] Density
+- [ ] Population Growth
+- [ ] Census Terminology
+
+----
+
+## Economic Geography
+
+### ==Agriculture==
+
+- [ ] Land Resource
+	- [ ] Land Use
+	- [ ] Land Capability Classification
+	- [ ] Causes of Land Degradation
+	- [ ] Impact of Land Degradation
+	- [ ] Steps Taken by GOI
+	- [ ] Sustainable Land Management
+- [ ] Basic Terms Related to Agriculture
+	- [ ] Performance of Agriculture Sector
+	- [ ] Types of Farming in India
+	- [ ] Dry Zone Farming
+	- [ ] Organic Farming
+	- [ ] Cropping Seasons in India
+	- [ ] Cropping Pattern in India
+	- [ ] Agriculture Regionalization
+	- [ ] Infrastructure Factors
+		- [ ] Seeds
+		- [ ] Fertilizers
+		- [ ] Irrigation
+	- [ ] Land Use Pattern in India
+	- [ ] Institutional Factors as Land Reform
+	- [ ] Horticulture Sector in India
+	- [ ] Agricultural Revolutions
+	- [ ] Price Policy of Agriculture
+	- [ ] Agricultural Marketing
+	- [ ] Agricultural Insurance
+	- [ ] Agricultural Census
+	- [ ] Major Schemes in Agricultural Sector
+	- [ ] National Policy for Farmers
+	- [ ] Impact of Climate Change on Agriculture
+	- [ ] Sustainable Agriculture
+		- [ ] What is it?
+		- [ ] Why is the important?
+		- [ ] Difficulties
+		- [ ] Pros
+		- [ ] How Efficient is it?
+		- [ ] Impact
+	- [ ] Use of IT in Agriculture
+	- [ ] Agriculture Issues and Challenges
+- [ ] Productivity of Crops and Condition for Growth
+	- Wheat
+		- Conditions for Growth
+		- Varities
+		- Types of Cultivation
+		- Production Pattern
+		- International Trade
+	- Rice
+		- Conditions for Growth
+		- Varities
+		- Types of Cultivation
+		- Production Pattern
+		- International Trade
+	- Maize [ Corn ]
+		- Conditions for Growth
+		- Production Pattern
+		- International Trade
+	- Barley
+		- Conditions for Growth
+		- Production Pattern
+		- International Trade
+	- Oats
+	- Rye
+	- Beverages
+		- Tea
+			- Condition of Growth
+			- Production Pattern
+			- International Trade
+		- Coffee
+			- Types of Coffee
+			- Condition of Growth
+			- Production Pattern
+			- International Trade
+		- Cocoa
+			- Condition of Growth
+			- Production Pattern
+			- International Trade
+	- Tobacco
+		- Condition of Growth
+		- Production Pattern
+		- International Trade
+	- Fibre Crops
+		- Cotton
+			- Varieties of Cotton
+			- Conditions of Growth
+			- Production Pattern
+			- International Trade
+		- Jute
+			- Conditions of Growth
+			- Production Pattern
+			- International Trade
+			- Substitutes of Jute
+				- Flax
+				- Hemp
+				- Abaca
+				- Henequeno
+				- Sisal
+		- Raw Silk
+			- Production Pattern
+			- International Trade
+		- Natural Rubber
+			- Other Sources of Rubber
+			- Plantations in South East Asia
+			- Production Pattern
+			- International Trade
+		- Sugarcane
+			- Conditions of Growth
+			- Production Pattern
+			- International Trade
+			- Sugar Beet
+				- Conditions of Growth
+				- Production Pattern
+				- International Trade
+			- Sugar Industry
+			- Sugar Consumption
+
+----
+
+### ==Mineral Resources==
+
+- [ ] Types of Minerals
+	- [ ] Metallic Minerals
+	- [ ] Non-metallic Minerals
+- [ ] Distribution of Minerals
+- [ ] Important Mining Regions
+- [ ] Distribution, Production and International Trade of Metallic and Non-Metallic Minerals
+	- [ ] Ferrous Metals - Iron Ore
+	- [ ] Ferro-Alloys
+	- [ ] Non Ferrous
+	- [ ] Manganese
+	- [ ] Chromium
+	- [ ] Nickel
+	- [ ] Tungsten
+	- [ ] Antimony
+	- [ ] Copper
+	- [ ] Bauxite
+	- [ ] Aluminum
+	- [ ] Zinc
+	- [ ] Lead
+	- [ ] Tin
+	- [ ] Precious Metals
+		- [ ] Gold
+		- [ ] Silver
+		- [ ] Platinum
+	- [ ] Mineral Chemicals
+		- [ ] Mica
+		- [ ] Potash
+		- [ ] Phospate
+		- [ ] Nitrates
+		- [ ] Sulphur
+- [ ] Conservation of Mineral Resources
+
+### ==Energy Resources==
+
+- [ ] Classification of Energy
+- [ ] Production of Conventional Energy
+- [ ] General Trends of Energy Production
+- [ ] General Trends of Consumption
+- [ ] Reserves of Energy
+- [ ] Sources of Energy
+- [ ] Coal
+	- [ ] Nature and Origin of Coal
+	- [ ] Constituents
+	- [ ] Kinds of Coal
+	- [ ] Coal Fields
+	- [ ] Coal Production
+	- [ ] By-products of Coal
+	- [ ] Conservation of Coal Petroleum
+- [ ] Petroleum
+	- [ ] Nature of Petroleum
+	- [ ] Properties of Petroleum
+	- [ ] Origin
+	- [ ] Recovery
+	- [ ] Exploration
+	- [ ] Petroleum Refining
+	- [ ] Petroleum Reserves
+	- [ ] Producing Areas
+	- [ ] Consumption of Petroleum
+	- [ ] International Trade
+	- [ ] OPEC
+	- [ ] Role of OPEC in Trade
+- [ ] Natural Gase
+	- [ ] Reserves
+	- [ ] Production
+- [ ] Hydro-Electricity
+	- [ ] Advantages of Hydro-Electricity
+	- [ ] Ideal Conditions for Generation of Hydro-Electricity
+	- [ ] Distribution of Potential Hydro-Power
+	- [ ] Hydro-Electric Power Generation
+- [ ] Atomic Energy [ Nuclear ]
+	- [ ] Atomic Sources
+		- [ ] Uranium
+			- [ ] World Distribution of Uranium
+			- [ ] Production of Uranium
+			- [ ] After Effects
+		- [ ] Thorium
+			- [ ] World Distribution of Thorium
+			- [ ] Production of Thorium
+			- [ ] After Effects
+		- [ ] Production of Atomic Energy
+		- [ ] Nuclear Energy : The Energy of Future
+- [ ] Alternative Sources of Energy [ Non-Conventional ]
+	- [ ] Solar Energy
+	- [ ] Wing Energy
+	- [ ] Geothermal Power
+	- [ ] Tidal Energy
+	- [ ] Wave Energy
+	- [ ] Biomass Energy
+- [ ] Alternate Energy Sources
+	- [ ] Hydrogen as a Fuel for Future
+	- [ ] Hydrogen as an Alternative Energy Source
+	- [ ] Microbial Fuel Cell
+- [ ] Energy Context with Respect to Indian Scenario
+- [ ] Energy Plantation
+- [ ] Energy Crisis
+
+----
+
+### ==Industry==
+
+- [ ] Industrial Development
+- [ ] Iron and Steel Industry
+	- [ ] Process of Iron and Steel Production
+	- [ ] Location of Iron and Steel Industry
+	- [ ] Early Localization
+	- [ ] Development of Iron Manufacture
+	- [ ] Distribution of Iron and Steel Industry
+	- [ ] Global Steel Production
+	- [ ] International Trade
+	- [ ] Growth Potential of Steel Industry
+	- [ ] Factors of Production
+- [ ] Textile Industry
+	- [ ] Cotton Textile Industry
+		- [ ] Location
+		- [ ] Distribution
+		- [ ] Production
+		- [ ] Factors of Production
+	- [ ] Recent Trends in Localization
+	- [ ] Woollen Textile Industry
+		- [ ] Location
+		- [ ] Distribution
+		- [ ] Production
+		- [ ] Factors of Production
+	- [ ] Silk Textile Industry
+		- [ ] Raw Silk Manufacture
+		- [ ] Silk Textile Manufacture
+		- [ ] Synthetic [ Artificial ] Silk Industry
+			- [ ] What are they?
+			- [ ] Distribution of Man Made Fibre and Fabrics
+- [ ] Engineering Industry
+	- [ ] Machine Tools
+	- [ ] Areas of Production of Such Tools and Machinery
+	- [ ] Industrial Machinery - Textile Machinery
+	- [ ] Other Industrial Machinery
+	- [ ] Agricultural Machinery
+- [ ] Manufacturing of Transport Equipment
+	- [ ] Automobile Industry
+	- [ ] Railway Car and Locomotive Industry
+	- [ ] Shipbuilding
+	- [ ] Aircraft Industry
+	- [ ] Recent Trends
+- [ ] Chemical Industry
+	- [ ] Classes of Chemicals
+	- [ ] Branches of Chemical Industry
+	- [ ] Heavy Chemical Industry
+	- [ ] Production of Acids and Alkalies
+	- [ ] Rise of Chemical Industry
+	- [ ] Fertilizer Industry
+		- [ ] Nitrogen Fertilizers
+		- [ ] Phosphate Fertilizers
+		- [ ] Potash Fertilizers
+		- [ ] Explosives
+	- [ ] Glass Industry
+		- [ ] Production of Glass
+		- [ ] Location
+		- [ ] Factors of Production
+		- [ ] Distribution
+		- [ ] Pros and Cons
+- [ ] Agro-Industries
+	- [ ] Synthetic Rubber Industry
+	- [ ] Pulp and Paper Industry
+		- [ ] Essential Conditions
+		- [ ] Production of Paper
+		- [ ] Production of Paper Board
+		- [ ] Location
+		- [ ] Factors of Production
+		- [ ] Distribution
+		- [ ] Newsprint
+		- [ ] International Trade
+		- [ ] Salient Features of Pulp and Paper Industry
+- [ ] Cement Industry
+	- [ ] Distribution of Cement Industry
+	- [ ] Recent Trends
+	- [ ] Main Global Competitors
+- [ ] Petroleum Refining Industry
+	- [ ] Localization
+	- [ ] Site Selection of Petroleum Refineries
+	- [ ] History of Oil Refineries
+	- [ ] World Pattern of Oil Refining
+	- [ ] Petroleum Products
+- [ ] Industrial Regions
+	- [ ] Characteristics of Industrial Regions
+	- [ ] Delimitation of an Industrial Region
+	- [ ] Principle Industrial Region of the World
+	- [ ] Principle Industrial Region of India
+	- [ ] Industrial Regions of Anglo-America
+		- [ ] USA
+		- [ ] Canada
+		- [ ] Western Europe
+			- [ ] Central Britain
+			- [ ] Germany
+			- [ ] Belgium
+			- [ ] Netherlands
+			- [ ] France
+			- [ ] Italy
+		- [ ] Eastern Europe
+			- [ ] Poland
+			- [ ] Former USSR
+		- [ ] Eastern Asia
+			- [ ] Japan
+			- [ ] China
+			- [ ] The Dragons
+			- [ ] India
+		- [ ] High Tech Patterns
+- [ ] Transportation
+	- Road
+	- Rail
+	- Air
+	- Inland Water Ways
+	- Important National Highways
+	- Important Railways
+	- Golden Quadrilateral
+	- Diamond Quadrilateral
+- See in all the Industries - 
+	- Essential Conditions
+	- Location
+	- Development
+	- Distribution
+	- Factors of Production
+
+
+----
+
+### ==Recent Developments==
+
+- [ ] In Transport Sector
+	- [ ] Long Term Irrigation Fund
+	- [ ] Sports Sector Gets Infrastructure Status
+	- [ ] Railways India Development Fund
+	- [ ] National Infrastructure Investment Fund
+	- [ ] Defense Innovation Fund
+	- [ ] Merger of Railway Budget With General Budget
+	- [ ] Non-Fare Revenue Policies in Indian Railways
+	- [ ] Rail Safety Fund
+	- [ ] Flexi Fare Method in Railway
+	- [ ] Rail Cadre Management
+	- [ ] TRI-NETRA In Railways
+	- [ ] National Rail Plan 2030
+	- [ ] Draft Policy on Suburban Tracks
+	- [ ] India's First Caterpillar Train
+	- [ ] Mission 41K
+	- [ ] Green Corridor Concept
+	- [ ] Made in India "Medha" Train
+	- [ ] Antyodaya Express
+	- [ ] Station Redevelopment Project
+	- [ ] Smart Railway Station
+	- [ ] Yatri Mitra Seva
+	- [ ] National Highways Interconnectivity
+	- [ ] Vehicle Fleet Modernization Programme
+	- [ ] Transit Oriented Development Policy
+	- [ ] Logistic Efficiency Enhancement Programme
+	- [ ] Indian Bridge Management System
+	- [ ] Road Connectivity Project for Left Wing Extremism [ LWE ] Affected Areas
+	- [ ] North East Road Network Connectivity Project
+	- [ ] TIR Convention
+	- [ ] National Road Safety Policy
+	- [ ] Sagarmala
+	- [ ] Urja Ganga Gas Line Project
+	- [ ] TARANG
+	- [ ] E-Trans
+	- [ ] DEEP [ Discovery of Efficient Electricity Price ]
+	- [ ] GARV II App
+	- [ ] Trading of Energy Saving Certificates
+	- [ ] 24x7 Powers for All
+	- [ ] Draft National Electricity Plan
+	- [ ] Habitat Commitment Index
+	- [ ] Airsewa Portal
+- [ ] In Industrial Sector
+	- [ ] Delhi-Mumbai Industrial Corridor
+	- [ ] Amritsar-Kolkata Industrial Corridor
+	- [ ] Chennai-Bangalore Economic Corridor
+	- [ ] Visakhapatnam-Chennai Industrial Corridor
+	- [ ] East Coast Economic Corridor
+	- [ ] Apex Corridor Developmental Authority
+	- [ ] Star Rating of Mines
+	- [ ] TAMRA Portal
+	- [ ] Mining Surveillance System
+	- [ ] Coal MITRA
+	- [ ] M-SIPS for Electronic Sector
+	- [ ] Real Estate [ Regulation and Development ] Act or RERA
+	- [ ] Indian Enterprise Development Service
+	- [ ] Trade Receivables Discounting System
+	- [ ] SME Business Environment Index
+	- [ ] Medipark
+	- [ ] ZED Scheme
+	- [ ] Startup Mentorship Circle
+	- [ ] FAME
+- [ ] In Agriculture Field
+	- [ ] AADHAR Based Biometric Authentication in PDS
+		- [ ] Pros
+		- [ ] Cons
+	- [ ] Volatility in Pulse Prices
+		- [ ] Arvind Subramanian Committee on Pulse Crises
+		- [ ] Government Raises Buffer Stock of Pulses
+		- [ ] PUSA Arhar 16 to Bridge the Demand Supply Gap
+	- [ ] Agro Irradiation Centers
+	- [ ] Options Trading in Agricultural Produce
+	- [ ] Agricultural Marketing and Farm Friendly Reforms Index
+	- [ ] National Food Security Act
+	- [ ] Digitization and Agriculture
+	- [ ] Direct Benefit Transfer in Fertilized Sector
+	- [ ] Aquaponic Farm
+	- [ ] Gift Milk Scheme
+	- [ ] Draft Regulation on Fortification of Foods
+	- [ ] Law Commission Recommendation on Food Laws
+	- [ ] Concept of Modern Terminal Markets
+	- [ ] Animal Husbandry, Dairying and Fisheries
+		- [ ] E-Pashuhaat Portal
+		- [ ] Schemes of Bio-Tech Kisan and Cattle Genomics
+		- [ ] Rashtriya Gokul Mission
+		- [ ] Mission Fingerling
+	- [ ] Terms in Brief
+		- [ ] Krishi Puruskar for Small Farmers 
+		- [ ] Ornamental Fishing 
+		- [ ]  Agricultural Science Congress 
+		- [ ]  RubSiS 
+		- [ ] Ethanol Blending 
+		- [ ] National Bureau of Plant 
+		- [ ] Genetic Resources
+		- [ ] Amendments to the NABARD Act, 1981 
+		- [ ] Revenue Insurance Scheme for
+		- [ ] Plantation Crops
+		- [ ] Best Horticulture Award 
+		- [ ] Neem Coating of Urea
+	- [ ] Soil Health Card Scheme
+	- [ ] Paramparagat Krishi Vikas Yojana
+	- [ ] Pradhan Mantri Fasal Bima Yojana
+	- [ ] PM Krishi Sinchai Yojana
+	- [ ] National Agriculture Market
+- [ ] Places in News [ Check Latest ]
+
+----
+
+# Indian Society Features & Social Justice
+
+### Indian Society
+
+- [ ] Salient Features of Indian Society
+	- [ ] Features
+	- [ ] Changes within Indian Society
+	- [ ] The Aftereffects of the Changes
+	- [ ] Causes of Changes
+	- [ ] Indian Society Today
+- [ ] Diversity of India
+	- [ ] What is Diversity?
+	- [ ] Type of Diversities in India
+	- [ ] Can Diversity be Equated with Difference?
+	- [ ] Unity in Diversity
+	- [ ] Is it a Reality or a Chimera?
+	- [ ] Some Examples for Both Cases
+	- [ ] Manner of Reconciliation
+- [ ] Role of Women's Organizations
+	- [ ] Women's Organization in Indian History
+	- [ ] Types of Women's Organization
+	- [ ] Level of Penetration
+	- [ ] Women's Organization as a Ray of Hope
+		- [ ] Case Studies
+		- [ ] Importance
+	- [ ] Problems Faced By These Organizations
+	- [ ] Is a Larger Vocal Role Possible?
+	- [ ] What are the ways to Achieve it?
+	- [ ] Role of Self Help Groups
+	- [ ] Micro-finance Institutions
+- [ ] Poverty and Development Issues
+	- [ ] Poverty
+	- [ ] Concept of Development
+	- [ ] Sen vs Bhagwati Model
+	- [ ] Crisis of Development
+	- [ ] Certain Case Studies
+	- [ ] Government's Initiatives
+	- [ ] Five Year Plans
+	- [ ] Role of Civil Society Organizations
+- [ ] Effects of Globalization on Indian Society
+	- [ ] Meaning of Globalization
+	- [ ] Impact
+		- [ ] Economic
+		- [ ] Political
+		- [ ] Developmental
+		- [ ] Socio-Cultural
+	- [ ] Is the Impact Solely Positive or Negative?
+- [ ] Social Empowerment
+	- [ ] Meaning of Social Empowerment
+	- [ ] Concept of Social Empowerment
+	- [ ] Why Do We Need It?
+	- [ ] Social Empowerment Through The Five Year Plans
+	- [ ] Government Initiatives for Empowerment
+	- [ ] Empowerment in Reality
+	- [ ] India's Experience in Empowerment
+	- [ ] Other Approaches / Players / Tools for Social Empowerment
+	- [ ] Some Cast Studies
+- [ ] Communalism
+	- [ ] Meaning of Communalism
+	- [ ] Concept of Communalism
+	- [ ] Historicity of Communalism
+	- [ ] Recent Incidents
+	- [ ] Role of Third Parties in Inciting / Perpetrating Communalism
+	- [ ] Communalism Under The Law
+	- [ ] Can it be Eradicated from Indian Society Completely?
+- [ ] Secularism
+	- [ ] Meaning of Secularism
+	- [ ] Concept of Secularism
+	- [ ] Secularism through Vantage Point of Indian Constitution
+	- [ ] Comparisons of Models Between Indian and Western
+	- [ ] Gandhiji on Religion
+	- [ ] Indian Philosophy on Secularism
+	- [ ] Threats on the Secular Spirit
+	- [ ] Is Indian Democracy Mature Enough to Handle the Gravity of Secularism?
+- [ ] Regionalism
+	- [ ] Meaning of Regionalism
+	- [ ] Concept of Regionalism
+	- [ ] Regionalism in it's Various Manifestations
+	- [ ] Role of Various Players
+	- [ ] Recent Incidents
+	- [ ] Possible Ways to Tackle Regionalism
+
+----
+
+### Social Justice
+
+- [ ] Welfare Schemes for Vulnerable Sections by Centre and States
+	- [ ] Constitutional Arrangement
+	- [ ] Women Welfare
+	- [ ] Child Welfare
+	- [ ] SC / ST Welfare
+	- [ ] OBC Welfare
+	- [ ] Minorities Welfare
+	- [ ] Old Age Welfare
+	- [ ] Legislations
+	- [ ] Issues
+	- [ ] Reforms Needed
+- [ ] Services Related to Health, Education and Human Resources
+	- [ ] Education structure in India 
+	- [ ] Primary, secondary and higher education 
+	- [ ] Initiatives taken by GOI in education 
+	- [ ] Issues 
+	- [ ] Reforms Needed 
+	- [ ] Recommendations of Committees 
+	- [ ] Future Prospects in Education Sector 
+	- [ ] Skill Development 
+	- [ ] Health Indicators 
+	- [ ] Health Structure in India 
+	- [ ] Private and Public Health Structure 
+	- [ ] Issues 
+	- [ ] Reforms needed 
+	- [ ] NITI Aayog Report 
+	- [ ] Economic Development and Human Development
+	- [ ] SDGs and India
+- [ ] Issues Relating to Poverty and Hunger
+	- [ ] Poverty Definition by Different Committees
+	- [ ] Poverty Data in India
+	- [ ] Causes of Poverty
+	- [ ] Poverty and Unemployment
+	- [ ] Poverty and Social Conflict
+	- [ ] Impact of LPG on Poverty
+	- [ ] Linkage Between Poverty and Development
+	- [ ] Rural Poverty
+	- [ ] Urban Poverty
+	- [ ] Feminization of Poverty
+	- [ ] Poverty Alleviation Measures
+	- [ ] Problems in implementation of Poverty Alleviation Programmes
+	- [ ] Poverty and Hunger
+	- [ ]  Food security Programmes and issues
+	- [ ] Hunger and Health
+	- [ ] Impact of Hunger and Poverty on Economic Development of the Nation
+	- [ ] Controversy related to Poverty Data estimation
+- [ ] The Scheduled and Tribal Areas
+	- [ ] 5th Schedule Areas 
+	- [ ] 6th Schedule Areas 
+	- [ ] Composition of Autonomous Councils 
+	- [ ] Role and Functions of Councils 
+	- [ ] Role of Governor with Respect to Tribal Areas 
+	- [ ] Tribal Sub Plan
+
+----
+
+### Welfare Schemes
+
+- [ ] Start-up and Skill Development
+	- [ ] Start Up India Scheme
+	- [ ] Stand up India Scheme
+	- [ ] National Student Startup Policy
+	- [ ] National Skill Development Mission
+	- [ ] Pradhan Mantri Kaushal Vikas Yojana
+	- [ ] Deen Dayal Antyodaya Yojana 
+	- [ ] Deen Dayal Upadhyaya Grameen
+	- [ ] Kaushalya Yojana
+	- [ ] Skill Development Initiative Scheme
+	- [ ] Self-Employment & Talent Utilisation  [ SETU ] 
+	- [ ] Atal Innovation Mission 
+- [ ] Vulnerable Sector
+	- [ ] Social Security
+	- [ ] Atal Pension Yojana
+	- [ ] Pradhan Mantri Jeevan Jyoti Bima Yojana
+	- [ ] Pradhan Mantri Suraksha Bima Yojana
+	- [ ] Minorities
+	- [ ] Nai Roshni Scheme
+	- [ ] USTAAD Scheme [Upgrading the Skills and Training in Traditional Arts/Crafts
+	- [ ] for Development ]
+	- [ ] Nai Manzil Scheme
+	- [ ] Women and Child Development
+	- [ ] Beti Bachao Beti Padhao
+	- [ ] Sukanya Samriddhi Yojana
+	- [ ] Digital Gudda Guddi Board
+	- [ ] Sabla
+	- [ ] Ujjawala Scheme
+	- [ ] Janani Suraksha Yojana
+	- [ ] Janani Shishu Suraksha Karyakram
+	- [ ] SC/ST
+	- [ ] Vanbandhu Kalyan Yojana
+	- [ ] Pradhan Mantri Adarsh Gram Yojana
+	- [ ] Disability 
+	- [ ] Accessible India Campaign [ Sugamya Bharat Abhiyan ]
+- [ ] Health
+	- [ ] National Health Mission
+	- [ ] National Ayush Mission
+	- [ ] Swasthya Rakshan Program
+	- [ ] Jan Aushadhi Scheme
+	- [ ] Mission Indradhanush
+	- [ ] NFHS-4 Survey
+- [ ] Education
+	- [ ] Padhe Bharat Badhe Bharat
+	- [ ] Mid Day Meal Scheme
+	- [ ] Ishan Uday
+	- [ ] GIAN  [ Global Initiative of Academic Networks ]
+	- [ ] Rashtriya Avishkar Abhiyan
+	- [ ] SWAYAM  [Study Webs of Active - Learning for Young Aspiring Minds ]
+- [ ] Rural and Urban Development
+	- [ ] Sansad Adarsh Gram Yojana
+	- [ ] Gram Uday Se Bharat Uday Abhiyan
+	- [ ] Shyama Prasad Mukharjee Rurban Mission
+	- [ ] Deendayal Upadhyaya Gram Jyoti Yojana
+	- [ ] Pradhan Mantri Gram Sadak Yojana
+	- [ ] Swachch Bharat Abhiyan
+	- [ ] Pradhan Mantri Awas Yojana- Gramin
+	- [ ] Pradhan Mantri Awas Yojana - Urban
+	- [ ] Housing for All by 2022
+	- [ ] Smart Cities Mission
+	- [ ] Hriday - National Heritage City Development and Augmentation Yojana
+	- [ ] Amrut  [ Atal Mission for Rejuvenation  and Urban Transformation ]
+- [ ] Miscellaneous Schemes
+	- [ ] Jeevan Praman
+	- [ ] Digilocker
+	- [ ] Bharatnet Project  [ National Optical Fibre Network ]
+	- [ ] INSPIRE  [ Innovation in Science Pursuit for Inspired Research ]
+	- [ ] SAKAAR
+	- [ ] Digital India
+	- [ ] Namami Gange Project  [ Integrated Ganga Conservation Mission Project ]
+	- [ ] Ganga Gram Yojana
+	- [ ] Jal Kranti Abhiyan
+	- [ ] Khelo India
+	- [ ] One Rank One Pension Scheme
+	- [ ] PRAGATI  [ Pro-Active Governance and Timely Implementation ]
+	- [ ] Indian Community Welfare Fund (ICWF)
+- [ ] Inclusive Growth
+	- [ ] Measurement Criteria
+	- [ ] Government initiatives for Inclusive Growth
+	- [ ] Basic Amenities: Housing / Drinking Waters/ Sanitations
+	- [ ] Sustainable Development
+- [ ] Rural Development
+	- [ ] Rural development and poverty alleviation
+	- [ ] Review of the Existing Programmes
+	- [ ] Development Administration
+	- [ ] Panchayati Raj
+	- [ ] Agriculture and Rural Development
+- [ ] Social Sector Bills
+	- The Juvenile Justice  [ Care and Protection of Children ] Act
+	- ‘Surrogacy  [ Regulation] Bill, 2016’
+	- ‘Child Labor  [ Prohibition and Amendment ] Bill, 2016’
+	- Maternity Benefit Bill, 2016
+	- Pre-Conception & Pre-Natal Diagnostic Techniques (PNDT) Act
+	- Mental Health Care Bill, 2013
+	- Protection of Children from Sexual Offenses (POCSO)
+	- Anti Trafficking Bill with Stringent Penalty
+	- HIV and AIDS  [ Prevention and Control ] Bill- 2014 - [ Amendments ]
+	- Domestic Violence Act, 2005 --> SC Widens Ambit
+	- Rights of Persons with Disabilities Bill, 2014 with more Benefits
+	- Transgender Persons  [ Protection of Rights ] Bill 2016
+	- The Scheduled Castes and the Scheduled Tribes  [ Prevention of Atrocities ]
+
+----
+
+### Social Issues in News  [ Add It / Check Syllabus PDF ]
+
+----
+
+
+# Polity and Governance
+
+### Polity
+
+- [ ] Historical Evolution and Features
+	- [ ] Importance of Constitution
+	- [ ] Historical Evolution of the Constitution
+		- [ ] Features of Each Act from 1773 to 1947
+	- [ ] Constituent Assembly
+	- [ ] Objectives of the Constitution 
+	- [ ] Salient Features of Indian Constitution
+		- [ ] Philosophical Basis for Each Feature
+	- [ ] Unitary Features
+	- [ ] Federal Features
+	- [ ] Parliamentary Form of Government
+	- [ ] Presidential Form of Government
+	- [ ] Parliamentary Vs. Presidential System of Government
+- [ ] Preamble
+	- [ ] Basic features
+	- [ ] Value premises of constitution
+	- [ ] Terminologies such as
+		- [ ] Democratic
+		- [ ] Sovereign
+		- [ ] Socialist
+		- [ ] Secular
+		- [ ] Republic
+		- [ ] Justice
+		- [ ] Equality
+		- [ ] Liberty
+		- [ ] Fraternity
+		- [ ] Integrity
+- [ ] Citizenship
+	- [ ] Basic Constitutional Features
+	- [ ] Methodology of getting citizenship
+	- [ ] Modes of Losing the Citizenship of India
+	- [ ] Concept of dual citizenship
+	- [ ] Citizenship provisions in J&K
+	- [ ] Special Privileges Enjoyed by Citizens in India
+- [ ] Fundamental Rights
+	- [ ] Significance of Fundamental Rights
+	- [ ] Right to Equality
+	- [ ] Right to Freedom
+	- [ ] Right against Exploitation
+	- [ ] Right to Freedom of Religion
+	- [ ] Cultural and Educational Rights
+	- [ ] Right to Constitutional Remedies
+	- [ ] Difference Between Procedure Established by Law and Due process of Law
+	- [ ] Writs and Their Uses
+	- [ ] Restrictive Limitations on Fundamental Rights 
+- [ ] Directive Principles of State Policy
+	- [ ] Basic Features
+	- [ ] Directives
+	- [ ] Economic and Social DPSP
+	- [ ] Gandhian DPSP
+	- [ ] Administrative DPSP
+	- [ ] DPSP related to International Peace
+	- [ ] Implementation of DPSP
+	- [ ] Fundamental Rights and the Directive Principles of State Policy Controversy
+- [ ] Amendments
+	- [ ] Types of Amendments
+	- [ ] Which Amendment is Required for Changing a Certain Part, Article or Schedule
+	- [ ] Important Amendments
+		- [ ] 1st Amendment
+		- [ ] 25th Amendment
+		- [ ] 39th Amendment
+		- [ ] 44th Amendment
+		- [ ] 69th Amendment
+		- [ ] 73rd Amendment
+		- [ ] 74th Amendment
+		- [ ] 77th Amendment
+		- [ ] 81st Amendment
+		- [ ] 85th Amendment
+		- [ ] 91st Amendment
+		- [ ] Recent Amendments
+- [ ] Basic Structure
+	- [ ] Origin
+	- [ ] List and Purpose
+	- [ ] Constitutionality
+- [ ] Centre State Relations
+	- [ ] Trends in Centre State Relations - Frequently in News Like GST, President Rule and Similar Related Issues
+	- [ ] Punchhi Commission Recommendations
+	- [ ] Sarkaria Commission Recommendations
+	- [ ] NITI Aayog's Role in Centre State Relations
+- [ ] Inter State Relations
+	- [ ] River Water Sharing Disputes
+	- [ ] Inter-State Councils
+	- [ ] Zonal Councils
+- [ ] Emergency Provisions
+	- [ ] President Rule
+	- [ ] Financial Emergency
+- [ ] Fundamental Duties
+	- [ ] Features
+	- [ ] Link of Fundamental Rights and and Fundamental Duties
+- [ ] Other Principles
+	- [ ] Process of Law Making in India
+	- [ ] Role of Constitutional and Extra Constitutional Bodies in Law Making
+	- [ ] Basic structure: How it Evolves? 
+	- [ ] Different types of Majorities Required in Indian Constitution
+	- [ ] DPSP Fundamental Rights
+	- [ ] Doctrines Terminologies
+- [ ] Separation of Powers
+	- [ ] Features in American and UK Constitution
+	- [ ] Checks and balances Provisions in Indian Constitution
+	- [ ] Judicial Review
+	- [ ] Concept of Separation of Powers
+- [ ] Comparison of Indian Constitutional Scheme With Other Countries
+	- [ ] USA
+	- [ ] UK
+	- [ ] India
+	- [ ] Other Neighbours
+- [ ] Union and States
+	- [ ] State Reorganization Commission
+	- [ ] Components of Indian Territory
+	- [ ] Process of Formation of New States
+	- [ ] Zonal Councils
+	- [ ] Union Territories
+	- [ ] Special Provisions for States
+- [ ] Functions and Responsibilities of the Union and the States
+	- [ ] Regulating functions of Government
+	- [ ] Development Functions of Government
+	- [ ] Service Providing Functions of Government
+	- [ ] Problems in Implementation
+	- [ ] Recommendations for Improvement
+	- [ ] Interrelationship Between Union, State and Local Government in Implementation of Roles
+	- [ ] Constitutional Provisions Related to Financial Devolution
+	- [ ] Issues of Financial Devolution
+- [ ] Issues and Challenges Pertaining to The Federal Structure
+	- [ ] Administrative Relations
+	- [ ] Legislative Relations 
+	- [ ] Financial relations 
+	- [ ] Misuse of Article 356
+	- [ ] Issues related to Concurrent List 
+	- [ ] Issues related to Appointment of Governor
+	- [ ] Issues related to State Formation
+	- [ ] Poor devolution of Finances
+	- [ ] Reserving Bill for Presidential Approval
+	- [ ] Central Sponsored Schemes and Issues
+	- [ ] Special Package for Different States
+	- [ ] Issues between Centre and State after 1990 Reforms
+	- [ ] Foreign Policy and Centre and State Relations
+- [ ] The President
+	- [ ] Importance of President
+	- [ ] Qualification
+	- [ ] Election Procedure
+	- [ ] Advantages of Single Transferable Form of Voting
+	- [ ] Disadvantages of Single Transferable Form of Voting
+	- [ ] Presidents’ Term of OffiCe and Emoluments
+	- [ ] Executive Powers
+	- [ ] Legislative Powers
+	- [ ] Emergency Powers
+	- [ ] Financial Powers
+	- [ ] Miscellanous Powers
+	- [ ] Judicial Powers
+	- [ ] President's Impeachment
+	- [ ] President as Nominal Head
+	- [ ] Issues
+		- [ ] Ordinance Making Power
+		- [ ] Passage of Bills
+	- [ ] Misuse of Emergency Provisions
+		- [ ] Pardon Power
+		- [ ] Coalition Government
+- [ ] Vice President
+	- [ ] Office of Vice-President
+	- [ ] Functions
+	- [ ] Qualification
+- [ ] Prime Minister
+	- [ ] Appointment of Prime Minister
+	- [ ] Functions of Prime Minister
+	- [ ] Qualification
+	- [ ] Role of Prime Minister With Respect To
+		- [ ] Council of Ministers
+		- [ ] President
+		- [ ] Lok Sabha
+		- [ ] Political Party
+		- [ ] Coalition Government
+- [ ] Council of Ministers
+	- [ ] Division of Council of Ministers
+	- [ ] Role of Council of Ministers
+	- [ ] Role of Cabinet
+	- [ ] Responsibilities of the Ministers
+- [ ] The Attorney General of India
+	- [ ] Qualification
+	- [ ] Functions
+	- [ ] Powers With Respect to Parliament
+- [ ] Cabinet Secretary
+	- [ ] Qualification
+	- [ ] Functions
+- [ ] Parliament
+	- [ ] Composition of Rajya Sabha
+	- [ ] Composition of Lok Sabha
+	- [ ] Composition of Legislative Assembly and Legislative Council
+	- [ ] Qualification and Disqualification of MPs and MLAs
+	- [ ] Vacation of Seats
+	- [ ] Sessions of Parliament
+	- [ ] Law Making Procedure
+	- [ ] Officers of Parliament
+	- [ ] Officers of State Legislature
+	- [ ] Parliament Proceedings
+	- [ ] Motions and Resolutions in Parliament
+	- [ ] Powers and Privileges
+	- [ ] Financial Proceedings
+	- [ ] Comparison of Lok Sabha and Rajya Sabha
+	- [ ] Comparison of Legislative Assembly and Legislative Council
+	- [ ] Women Reservation in Parliament and Issues
+	- [ ] Lowering of Parliamentary Powers
+	- [ ] Parliamentary Committees and Their Working
+	- [ ] Judicial Activism and Parliament
+	- [ ] Delegated Legislation and Issues
+	- [ ] The Speaker
+	- [ ] The Chairman
+	- [ ] Joint Sitting
+	- [ ] Money Bills
+	- [ ] Budget Bills
+	- [ ] Parliamentary Committees
+	- [ ] Devices in Parliamentary Proceedings Like Censure Motion
+	- [ ] Privileges and General Rules of Business
+	- [ ] Acts / Laws in Current Affairs Such as Labour Laws, Codes
+- [ ] The Union Judiciary
+	- [ ] Integrated Judicial System
+	- [ ] Supreme Court
+		- [ ] Composition
+		- [ ] Independence of Supreme Court
+		- [ ] Jurisdiction of Supreme Court
+		- [ ] Judicial Review
+	- [ ] High Court
+		- [ ] Composition
+		- [ ] Terms and Removal
+		- [ ] Jurisdiction
+		- [ ] Other Powers
+		- [ ] Lower Judiciary
+		- [ ] Appointment
+		- [ ] Powers
+	- [ ] The Role of Supreme Court of India 
+		- [ ] As a Guardian of Constitution
+		- [ ] As a Protector of Fundamental Rights
+	- [ ] Judicial Review
+	- [ ] PIL
+	- [ ] Judicial Activism
+	- [ ] Judiciary Appointment
+	- [ ] Collegiums System
+	- [ ] NJAC Controversy
+	- [ ] National Court of Appeal
+	- [ ] Judicial Accountability
+	- [ ] Issues of Corruption in Judiciary
+- [ ] Ministries and Departments of the Government
+	- [ ] Functioning of Ministries
+	- [ ] Central Secretariat
+	- [ ] Central Secretary
+	- [ ] Field Organizations
+	- [ ] Reforms Needed
+	- [ ] International Methodology
+- [ ] Panchayats [ Local Government ]
+	- [ ] Provisions of 73rd Amendment Act
+	- [ ] Provisions of 74th Amendment Act
+	- [ ] Role and Functions of Different Tiers
+	- [ ] Municipal Corporations
+	- [ ] Municipal Councils
+	- [ ] Types of Urban Government
+	- [ ] Difficulties Faced By These Urban Governments
+	- [ ] Basic Schemes Related to Urban Development
+	- [ ] Nagar Panchayats
+	- [ ] Steps Taken Towards Women Empowerment
+	- [ ] Role of State Election Committee
+	- [ ] Role of State Finance Commission
+	- [ ] Smart City Mission
+	- [ ] Municipal Governance
+	- [ ] Evolution
+	- [ ] Basic Schemes Related to Rural Development
+	- [ ] Compulsary and Voluntary Provisions
+- [ ] Union Territories
+	- [ ] State Legislature vs Union Territory
+	- [ ] Legislature
+	- [ ] State Governor vs Union Territory's Administrator
+	- [ ] Union Territory's Administrator vs Chief Minister and Council of Ministers
+- [ ] Dispute Redressal Mechanisms and Institutions
+	- [ ] What is Dispute Redressal Mechanism?
+	- [ ] Need of Dispute Redressal Mechanism
+	- [ ] Administrative Tribunal and Issues
+	- [ ] Fast Track Cours and Issues
+	- [ ] Gram Nyalayas and Issues
+	- [ ] Parivarik Mahila Lok Adalats and Issues
+	- [ ] NALSA and Issues
+	- [ ] Dispute Redressal for Weaker Section
+	- [ ] Arbitration Mechanism
+	- [ ] International Arbitary Centre
+	- [ ] Commercial Court
+- [ ] Constitutional and Non Constitutional Bodies [ Check News ]
+	- [ ] Core Areas
+		- [ ] CAG
+		- [ ] Finance Commission
+		- [ ] Election Commission
+	- [ ] Laxmikanth Chapter 38-56
+	- [ ] Official Websites like [ cic.gov.in or cag.gov.in ] 
+- [ ] Comptroller and Auditor General of India
+	- [ ] Appointment
+	- [ ] Functions
+	- [ ] Role of CAG in Good Governance
+- [ ] The Governor
+	- [ ] Appointment
+	- [ ] Term of Office
+	- [ ] Qualification
+	- [ ] Powers
+	- [ ] Discretionary Powers
+	- [ ] Ordinance Making Powers
+- [ ] The Chief Minister
+	- [ ] Appointment
+	- [ ] Powers
+	- [ ] Responsibilities
+	- [ ] Relationship between Governor and Chief Minister
+	- [ ] Relationship between Council of Ministers and Chief Minister
+- [ ] Advocate General For The State
+	- [ ] Appointment
+	- [ ] Functions
+- [ ] State Legislature
+	- [ ] 
+	- [ ] Composition of Vidhan Sabha
+	- [ ] Composition of Vidhan Parishad
+	- [ ] Qualifications of the MLA
+	- [ ] Powers and Functions of State Legislature
+	- [ ] Relationship between Both Houses
+	- [ ] Officers of State Legislature
+	- [ ] Powers of State Legislatures and their Members
+	- [ ] Privileges of State Legislatures and their Members
+	- [ ] Immunities of State Legislatures and their Members
+	- [ ] Legislative Procedure
+	- [ ] Governor's Assent to Bills
+	- [ ] Procedure in Financial Matters / Budget
+- [ ] Public Policy and Rights Issues
+	- [ ]  Tribes [ Most Important ] - https://tribal.nic.in/
+	- [ ] SC / Women / Child - https://wcd.nic.in/
+	- [ ] Minorities - http://www.minorityaffairs.gov.in/
+	- [ ] Transgenders and Differently Abled - http://socialjustice.nic.in/
+
+----
+
+### Governance
+
+- [ ] Need and Importance of Government Policies
+	- [ ] Growth and Development
+	- [ ] Human Development and Human
+	- [ ] Capital Formation
+	- [ ] Equality (Inter-personal and Inter-regional) and Social Justice
+	- [ ] Unity and Integrity
+	- [ ] Trust between State and Citizens
+- [ ] Effective Implementation
+	- [ ] What is Effective Implementation?
+	- [ ] Best Outcomes In View of
+		- [ ] Given Time
+		- [ ] Given Resources
+		- [ ] Given Constraints
+	- [ ] Analysis of Different Important Schemes
+- [ ] Government Intervention
+	- [ ] Good Governance
+		- [ ] Role of Institutions
+		- [ ] Role of Bureaucrats
+		- [ ] Role of Other Stake Holders
+	- [ ] Transparency
+	- [ ] Accountability
+	- [ ] Optimum Use of Resources
+		- [ ] Right Targeting
+		- [ ] Pluggin Leakages
+		- [ ] Wasteful Expenditure
+		- [ ] Use of Available Knowledge
+		- [ ] Research
+		- [ ] Innovation
+	- [ ] Monitoring and Evaluation
+		- [ ] Outcome Budget
+		- [ ] Zero Base Budgeting
+		- [ ] Input-Output Analysis
+		- [ ] Cost-Benefit Analysis
+	- [ ] Setting Up Institutions
+	- [ ] Regulatory Norms Task Forces
+	- [ ] Steering Committees
+	- [ ] Review Committees
+- [ ] Development Process and Industry
+	- [ ] Difference between Growth and Development
+	- [ ] Main Constrains of Development
+	- [ ] Main Stake Holders in Development Process
+	- [ ] Self Help Groups
+		- [ ] Meaning
+		- [ ] Importance
+		- [ ] Objectives
+		- [ ] Institutional Structure and Organization
+		- [ ] Funding
+		- [ ] Impact
+	- [ ] Micro Finance
+		- [ ] Meaning
+		- [ ] Importance
+		- [ ] Objectives
+		- [ ] Structure and Organization
+		- [ ] Advantages
+		- [ ] Micro Finance in India
+	- [ ] Non Government Organizations
+		- [ ] What are NGOs?
+		- [ ] Differece Between NGOs and International Non Government Organizations [ INGOs ]
+		- [ ] United Nations Criteria for INGO and NGO
+		- [ ] NGOs and Development Projects
+	- [ ] NGOs and Community Development
+	- [ ] NGOs Involved In Relief and Rehabilitation
+	- [ ] NGOs Involved In Disaster Management
+	- [ ] NGOs and Advocacy
+- [ ] Important Aspects of Governance, Transparency and Accountability
+	- [ ] Citizen Centric Governance
+	- [ ] Features of Good Governance
+	- [ ] Legislative Accountability
+	- [ ] Administrative Accountability
+	- [ ] Judicial Accountability
+	- [ ] Ombudsman
+	- [ ] Whistleblowers Concept
+	- [ ] Anti-Corruption Machinery
+	- [ ] Role of Citizens
+	- [ ] Role of Media
+	- [ ] Social Audit
+	- [ ] Systematic Reforms
+- [ ] e-Governance
+	- [ ] Introduction
+	- [ ] Applications
+	- [ ] Models
+	- [ ] Successes
+	- [ ] Limitations
+	- [ ] Future Prospects
+- [ ] Citizen Charters
+	- [ ] Citizens Charters
+	- [ ] Introduction
+	- [ ] Models
+	- [ ] Features
+	- [ ] Citizen Charters In India
+	- [ ] Issues in Citizen Charters Implementation
+	- [ ] Reforms Needed
+- [ ] Role of Civil Services
+	- [ ] Concept of Civil Services
+	- [ ] Need for Civil Services
+	- [ ] Different Roles in Civil Services
+	- [ ] Law Making
+	- [ ] Policy Formulation
+	- [ ] Policy Implementation
+	- [ ] Policy Evaluation
+	- [ ] Civil Services as Protector
+	- [ ] To Protect Minorities [ Religious and Linguistic ]
+	- [ ] To Promote Inclusive and Sustainable Growth
+- [ ] Pressure Groups and Formal / Informal Associations and Their Role in Polity
+	- [ ] What are Pressure Groups?
+	- [ ] Types of Pressure Groups
+	- [ ] The Significance of Pressure Groups in India
+	- [ ] Differentiate Between A Pressure Group and A Political Party
+	- [ ] Evaluation of Pressure Groups Role
+- [ ] Appointment To Various Constitutional Posts , Powers , Functions and Responsibilities of Various Constitutional Bodies
+	- [ ] Appointment of CAG [ Procedure of Appointment ]
+	- [ ] Composition of CAG
+	- [ ] Powers of CAG
+	- [ ] Privileges of CAG [ Provided By Constitution and Different ACTs of Parliament ]
+	- [ ] Appointment of ECI [ Procedure of Appointment ] 
+	- [ ] Composition of ECI
+	- [ ] Functions of ECI
+	- [ ] Responsibilities of ECI
+	- [ ] Powers of ECI
+	- [ ] Privileges of ECI [ Provided By Constitution and Different ACTs of Parliament ]
+	- [ ] Appointments to UPSC [ Procedure of Appointment ]
+	- [ ] Composition of UPSC
+	- [ ] Functions of UPSC
+	- [ ] Responsibilities of UPSC
+	- [ ] Powers and Privileges of UPSC [ Provided By Constitution and Different ACTs of Parliament ]
+	- [ ] Appointment to Finance Commission [ Procedure of Appointment ]
+	- [ ] Composition of Finance Commission
+	- [ ] Functions of Finance Commission
+	- [ ] Responsibilities of Finance Commission
+	- [ ] Powers and Privileges of Finance Commission [ Provided By Constitution and Different ACTs of Parliament ]
+	- [ ] National Commission for SCs and STs
+- [ ] Statutory, Regulatory and Various Quasi-Judicial Bodies
+	- [ ] SEBI
+	- [ ] CVC
+	- [ ] CBI
+	- [ ] Planning Commission
+	- [ ] NDC
+	- [ ] PMO
+	- [ ] Zonal Council
+	- [ ] TRAI
+	- [ ] IRDA
+	- [ ] National Human Rights Commission
+	- [ ] State Human Rights Commission
+	- [ ] Central Information Commission
+	- [ ] State Information Commission
+	- [ ] National Consumer Disputes
+	- [ ] Redressal Commission
+	- [ ] Tribunal
+	- [ ] Medical Council of India
+	- [ ] Pension Fund Regulatory
+	- [ ] Development Authority
+	- [ ] Bio-Diversity Authority of India
+	- [ ] Press Council of India
+	- [ ] Forward Markets Commission
+	- [ ] Inland Waterways Authority of India
+		- [ ] RBI
+- [ ] Elections in India
+	- [ ] Salient Features of Representation of People Act, 1950
+	- [ ] Salient Features of Representation of Peoples Act, 1951
+	- [ ] Electoral Reforms
+	- [ ] Criminalization of Politics
+	- [ ] Negative or Neutral Voting
+	- [ ] State Funding of Elections
+	- [ ] Irregularities in Polling
+- [ ] Political Parties in India
+	- [ ] Political Parties in India
+	- [ ] Party Reforms
+	- [ ] Problems in the Working of Parties
+	- [ ] Casteism and Politics
+	- [ ] Reforms in Party System in India
+	- [ ] Strengthening of Anti-Defection Measures
+- [ ] Role of Pressure Groups
+	- [ ] Types of Pressure Groups
+	- [ ] Role of Pressure Groups in Developing Countries
+	- [ ] Functions of Pressure Groups in India
+	- [ ] Pressure Groups Methods
+	- [ ] Pressure Groups and Democracy
+	- [ ] Criticism of Pressure Groups
+
+----
+
+### Recent Developments
+
+- [ ] Bills
+	- [ ] Representation of People (Amendment) Bill 2010
+	- [ ] Aadhaar (Targeted Delivery of Financial and other Subsidies, Benefits and Services) Act, 2016
+	- [ ] Admiralty (Jurisdiction and Settlement of Maritime Claims) Bill, 2016
+	- [ ] The Anti-Hijacking Act, 2016
+	- [ ] Panchayats (Extension to the Scheduled Areas) Act, 1996
+	- [ ] Lokpal & Lokayukta (Amendment) Act, 2016
+	- [ ] Motor Vehicles (Amendment) Bill, 2016
+	- [ ] Whistleblowers Amendment Bill
+- [ ] Union and State Governments
+	- [ ] Imposition of President Rule: An Analysis
+	- [ ] Frequent Promulgation of Ordinance
+	- [ ] Provisions related to Removal of Governors
+	- [ ] Politicization of the Post of Governor
+	- [ ] Relevance of Rajya Sabha
+	- [ ] Frequent Disruption of Parliament and Its Impact
+	- [ ] Anti-Defection Law
+	- [ ] Issue related to Office of Profit
+	- [ ] Special privileges to MPs and Its Implication
+	- [ ] Freebies Politics in India
+	- [ ] Political Parties and RTI
+	- [ ] Basics of Separation of Power in India
+- [ ] Judiciary
+	- [ ] Issue related to Appointment of Judges
+	- [ ] Proposal for National Court of Appeal
+	- [ ] Concept of defamation in India
+	- [ ] Contempt of Court 
+	- [ ] What are Contempt Proceedings? 
+	- [ ] Public Interest Litigation
+	- [ ] Advocates (Amendment) Bill, 2017 Controversy
+	- [ ] Issue of Judicial over-reach 
+	- [ ] National Litigation Policy
+	- [ ] All India Judicial Services
+	- [ ] Judicial Reforms
+	- [ ] Future Challenges May Be Faced By Indian Judiciary
+	- [ ] Administrative Tribunals
+- [ ] Local Government
+	- [ ] Nagaland Reservation in Urban Bodies: Issue
+	- [ ] Education Qualification Made Mandatory for Contesting Local Government Elections
+	- [ ] Reforms Needed in Municipalities in Sync with Urban development Missions
+	- [ ] 14th Finance Commission and Local Governments
+- [ ] Elections
+	- [ ] Simultaneous Elections: Feasibility and Benefits
+	- [ ] Introduction of NOTA in Elections
+	- [ ] Bill on Right To Recall Legislators
+	- [ ] Benefits of Recognition as a National Party
+	- [ ] Provision of Compulsory Voting
+	- [ ] State Funding in Elections
+	- [ ] Corporate Funding Laws
+	- [ ] Election Commission Proposal for Countering Bribe-For-Votes
+	- [ ] About Paper Trail Units
+	- [ ] Issues Related to the Working of Political Parties
+	- [ ] Voting Rights to NRI 
+	- [ ] Role of Civil Society in Free and Fair Election
+	- [ ] Women Voices in Elections
+	- [ ] Law Commission Report on Electoral Reforms
+- [ ] Organisation / Bodies
+	- [ ] 14th Finance Commission: Analysis
+	- [ ] 7th Pay Commission Report and Repercussions
+	- [ ] AFSPA and Second ARC
+	- [ ] Inter-State River Water Dispute
+	- [ ] Role of NITI Aayog
+	- [ ] Significance of Public Accounts Committee
+	- [ ] Autonomy of CBI
+	- [ ] Analysis of functioning of CAG
+	- [ ] Right to Information
+	- [ ] Accountability and transparency in NGOs
+	- [ ] Need of Indian Skill Development Service
+- [ ] Initiatives for Transparency & Accountability
+	- [ ] Saving life and Good Samaritan Law
+	- [ ] Pro-Active Governance and Timely
+	- [ ] Implementation (PRAGATI) \ Right Based Approach in Policy Making
+	- [ ] Direct Benefit Transfer
+	- [ ] Issues related to Making Aadhaar Mandatory
+	- [ ] Reforms needed in Indian Bureaucracy
+	- [ ] Performance Appraisal System in bureaucracy
+	- [ ] Curb on VIP Culture
+- [ ] Schemes
+	- [ ] Pradhan Mantri Jan-Dhan Yojana (PMJDY)
+	- [ ] Swatchh Bharat Mission
+	- [ ] National Skill Development Mission
+	- [ ] National Food Security Act, 2013
+	- [ ] Sansad Adarsh Gram Yojana
+	- [ ] Smart City Mission
+	- [ ] Namami Gange
+- [ ] Reports and Policies
+	- [ ] NITI Aayog's Report On Rationalization of Centrally Sponsored Schemes
+	- [ ] Law Commission's 268th Report on Bail Reforms
+	- [ ] Law Commission Report on Hate Speech
+	- [ ] Model Land Leasing Law Prepared By NITI Aayog
+	- [ ] Standing Committee Report On Water Conservation
+	- [ ] Report on Working Group on Migration
+- [ ] Miscellanous
+	- Liquor ban on highways: critical analysis
+	- SC Makes National Anthem Mandatory
+	- National Water Framework Bill
+	- Regionalism: Demand for Smaller States
+	- Directly Elected Mayor
+	- Special Category Status to States: Meaning and Demand
+	- Analysis of Singur Verdict
+	- Debate on the Issue of Lobbying in India
+	- Media Role and Censorship Issue
+	- Fundamental Duties - Awareness 􀂅
+	- Campaigns is the Duty of Centre
+	- National Anthem - Mandatory in Cinema Halls - Article 51(a)
+	- Prevention of Insults to National Honor Act, 1971
+	- Triple Talaq Issue
+	- Uniform Civil Code 
+	- MGNREGA: Right to Work 
+	- Making AADHAR Mandatory Violates Fundamental Rights
+
+----
+
+# International Relations
+ 
+ 
+### India and Neighbours
+
+- [ ] India - Nepal Relations
+	- [ ] Background of Relation
+	- [ ] Political
+	- [ ] Economic
+	- [ ] The Issue of Water and Hydropower Cooperation
+	- [ ] Social
+	- [ ] Psychological
+	- [ ] The Recent Visit of Prime Minister Narendra Modi
+	- [ ] Recommendations to Improve Relations
+- [ ] India and Bhutan
+	- [ ] Economy : A Broad Overview
+	- [ ] India, Bhutan and China Issues
+	- [ ] Recent Landmark Visit by Indian Prime Minister
+- [ ] Indo - Afghan Bilateral Relations
+	- [ ] A Long History of Bilateral Relations
+	- [ ] The India-Afghanistan Development Partnership
+	- [ ] Strategic Factors undergirding India’s Partnership with Afghanistan
+	- [ ] Afghanistan after NATO Withdrawal 
+	- [ ] Options for India
+- [ ] India - Bangladesh Relations
+	 - [ ] Development Partnership 
+	 - [ ] India-Bangladesh Relations In Line with ‘Look East’ Policy
+	 - [ ] Recent Boundary Agreements and Their Analysis
+- [ ] India - Maldives Relations
+	 - [ ] Geostrategic Importance of Maldives 
+	 - [ ] Development Cooperation
+	 - [ ] Security Risks
+- [ ] India - Sri Lanka Relations
+	- [ ] Commercial Relations 
+	- [ ] Developmental Cooperation
+	- [ ] Fishermen Issue
+- [ ] India - Myanmar Relations
+	- [ ] Relation through ages
+	- [ ] Recent Change in Policy
+	- [ ] China Role
+- [ ] Indo - Pak Relations
+	- [ ] Major Crisis
+	- [ ] Water Dispute 
+	- [ ] Current Internal Scenario
+	- [ ] Impact on India 
+	- [ ] Developments in Last One Year
+- [ ] India - China Relations
+	- [ ] Economic Relation
+	- [ ] China India Water Related Issue
+	- [ ]  “String of Pearls Strategy” 
+	- [ ] China’s Maritime Silk Route 
+	- [ ] Implications for India
+- [ ] South China Sea Dispute
+	- [ ] Main Disputes 
+	- [ ] Resources as a Driver of Competition
+	- [ ] Attempts for Resolution
+	- [ ] India and South China Dispute
+- [ ] Security Challenges in the Indian Ocean Region
+	- [ ] The Pivot to Asia – US Policy Shift
+	- [ ] South China Sea - Issues of Mistrust
+	- [ ] Piracy off the Coast of Somalia
+	- [ ] Neighbourhood Issues and Terrorism
+	- [ ] Energy Routes
+	- [ ] Fisheries and Livelihood Issues
+	- [ ] Environmental Security
+	- [ ] Declaration of Indian Ocean as Zone of Peace
+	- [ ] India and Asian Nations relations
+
+----
+
+### India and Asian Nations Relations
+
+- [ ] CIS Countries of Central Asia
+	- [ ] India-Turkmenistan
+	- [ ] India-Kazakhstan
+	- [ ] India Tajikistan
+	- [ ] China And Central Asia
+	- [ ] International North-South Transport Corridor
+	- [ ] Shanghai Cooperation Organization
+- [ ] India - Mongolia
+	- [ ] India-Mongolia Bilateral Cooperation
+	- [ ] Deal on Uranium Supply
+	- [ ] Visit
+- [ ] India - UAE Relations
+	- [ ] Political and Economic Relation
+	- [ ] Oil Economic Relation
+- [ ] India - Iran
+	- [ ] Iran Nuclear Deal and India
+	- [ ] India Iran Relations
+	- [ ] US-Geopolitical and Geo-Economic Consideration in Iran
+- [ ] India - Israel
+	- [ ] Israel and Palestine
+	- [ ] India - Israel Relations
+- [ ] India - Saudia Arabia
+	- [ ] Areas of Co-operation
+	- [ ] Challenges in Relations
+- [ ] Asia - Pacific Region
+	- [ ] Zones of Activity
+	- [ ] Regional Groupings
+	- [ ] Geopolitics of Asia Pacific
+- [ ] India - South East Asia
+	- [ ] Steps into Indo - ASEAN Relations
+	- [ ] India - ASEAN Security Co-Operation
+- [ ] Indo - Japan Bilateral Relationship
+	- [ ] Economy Centric Relationship
+	- [ ] Contemporary Perspective
+- [ ] India - South Korea
+	- [ ] India South Korea Relations
+	- [ ] Economic Partnership in Recent Years
+	- [ ] 
+- [ ] India - Vietnam
+	- [ ] Economic Cooperation
+	- [ ] Strategic Cooperation
+	- [ ] Geo-political Issues concerning
+	- [ ] India-Vietnam Energy Cooperation
+	- [ ] China’s Response
+	- [ ] India’s Response
+
+----
+
+### India and Asian Nations Relations
+
+- [ ] Indian Diaspora
+	- [ ] Role Played by Indian Diaspora
+	- [ ] Issue of Safety of Indians Abroad
+	- [ ] Schemes of Welfare of Overseas Indian
+	- [ ] Narendra Modi and Indian Diaspora
+
+
+----
+
+### India & Other Nation and Institutions
+
+- [ ] The World Trade Organization
+	 - [ ] Representation in the WTO and Economic Groupings
+	 - [ ] How the WTO takes Decisions
+	 - [ ] The WTO Secretariat and Budget
+	 - [ ] How Countries Join the WTO
+	 - [ ] Assisting Developing and Transition Economies
+	 - [ ] Specialized Help for Export Promotion
+	 - [ ] The WTO’s Part in Global Economic Policy-making
+	 - [ ] Nairobi Package adopted at 10th WTO Ministerial Conference
+	 - [ ] WTO Reportsrise in protectionism
+- [ ] India - USA Relations
+	 - [ ] Area of Co-operation: Strategic Consultations
+	 - [ ] Area of Co-operation : Counter Terrorism and Internal Security
+	 - [ ] Area of Co-operation : Trade and Economic
+	 - [ ] Area of Co-operation : Energy and Climate Change
+	 - [ ] Area of Co-operation : Science & Technology (S&T) and Space
+	 - [ ] Area of Co-operation : People to People Ties
+	 - [ ] Area of Co-operation : Defence Cooperation
+	 - [ ] Intellectual Property Issues
+	 - [ ] India and International Organisations
+- [ ] United Kingdom
+	 - [ ] Ties in Current Context
+	 - [ ] Scotland’s Referendum
+	 - [ ] India & BREXIT
+- [ ] France
+	 - [ ] Strategic Partnership
+	 - [ ] Prime Minister’s Recent Visit to France 
+	 - [ ] Germany
+	 - [ ] Indian-Germany Economic Relations
+- [ ] Indo - Australia Relationship
+	 - [ ] Immigration Issue and Indian Diaspora
+	 - [ ] Economic Relationship
+	 - [ ] Issue of Nuclear Cooperation
+	 - [ ] India-Russia Bilateral Relationship
+	 - [ ] Shanghai Co-operation Organization
+	 - [ ] Warming Relationship between Pakistan and Russia
+- [ ] India and Africa
+	 - [ ] 
+	 - [ ] Historical Connections
+	 - [ ] Gandhi’s Role
+	 - [ ] Nehru’s Role
+	 - [ ] Strengthening of Ties
+	 - [ ] South-south Engagement
+	 - [ ] Current Dynamics
+	 - [ ] Economic Cooperation
+	 - [ ] Human Resources Development and Capacity Building
+	 - [ ] Energy Cooperation
+	 - [ ] Military Security Co-operation
+	 - [ ] Trade Policy under Modi
+	 - [ ] Afro-Indian Trade
+	 - [ ] Indian investment in Africa
+	 - [ ] African investment in India
+	 - [ ] Development Cooperation and Assistance
+- [ ] Indian Diaspora
+	- [ ] Role Played by Indian Disapora
+	- [ ] Issues of Safety Of Indians Abroad
+	- [ ] Schemes for Welfare of Overseas Indian
+	- [ ] Narendra Modi and Indian Diaspora 
+- [ ] International Monetary Fund
+	- [ ] International Monetary Fund (IMF) 
+	- [ ] India gets more Voting Rights in IMF Reforms
+- [ ] Nuclear Security Summit
+	- [ ] The fourth Nuclear Security Summit: 2016
+	- [ ] Threats of Nuclear Terrorism
+	- [ ] Missile Technology Control Regime (MTCR)
+	- [ ] Nuclear Suppliers Group (NSG)
+	- [ ] Recent Support for NSG Membership for India 
+	- [ ] Why is India seeking to become a member of NSG?
+	- [ ] Why are certain countries opposing 
+	- [ ] India’s entry into NSG?
+	- [ ] Argument in Favour for India Joining NSG
+- [ ] BRICS
+	- [ ] Economic Environment in BRICS Countries 
+	- [ ] Last BRICS Summit in Goa, India 
+	- [ ] BRICS-BIMSTEC Outreach Summit
+- [ ] BIMSTEC
+	- [ ] Convention on Mutual Legal Assistance in Criminal Matters
+- [ ] IBSA
+	- [ ] IBSA Potential
+	- [ ] Need for Revitalizing IBSA
+	- [ ] India’s Policy Options
+	- [ ] Technological Collaboration
+- [ ] SAARC
+	- [ ] Indo-Pak Conflict
+	- [ ] Problem of Resource Development
+	- [ ] Prospects For SAARC
+- [ ] Relevance of Non-Alignment in Present India
+	- [ ] What is NAM?
+	- [ ] Relevance in Present Era
+- [ ] India - ASEAN Economic Cooperation
+	- [ ] Singapore
+	- [ ] Vietnam
+	- [ ] Indonesia
+	- [ ] India ASEAN FTA In Service
+
+----
+
+
+# Economy
+
+### Basic Economy
+
+- [ ] Indian Economy and Issues Relating to Planning
+	- [ ] Indian Economy in Pre-independence Period
+	- [ ] Economy on Eve of Independence 
+	- [ ] Challenges
+	- [ ] Features
+	- [ ] Post-Independence India
+	- [ ] Issues
+	- [ ] Agriculture and Its Development So Far
+	- [ ] Industry
+	- [ ] Services
+	- [ ] Phases of Economic Development in India
+	- [ ] Nehruvian Socialist Economy
+	- [ ] Economic Reforms
+	- [ ] Planning
+	- [ ] Objectives
+	- [ ] Technical Details
+	- [ ] Planning History
+	- [ ] Analysis of Each Plan
+- [ ] Resource Mobilization
+	- [ ] Types of resources: 
+		- [ ] Physical Capital 
+		- [ ] Finance Capital
+	- [ ] Need for Resource Mobilization
+		 - [ ] Police State
+		 - [ ] Democratic Welfare State
+	- [ ] Sources of resource mobilization:
+		- [ ] Public Sector
+		- [ ] Private Sector
+	- [ ] Savings and Investment Over The Five Year Plan
+	- [ ] Budgetary resources
+		- [ ] Tax
+		- [ ] Non Tax
+	- [ ] Role of Public Debt in resource mobilization
+	- [ ] Effects
+		- [ ] Market Borrowing 
+		- [ ] Loans
+		- [ ] Grants
+		- [ ] Others
+	- [ ] Role of Fiscal and Monetary Policies in Resource Mobilization
+	- [ ] Role of Foreign Investment in Mobilization
+		- [ ] Desirability
+		- [ ] Consequences
+- [ ] Inclusive Growth and Issues Arising From It
+	- [ ] Meaning and Concept of Inclusion
+	- [ ] India’s Experience
+	- [ ] Social Sector Initiatives and Inclusion Process
+	- [ ] Ground Reality and Working of Flagship Schemes
+	- [ ] India's Growth Story In This Context
+	- [ ] Why India's Growth is NOT Inclusive?
+	- [ ] Rural Economy Based Growth
+	- [ ] Need of Sustainable Agriculture
+	- [ ] Need of Food Security
+	- [ ] Need of Resilience for Growth
+	- [ ] Public Distribution Schemes
+		- [ ] Way to Improve Inclusive Growth
+		- [ ] Is it possible?
+	- [ ] Financial Inclusion as an Instrument of Inclusive Growth
+	- [ ] Strategy for Inclusive Growth
+		- [ ] Poverty Alleviation
+		- [ ] Employment Generation
+	- [ ] Social Sector Development as an Instrument for Inclusive Growth
+	- [ ] Public Private Partnership for Inclusive Growth
+	- [ ] Industrial Integration for Inclusive Growth
+	- [ ] Sectoral and Regional Diversification as a Tool for Inclusive Growth
+- [ ] Government Budgeting
+	- [ ] Budget terminology
+	- [ ] Types of Budget
+	- [ ] Features of Outcome Budgeting 
+	- [ ] Merger of Railway and General Budget
+	- [ ] Benefits of Budgeting
+	- [ ] Flaws in budgeting process 
+	- [ ] Budget analysis
+- [ ] Investment Models
+	- [ ] Measures of Investment
+	- [ ] Capital and investment
+	- [ ] Factors affecting investment
+	- [ ] Classification of Investment
+	- [ ] FDI
+	- [ ] Angel Investors and Start-ups
+	- [ ] M&A
+	- [ ] Investment Models
+	- [ ] Role of State
+	- [ ] PPP (Public-Private Partnership)
+	- [ ] Savings and Investment Trends
+- [ ] Fiscal Policy
+	- [ ] Fiscal Policy In India
+	- [ ] Important Budgetary Terms and Fiscal Concept
+	- [ ] Government Revenues and Spending
+	- [ ] Deficits
+	- [ ] Balance Sheet
+- [ ] Taxation
+	- [ ] Taxation Meaning
+	- [ ] Principles of Taxation
+	- [ ] Objectives of Taxation
+	- [ ] Taxation for Mobilization of Resources
+	- [ ] Tax System in India
+	- [ ] Subsidies
+	- [ ] Tax Reforms
+	- [ ] GST
+- [ ] Monetary Policy in India
+	- [ ] Instruments of Monetary Policy
+	- [ ] Monetary policy in Pre-Reform Era (1948 – 1991)
+	- [ ] Monetary Policy in Post-Reform Era ( Since - 1991)
+	- [ ] Urjit Patel Committee Report
+	- [ ] Monetary Policy Committee
+	- [ ] Inflation Targeting
+- [ ] Financial System
+	- [ ] Money Market in India
+	- [ ] Capital Market in India
+	- [ ] Indian Capital Market Regulatory Framework
+	- [ ] Primary Market Reforms in India
+	- [ ] Secondary Market Reforms in India
+- [ ] Banking
+	- [ ] Indian Banking System
+	- [ ] Functions of Commercial Banks
+	- [ ] Challenges Faced by Commercial Banks in India
+	- [ ] Nationalization of Banks in India
+	- [ ] Banking Reforms in India
+	- [ ] New Bank Licence Criteria
+	- [ ] Small Finance Banks and Payment Banks Criteria
+	- [ ] Non-Banking Financial Company (NBFC)
+	- [ ] Terminologies/Concepts Related to Banking in India
+	- [ ] Financial Inclusion
+	- [ ] NPAs 
+	- [ ] Bills relatied to Banking
+- [ ] Foreign Trade & International Organisations
+	- [ ] International Trade
+	- [ ] Trade Policy
+	- [ ] Balance of Payments
+	- [ ] Foreign Capital
+	- [ ] Impact of Globalization on Indian Economy
+	- [ ] International Monetary Fund
+	- [ ] WTO
+	- [ ] World Bank Group
+	- [ ] AIIB and NDB
+- [ ] National Income
+	- [ ] Concept of National Income
+	- [ ] Working
+	- [ ] How to Calculate It
+	- [ ] Impact
+	- [ ] Connection to Development of India
+	- [ ] National Income Accounting
+		- [ ] GDP
+		- [ ] GNP
+		- [ ] NDP
+		- [ ] NNP [ @ Factor Costs and @ Market Prices ]
+		- [ ] National Income
+		- [ ] PCI
+		- [ ] PI
+		- [ ] ICOR
+		- [ ] GDP Deflation
+- [ ] Central Statistical Organistion
+	- [ ] Working
+	- [ ] Composition
+	- [ ] Importance
+- [ ] Growth and Development
+	- [ ] Reports
+	- [ ] Indices
+	- [ ] HDI
+	- [ ] GII
+	- [ ] MPI
+	- [ ] Others
+- [ ] Demographics
+	- [ ] Meaning
+	- [ ] Concept
+	- [ ] Sectoral Composition
+	- [ ] Demographic Dividend
+- [ ] Money
+	- [ ] Functions
+		- [ ] Primary
+		- [ ] Secondary
+	- [ ] Forms of Money
+	- [ ] Money Supply
+		- [ ] Monetary
+		- [ ] Liquidity Aggregates
+	- [ ] Money Multiplier
+	- [ ] Currency Management
+		- [ ] Role of RBI
+		- [ ] Role of Government
+
+----
+
+### Public Finance
+
+- [ ] Budget
+	- [ ] Types of Budget
+	- [ ] Gender Based
+	- [ ] Zero Based
+	- [ ] Incremental
+- [ ] Revenue
+	- [ ] Receipts
+		- [ ] Tax [ Direct and Indirect GST ]
+		- [ ] Non-Tax
+	- [ ] Expenditure
+- [ ] Capital
+	- [ ] Receipts
+		- [ ] Debt
+		- [ ] Non Debt
+	- [ ] Expenditure
+- [ ] Public Debt
+	- [ ] What is Public Debt?
+	- [ ] Internal Public Debt
+	- [ ] External Public Debt
+	- [ ] Other Liabilities
+- [ ] Deficits
+	- [ ] Fiscal Deficits
+	- [ ] Budget Deficits
+	- [ ] Revenue Deficits
+	- [ ] Primary Deficits
+- [ ] FRBM Recommendations
+- [ ] Finance Commission
+	- [ ] 13th Recommendation
+	- [ ] 14th Recommendation
+- [ ] Business Cycle
+	- [ ] Recession
+	- [ ] Depression
+	- [ ] Recovery
+	- [ ] Boom
+- [ ] Fiscal Policy
+	- [ ] Expansionary
+	- [ ] Contractionary
+
+----
+
+### Inflation
+
+- [ ] Causes of Inflation
+	- [ ] Demand Pull
+	- [ ] Cost Push
+	- [ ] Structural
+- [ ] Based on Rates
+	- [ ] Creeping
+	- [ ] Walking
+	- [ ] Running
+	- [ ] Galloping
+- [ ] Inflation Measurement
+	- [ ] WPI
+	- [ ] CPI
+		- [ ] Rural
+		- [ ] Urban
+		- [ ] Industrial Workers
+- [ ] Effects of Inflation
+	- [ ] On Different Sectors
+	- [ ] On Different Professions
+	- [ ] On Society
+- [ ] Inflation Control
+	- [ ] Fiscal Policy
+		- [ ] Taxation
+		- [ ] Expenditure Regulation
+	- [ ] Monetary Policy
+		- [ ] Quantitative
+			- [ ] Bank Rate
+			- [ ] OMO
+			- [ ] CRR
+			- [ ] SLR
+			- [ ] Repo
+			- [ ] Reverse Repo
+		- [ ] Qualitative
+
+
+----
+
+### External Sector
+
+- [ ] Balance of Payment
+	- [ ] Current Account
+	- [ ] Capital Account
+- [ ] Exports
+	- [ ] Sector Wise Growth Rates
+- [ ] Imports
+	- [ ] Sector Wise Growth Rates
+- [ ] Twin Deficits
+	- [ ] CAD
+	- [ ] Fiscal Deficits
+- [ ] FDI
+	- [ ] Definition
+	- [ ] Routes
+	- [ ] FDI Caps
+- [ ] FERA
+- [ ] FEMA
+- [ ] Exchange Rate Determination
+	- [ ] Fixed
+	- [ ] Adjustable Peg
+	- [ ] Floating
+- [ ] Exchange Rate
+	- [ ] Depreciation
+	- [ ] Appreciation
+	- [ ] Revaluation
+	- [ ] Devaluation
+	- [ ] REER
+	- [ ] NER
+	- [ ] RER
+	- [ ] PPP
+- [ ] Forex Reserves
+- [ ] Rupee Convertibility
+	- [ ] Current Account
+	- [ ] Capital Account
+- [ ] External Debt
+
+----
+
+### Financial Inclusion
+
+- [ ] Banking
+- [ ] Evolution of Banking
+	- [ ] From 1786 to Till Now
+	- [ ] Payment Banks
+	- [ ] Small Finance Banks
+- [ ] Banking Structure
+	- [ ] Commercial Banks
+	- [ ] Co-operative Banks
+	- [ ] RRBs
+- [ ] RBI
+	- [ ] Functions
+	- [ ] Importance
+- [ ] Reforms
+	- [ ] PSL
+	- [ ] Lead Bank Scheme
+- [ ] NPA
+	- [ ] Classification
+	- [ ] Management
+	- [ ] Government Initiatives
+	- [ ] RBI Initiatives
+- [ ] Basel Norms
+- [ ] Banking Ombudsman Scheme
+- [ ] NBFC
+
+----
+
+### Financial Markets
+
+- [ ] Money Market
+	- [ ] Organised
+	- [ ] Unorganised
+	- [ ] NBFCs
+- [ ] Capital Market
+	- [ ] Instruments
+	- [ ] Bull
+	- [ ] Bear
+- [ ] SEBI
+	- [ ] Functions of SEBI
+	- [ ] Role of SEBI
+- [ ] Poverty
+	- [ ] Definition
+	- [ ] Measurement
+	- [ ] Poverty Alleviation Schemes
+- [ ] Unemployment
+	- [ ] Types
+	- [ ] Causes
+	- [ ] Measurement
+
+----
+
+### Social Sector Initiatives
+
+- [ ] Health
+	- [ ] Health Coverage
+	- [ ] Importance
+	- [ ] Government Initiatives
+	- [ ] Have they been effective?
+- [ ] Education
+	- [ ] Importance
+	- [ ] Impact on Growth
+	- [ ] Government Initiatives
+
+----
+
+### Agriculture
+
+- [ ] Role of Agriculture in Indian Economy
+- [ ] Land Resource
+	- [ ] Land Use
+	- [ ] Land Capability Classification
+	- [ ] Causes of Land Degradation
+	- [ ] Impact of Land Degradation
+	- [ ] Steps Taken by GOI
+	- [ ] Sustainable Land Management
+- [ ] Land Reforms
+	- [ ] Objectives of Land Reforms in India
+	- [ ] Progress of Land Reforms in India
+	- [ ] Progress of Ceiling Legislation
+	- [ ] NITI Aayog Report on Land Leasing
+- [ ] Agriculture Finance
+	- [ ] Features of Agricultural Finance
+	- [ ] Criteria for Agricultural Credit
+	- [ ] Need for Agricultural Finance
+	- [ ] Sources of Agricultural Finance
+	- [ ] Problems of Agricultural Finance
+	- [ ] Measures Taken to Improve Credit Flow to Agriculture
+	- [ ] Co-Operative Credit Societies in India
+- [ ] Agricultural Credit Institutions
+	- [ ] Commercial Bank
+	- [ ] Lead Bank Scheme
+	- [ ] Multi-Agency Approach
+	- [ ] Regional Rural Banks
+	- [ ] National Bank for Agriculture and Rural Development (NABARD)
+	- [ ] Reserve Bank of India
+	- [ ] Kisan Credit Card Scheme
+	- [ ] Self Help Group (SHG)
+	- [ ] Bank Linkage Programme
+	- [ ] Rural Infrastructure Development Fund (RIDF)
+	- [ ] Government Policy For Agricultural Credit
+	- [ ] Farmers Service Societies (FSS)
+- [ ] Crop Insurance in India
+	- [ ] Historical Background
+	- [ ] Issues Related to Crop Insurance
+	- [ ] Pradhan Mantri Fasal Bima Yojana
+	- [ ] Comparison With Earlier Crop Insurance Schemes
+	- [ ] Challenges
+- [ ] Agricultural Marketing
+	- [ ] Process of Agricultural Marketing in India 
+	- [ ] Structure of Agricultural Marketing in India
+	- [ ] Importance of Proper Agriculture Marketing
+	- [ ] Government Measures to Improve
+	- [ ] Agricultural Marketing in India
+	- [ ] Analysis of APMC Act
+- [ ] Subsidies
+	- [ ] Objectives of Subsidies
+	- [ ] Transfer of resources From Gainers From Economic Policies To Losers From Economic Policies
+	- [ ] Farm Subsidies
+	- [ ] Fertiliser Subsidies
+	- [ ] Subsidy on Power
+	- [ ] Subsidy on Irrigation
+	- [ ] Rationale of Minimum Support Price
+	- [ ] Impact of MSP on Inflation
+	- [ ] Public Distribution System: 
+		- [ ] Objectives
+		- [ ] Functioning
+		- [ ] Limitations
+		- [ ] Revamping
+		- [ ] Evolution from Universal PDS to Targeted PDS
+	- [ ] Targeted PDS
+	- [ ] Critical Analysis of Cost
+	- [ ] Benefit of PDS
+	- [ ] Buffer Stock Policy
+	- [ ] Government Intervention in Food Market to Keep Prices under Reasonable Limits to Help Consumers
+	- [ ] Food Security bill, Questions of Resource Mobilization for the FSB
+	- [ ] Criticism of the FSB
+	- [ ] Important questions on the Future of Subsidies
+- [ ] Agricultural Revolutions in India
+	- [ ] Green Revolution
+	- [ ] White Revolution – Operation Flood
+	- [ ] Yellow Revolution
+	- [ ] Blue Revolution
+	- [ ] Golden Fiber Revolution : Jute
+- [ ] Food Processing
+	- [ ] Processed Foods Scenario with Respect to Specific Sectors
+	- [ ] Policy Initiatives
+	- [ ] Infrastructure Development in Food Processing Sector
+	- [ ] Issues in Food Processing Sector
+		- [ ] FDI Policy in Food Processing
+		- [ ] Notable Trends in the Indian
+		- [ ] Food Processing Sector
+		- [ ] Strategies Adopted in Budget 
+		- [ ] New foreign and domestic investment
+		- [ ] Sector-Specific Government Policies
+
+----
+
+### Industry
+
+- [ ] Industrial Policy and Industrial Development : Main Issues
+	- [ ] Mahalanobic Strategy
+	- [ ] India's Industrial Policy
+	- [ ] Discussing Industrial Policy Resolution 1948 and 1956 Critically
+- [ ] New Economic Policy
+- [ ] Industrial Policy under
+	- [ ] Policy of Liberalization
+	- [ ] Privatization
+	- [ ] Globalization
+- [ ] Phases of Industrial Development
+- [ ] Main Features of Industrial Development in India
+	- [ ] Roles of Private Sector and Public Sector
+	- [ ] Investment in 
+		- [ ] Industrial Sector
+		- [ ] Employment
+		- [ ] Productivity
+		- [ ] Profit
+		- [ ] Others
+	- [ ] Strategies for Disinvestment and Privatization
+	- [ ] Role of Small, Medium and Micro Enterprises
+	- [ ] Government Policy
+	- [ ] Main Problems
+	- [ ] Effects of Globalization
+	- [ ] New Manufacturing Policy
+	- [ ] Industrial Disbursal and Industrial Corridors
+	- [ ] Special Economic Zone
+		- [ ] Main Issues like Land Use
+		- [ ] Relocation of Same Industries that Exist
+		- [ ] Exports Earnings vs Loss of Tax Income
+	- [ ] Industrial Sickness
+	- [ ] Institutional Mechanism to Suppor the Sick Industries
+	- [ ] Exit Policy Issues
+	- [ ] Main Constraints in Industrial Development of India
+	- [ ] Effects of Globalization on Industries
+	- [ ] Sub-prime Crisis on Industry in India
+	- [ ] Sovereign Debt Crisis on Industry in India
+	- [ ] Industrial Finance in India
+		- [ ] Role of Development Banking in Industrialization and Promotion of Entrepreneurship
+		- [ ] Role of Commercial Banking  in Industrialization and Promotion of Entrepreneurship
+		- [ ] Role of Venture Capital  in Industrialization and Promotion of Entrepreneurship
+		- [ ] Role of Angel Capital  in Industrialization and Promotion of Entrepreneurship
+	- [ ] Make in India Achievements
+- [ ] Public Sector Undertakings
+	- [ ] Maharatnas
+	- [ ] Miniratnas
+	- [ ] Navaratnas
+- [ ] Disinvestment
+	- [ ] National Investment Fund
+- [ ] MSME's
+- [ ] Policies
+	- [ ] NIMZ
+	- [ ] Make in India
+	- [ ] IIP
+- [ ] Services
+	- [ ] Composition
+	- [ ] Growth
+	- [ ] Difficulties
+
+----
+
+### Transport
+
+- [ ] Transport
+- [ ] Importance and development of Transport
+- [ ] Means of Transport
+- [ ] Transport Costs and Economic Distance
+- [ ] Operating costs in Transport
+- [ ] Relative Importance of Means of Transport 
+	 - [ ] Railways
+	 - [ ] Roads
+	 - [ ] Pipeline
+	 - [ ] Oceans
+	 - [ ] Air transport
+- [ ]  Profits and Freight Rates
+- [ ] Government’s Transport Policy
+- [ ] Transport Patterns in the World
+	- [ ] Oceanic Transport
+		- [ ] Ocean Transport routes
+		- [ ] Inland Waterways
+		- [ ] Main Regions of Inland Waterways 􀂅
+	- [ ] Railways
+		- [ ] Factors Affecting the Railroads
+		- [ ] Distribution of Railroads in the World
+	- [ ] Factors Influencing Air Transport
+	- [ ] Pipeline Transport
+		- [ ] Petroleum (oil) Pipelines
+		- [ ] Gas Pipelines
+- [ ] Transport Costs and Specialization
+- [ ] Transport and Trade in the Modern Era
+- [ ] Transport Costs and Scale Economies
+- [ ] Falling Transport Costs Increase Trade Between Neighbours
+- [ ] Failing Transport Costs Lead to Concentration Within Countries
+- [ ] Negative Externalities of Transport
+- [ ] Important Issues
+	- [ ] Ownership and Financing
+	- [ ] Pricing of Public Utilities
+	- [ ] Infrastructure as Avenues for Investment
+	- [ ] Project Delays
+		- [ ] Reasons
+		- [ ] Measures to Overcome
+	- [ ] Public Private Partnership and Related Issues
+	- [ ] Operation and Maintenance
+		- [ ] Roads
+		- [ ] Railways
+		- [ ] Irrigation Projects
+		- [ ] Power Projects
+		- [ ] Main Problems
+		- [ ] Solutions
+	- [ ] Impact of Infrastructure
+		- [ ] Economic Impact
+		- [ ] Impact on Social Development
+		- [ ] Environmental Impacts
+
+
+==Focus Areas==
+1. Organisations in news – CCEA, NITI AAYOG, RBI, CACP, FICCI, SEBI IRDAI, NABARD, WTO, IMF, WORLD BANK, ADB, NDB, OECD etc
+2. Reports and Indices
+3. Government schemes and initiatives
+4. Economic survey
+5. Important Economic Terminologies in News
+6. Trends for GDP, GNP, Poverty etc
+7. Composition of Various sectors Growth rates etc
+8. www.arthapedia.in
+
+----
+
+
+### Recent Developments
+
+
+- [ ] Finance
+	- [ ] Changes in Budget Process in India
+	- [ ] Public Debt Management Cell
+	- [ ] IBBI and Insolvency Rules
+	- [ ] Demonetization and Its Impact
+	- [ ] Goods and Services Tax
+	- [ ] Digital Payments Scenario
+	- [ ] Task Force Releases Draft Bill to Establish a Financial Data Management Centre
+	- [ ] Task Force Report on Financial Redress Agency Released
+	- [ ] Law Commission Submits Report on Income Tax Related to Minors
+	- [ ] Consumer Get Free Hand on Paying Service Charge
+	- [ ] Monetary Policy Committee Review
+	- [ ] Report of Working Group on Development of Corporate Bond Market in India
+	- [ ] Concept of Municipal Bonds
+	- [ ] Lower Taxes, Higher Compliance : Implication on Economy
+- [ ] Banking
+	- [ ] Bank Consolidation: Pros and Cons
+	- [ ] Concept of Willful Defaulter
+	- [ ] Concept of Bad Bank
+	- [ ] Shadow Banking 
+	- [ ] Non Performing Assets 
+	- [ ] Debate on RBI Autonomy 
+	- [ ] INDRADHANUSH Analysis
+	- [ ] MCLR Regime
+	- [ ] Unified Payment Interface
+	- [ ] India’s Post Payment Bank
+	- [ ] Issue of Balance Sheet Syndrome
+	- [ ] Differentiated Bank Licenses
+- [ ] Industry
+	- [ ] Standing Committee Submits Report On Industrial Policy
+	- [ ] Draft National Food Processing Policy Released
+	- [ ] Initiatives for Fund for Start-ups
+	- [ ] Companies Need to Look Beyond CSR
+	- [ ] Merger of Telecoms
+	- [ ] National Company Law Tribunal
+	- [ ] Initiatives to Support MSME Sector 
+	- [ ] Model Shop and Establishment Bill, 2016
+	- [ ] National Capital Goods Policy
+	- [ ] H1B Visa Rules and IT Sector
+	- [ ] Ease of Doing Business Initiatives in Realty Sector
+	- [ ] Coal linkage Policy
+	- [ ] Ministry Releases Draft Labor Code on Social Security
+	- [ ] Analysis of Competition Commission of India
+- [ ] Agriculture
+	- [ ] NITI Aayog Report on Agriculture
+	- [ ] Agricultural Index by NITI Aayog
+	- [ ] Defects in Procurement Policy
+	- [ ] Reforming Trade in Agriculture Products
+	- [ ] Report on Incentivising Production of Pulses Released by Ministry of Finance
+	- [ ] Draft Model APMC Act, 2016 released
+- [ ] Infrastructure
+	- [ ] Sagarmala Project
+	- [ ] Inland Waterways in India 
+	- [ ] Safety Issues in Railways
+	- [ ] Draft policy for providing New Suburban Rail Systems Released
+	- [ ] NITI Aayog Releases Report on the Impact of Social Service Obligations by Railways
+	- [ ] Indian Railway Tourism Policy
+	- [ ] Aviation Sector and Regional Connectivity Scheme
+	- [ ] Air Service Agreement 
+	- [ ] HELP
+	- [ ] Ministry of Power Releases Guidelines on Cross-Border Trading of Electricity
+	- [ ] Supreme Court Bans Sale of Vehicles Not Compliant with BS IV Standards
+	- [ ] Multi-Modal Transport System
+- [ ] External Sector
+	- [ ] Model Bilateral Investment Treaty
+	- [ ] Phasing Out of FIPB 
+	- [ ] FDI Status and Issues
+	- [ ] Permanent Residency Status to Foreign Investors
+	- [ ] Dispute Settlement Mechanism in WTO
+	- [ ] Increase in International Trade Dispute
+	- [ ] FTP 2015-20
+	- [ ] Reforms in IMF Quota
+- [ ] Committees
+	- [ ] FSLRC - Financial Sector Legislative Reforms Commission: Analysis
+	- [ ] Nachiket Mor Committee Report
+	- [ ] P.J Nayak Committee
+	- [ ] Vijay Kelkar Committee on PPP
+	- [ ] Parthasarathi Shome committee on GAAR
+	- [ ] Urjit Patel Committee Report on Monetary Policy
+	- [ ] Mahapatra Committee (NBFC Loan Restructuring)
+	- [ ] Usha Thorat Committee
+	- [ ] Debroy Committee on Railways 
+	- [ ] N.K. Sing Panel Report on FRBM
+	- [ ] Shanta Kumar Committee
+	- [ ] Ratan Watal Committee on Digital Payments
+- [ ] Miscellanous
+	- Unemployment Survey
+	- India’s First International Arbitration Centre Inaugurated
+	- Ponzi Scheme and Issues
+	- Fat Tax: Concept Analysis
+	- National Student Start Up Policy
+
+----
+
+# Ecology and Environment
+
+### Ecology and Biodiversity
+
+- [ ] Ecology
+	- [ ] Ecology Definition
+	- [ ] Environment Definition
+	- [ ] Environment Components
+		- [ ] Biotic 
+		- [ ] Abiotic
+	- [ ] Ecological Hierarchy
+	- [ ] Scope of Ecology
+	- [ ] Habitat & Ecological Niche
+	- [ ] Deep vs Shallow Ecology
+	- [ ] Ecological Principles
+	- [ ] Ecological Community
+		- [ ] Structure and Characteristics of a Community
+		- [ ] Stratification
+		- [ ] Ecotones
+			- [ ] Niche Types
+		- [ ] Ecological Dominance
+		- [ ] Seasonal and Diurnal Fluctuation
+		- [ ] Periodicity
+		- [ ] Turnover
+		- [ ] Interdependence
+	- [ ] Ecological Succession
+		- [ ] Types and Process of Succession
+		- [ ] Climax Community
+	- [ ] Range of Tolerance
+	- [ ] Maximum Range of Tolerance
+	- [ ] Difference Between Ecology, Environment and Ecosystem
+- [ ] Ecosystem and It's Dynamics
+	- [ ] Ecosystem Definitions
+	- [ ] Functions and Properties of Ecosystem
+	- [ ] The Structure/Components of Ecosystem
+		- [ ] Abiotic Components
+		- [ ] Biotic Components
+	- [ ] Ecosystem Dynamics
+		- [ ] Flow of Energy in Ecosystem
+		- [ ] Trophic Levels
+		- [ ] Ecological Pyramid
+			- [ ] Pyramid of Biomass
+			- [ ] Pyramid of Numbers
+			- [ ] Pyramid of Energy
+		- [ ] Food Chain
+		- [ ] Types of Food Chain
+		- [ ] Significance of Food Chain
+		- [ ] Food Web
+		- [ ] Models for Energy Flow
+		- [ ] Ecological Productivity
+		- [ ] Ecological Pyramid
+	- [ ] Biomagnification
+	- [ ] Biological Control
+	- [ ] Organic Farming
+	- [ ] Bioaccumulation
+	- [ ] Bioremediation
+	- [ ] Biopiracy
+	- [ ] Bioleaching
+	- [ ] Bioterrorism
+	- [ ] Carbon Footprint
+	- [ ] Ecological Footprint
+	- [ ] Eutrophication
+	- [ ] Algal Blooms - Red Tide
+	- [ ] Biological Oxygen Demand
+	- [ ] Ecological Succession
+		- [ ] Primary
+		- [ ] Secondary
+		- [ ] Succession
+		- [ ] Climax
+	- [ ] Biotic Interaction
+		- [ ] Mutualism
+		- [ ] Communalism
+		- [ ] Others
+- [ ] Biogeochemical Cycles
+	- [ ] Parts of a Bio Geochemical Cycle
+	- [ ] What is a Biogeochemical Cycle?
+	- [ ] Types
+		- [ ] Carbon Cycle 
+		- [ ] Nitrogen Cycle
+		- [ ] Phosphorus Cycle
+		- [ ] Sulphur Cycle
+		- [ ] Hydrological Cycle
+- [ ] Biomes: Forest, Grassland, Mountain, and Desert Ecosystems
+	- [ ] Biome
+	- [ ] Forests and It's Types
+	- [ ] Grasslands
+	- [ ] Tundra
+	- [ ] Deserts
+	- [ ] Thar Desert
+	- [ ] Mountain Biome
+- [ ] Aquatic Life Zones: Ocean, Rivers, Lakes, and Wetlands
+	- [ ] Aquatic Ecosytems
+	- [ ] Basic Facts About the Ocean
+	- [ ] Importance of the Ocean
+	- [ ] Zones of the Ocean
+	- [ ] Marine Life
+	- [ ] Coral Reefs
+		- [ ] Coral Reefs in India
+		- [ ] Conserving Coral Reefs
+		- [ ] Coral Bleaching
+	- [ ] Mangroves
+		- [ ] Mangroves in India
+		- [ ] Characteristics
+		- [ ] Root Modification
+	- [ ] Freshwater in India
+	- [ ] Importance of Lakes
+	- [ ] National Lake Conservation Plan
+	- [ ] Wetlands
+		- [ ] Types of Wetlands
+		- [ ] National Wetland Conservation Program
+		- [ ] Wetlands and Their Importance
+		- [ ] Extent and Distribution of Wetlands in India
+		- [ ] Conserving the Wetlands in India
+	- [ ] Ramsar Convention
+	- [ ] Ramsar Sites
+	- [ ] Montreux Record
+- [ ] Biodiversity Basics
+	- [ ] Biodiversity
+	- [ ] Important Kinds of Biodiversity
+	- [ ] Degree of Diversity in an Ecosystem
+		- [ ] Endemic Species
+		- [ ] Keystone Species
+		- [ ] Indicator Species
+		- [ ] Invasive Species
+	- [ ] Levels of Biodiversity
+		- [ ] Genetic Diversity
+		- [ ] Species Diversity
+		- [ ] Ecosystem / Community Diversity
+	- [ ] Measurement of Biodiversity
+		- [ ] Species Richness
+			- [ ] Alpha
+			- [ ] Beta
+			- [ ] Gamma
+		- [ ] Species Evenness
+	- [ ] Fauna Diversity
+		- [ ] Vertebrates
+			- [ ] Fish
+			- [ ] Reptiles
+			- [ ] Birds
+			- [ ] Amphibians
+			- [ ] Mammals
+		- [ ] In-Vertebrates
+			- [ ] Annelids
+			- [ ] Anthropods
+			- [ ] Protozoa
+			- [ ] Arachnids
+			- [ ] Others
+	- [ ] Flora Diversity
+		- [ ] Algae
+		- [ ] Fungi
+		- [ ] Bacteria
+		- [ ] Virus
+		- [ ] Bryophytes
+		- [ ] Pteridophytes
+		- [ ] Angiosperms
+		- [ ] Gymnosperms
+	- [ ] Animal Adaptation
+		- [ ] Hibernation
+		- [ ] Aestivation
+		- [ ] Nocturnal
+		- [ ] Diurnal
+	- [ ] Plant Adaptation
+		- [ ] Hydrophatic
+		- [ ] Xerophytic
+		- [ ] Mesophytes
+	- [ ] Allopatric Speciation
+	- [ ] Sympatric Speciation
+	- [ ] Bioinformatics - Biodiversity Distribution
+	- [ ] Megadivers Countries
+	- [ ] Uses and Values of Biodiversity
+	- [ ] State of Global Diversity
+	- [ ] Threats to Biodiversity
+	- [ ] Eco-Regions
+	- [ ] Role of Traditional Knowledge in Biodiversity
+	- [ ] Biopiracy
+	- [ ] Extinction of Species
+	- [ ] Mass Extinction
+	- [ ] IUCN's Classification Scheme
+	- [ ] IUCN Red-List of Threatened Species
+	- [ ] Level of Biodiversity in India
+	- [ ] Biogeographic Classification of India
+- [ ] Biodiversity Conservation
+	- [ ] Ex-situ Conservation
+	- [ ] In-situ Conservation
+	- [ ] Seed Banks
+	- [ ] Zoos in Biodiversity Conservation
+	- [ ] Botanical Gardens
+	- [ ] Protected Areas
+	- [ ] State of Protected Areas in the World
+	- [ ] UNESCO - Man and the Biosphere Program  [ MAB ]
+	- [ ] Characteristics of Biosphere Reserves
+	- [ ] International Agreements for Biodiversity Conservation
+	- [ ] Convention on Biological Diversity
+	- [ ] Cartagena Protocol
+	- [ ] Nagoya Protocol
+	- [ ] Aichi Biodiversity Targets
+		- [ ] Important Coastal Biodiversity Areas of India
+		- [ ] Important Marine Biodiversity Areas of India
+	- [ ] Important Bird Areas [ IBAs ] of India
+	- [ ] Global Tiger Initiative
+	- [ ] Project Tiger
+	- [ ] Project Elephant
+	- [ ] Indian Rhino Vision
+	- [ ] Recovery Programme for Critically Endangered Species
+		- [ ] Use of Indigenous Knowledge for Conserving Biodiversity
+		- [ ] Seed Village
+- [ ] Protection Measures
+	- [ ] National Initiatives
+		- [ ] Wildlife Sanctuary
+		- [ ] National Parks
+		- [ ] Conservation Reserves
+		- [ ] Community Reserves
+		- [ ] Coastal Protected Areas
+		- [ ] Scared Groves of India
+	- [ ] Global Initiative
+		- [ ] Man and Biosphere
+		- [ ] Biosphere Reserves
+		- [ ] World Network of Biosphere Reserves
+		- [ ] Biodiversity Hot Spots
+		- [ ] Biodiversity Hope Spots
+		- [ ] World Heritage Sites
+- [ ] Effect of Human Activities on Environment
+	- [ ] Effect of Modern Agriculture on Environment
+	- [ ] Effect of Housing on Environment
+	- [ ] Effect of Power Generation on Environment
+	- [ ] Effect of River Valley Projects (Water Resource Projects) on Environment
+	- [ ] Effect of Mining on Environment
+	- [ ] Effect of Transportation
+	- [ ] Activities on Environment
+	- [ ] Effect of Tourism on Environment
+- [ ] Water Resource degradation
+	- [ ] Water Cycle (Hydrological Cycle)
+	- [ ] Availability and Quality Aspects  [ Groundwater Depletion ]
+	- [ ] Water-borne and Water-induced Diseases
+	- [ ] Fluoride Problem in Drinking Water
+	- [ ] Arsenic Problem in Drinking Water
+- [ ] Minerals & Environmental Degradation
+	- [ ] Mining and Environment
+	- [ ] Sensitivity of Select Ecosystems to Mining
+	- [ ] Impact of Mining
+	- [ ] Indirect Impact of Mining
+	- [ ] International Laws on Mining
+	- [ ] Main Act or Statue to Regulate the Impact of Indian Mining Sector
+	- [ ] Sustainable Mining
+- [ ] Deforestation
+	- [ ] Causes of Deforestation
+	- [ ] Implications of Deforestation for Climate Change
+	- [ ] Consequences of Deforestation on Wildlife of India
+	- [ ] Impact of Deforestation on Indian Monsoon 
+	- [ ] Impact of Deforestation on People
+	- [ ] Deforestation Leads to Water and Soil Resources Loss and Flooding
+	- [ ] Economical Impacts
+	- [ ] Strategies for Reducing Deforestation
+	- [ ] Government Programmes for Conservation of Forests
+	- [ ] Legislations for Conservation of Forests using People Participation
+	- [ ] Steps for Improving People Participation in Forest Resource Management
+	- [ ] Use of Local Traditional Methods
+- [ ] Waste Management
+	- [ ] Solid Waste 
+	- [ ] Hazardous Waste 
+	- [ ] E-Waste
+	- [ ] Bio Medical Waste
+	- [ ] Plastic Waste
+	- [ ] Methods for Waste Management
+	- [ ] Effects of Poor Waste Disposal
+	- [ ] Landfill
+- [ ] Sustainable Development
+	- [ ] Principles of Sustainability
+	- [ ] Measurement of Sustainability or Sustainable Ethics or Equitable Utilisation of Natural Resource
+	- [ ] Sustainable Lifestyle
+	- [ ] Role of an Individual in Sustainable Development
+	- [ ] Challenges to Sustainable Development 
+	- [ ] International Efforts to Achieve Sustainability
+- [ ] Environmental Pollution
+	- [ ] Pollutants
+		- [ ] Classifications
+		- [ ] Causes
+		- [ ] Sources
+	- [ ] Air Pollution
+		- [ ] Sources of Air Pollution
+		- [ ] Effects of Air Pollution
+		- [ ] Indoor Air Pollution
+		- [ ] Fly Ash-Composition and Utilization
+		- [ ] Classification of Air Pollutant
+		- [ ] Control Measures of Air Pollution
+		- [ ] Air Pollution Disasters
+		- [ ] Long Range Transport of Gaseous Air Pollutants
+		- [ ] National Ambient Air Quality Standards 
+		- [ ] National Air Quality Monitoring Programme
+	- [ ] Water Pollution
+		- [ ] Sources of Water Pollution
+		- [ ] Types of Water Pollutants
+		- [ ] Effects of Water Pollution
+		- [ ] Water Quality Standards
+		- [ ] Control of Water Pollution
+	- [ ] Thermal Pollution
+		- [ ] Sources of Thermal Pollution
+		- [ ] Effects of Thermal Pollution
+		- [ ] Control of Thermal Pollution
+	- [ ] Soil Pollution or Land Degradation
+		- [ ] Sources of Soil Pollution
+		- [ ] Causes of Soil Pollution
+		- [ ] Types of Soil Pollution
+		- [ ] Effects of Soil Pollution
+		- [ ] Control Measures
+	- [ ] Noise Pollution
+		- [ ] Impacts of Noise Pollution
+		- [ ] Control Measures
+	- [ ] Radioactive Pollution
+		- [ ] Sources of Radioactive Pollution
+		- [ ] Types of Radioactive Pollution
+		- [ ] Effects of Radioactive Pollution
+		- [ ] Control Measures
+	- [ ] E - Waste Management
+	- [ ] Air-borne Diseases 
+	- [ ] Toxic Substances: Toxicant, Toxicity and Toxicology
+	- [ ] Factors affecting Toxicity
+	- [ ] Carcinogens
+	- [ ] Environmental Impact Assessment
+- [ ] Solid Waste Management
+	- [ ] Sources of Solid Waste
+	- [ ] Effects of Solid Waste
+	- [ ] Control Measures of Solid Waste
+	- [ ] Solid Waste Management Rules
+	- [ ] Hazardous Waste Management [ HWM ]
+- [ ] Coastal Ecosystem Management
+	- [ ] Mangroves 
+		- [ ] Salient Features of Mangroves
+		- [ ] Importance of Mangroves
+		- [ ] Mangroves in India
+		- [ ] Mangroves Under Threats
+		- [ ] Legal and Regulatory Approaches for Protection
+	- [ ] Estuaries
+		- [ ] Importance of Estuaries
+		- [ ] Threats to estuaries
+	- [ ] Coral Reefs
+		- [ ] Geographical Conditions Required
+		- [ ] Uses of Coral Reefs
+		- [ ] Conservation of Coral Reefs
+	- [ ] Steps for Coastal Ecosystem Management
+- [ ] Recent Developments
+	- [ ] Air Pollution
+	- [ ] Report on Air Pollution
+	- [ ] Bharat Stage Emission Standards
+	- [ ] Polluters Pay Model
+	- [ ] Household Air Pollution
+	- [ ] Open Waste Burning and Its Impact
+	- [ ] Graded Response Action Plan on Pollution
+	- [ ] UN Sets Limits on Global Airline Emissions
+	- [ ] Waste Management
+	- [ ] Biodegradable Plastics
+	- [ ] Green Train Corridors
+	- [ ] Oil Spill
+	- [ ] Solid Waste Management-Buffer Zone
+	- [ ] Other News
+	- [ ] Report of Parliamentary Committee on Forest Fires
+	- [ ] Urban Forestry Scheme
+	- [ ] Draft Notification to Regulate Pet Shops
+	- [ ] Ban on Import of Animal Skin
+	- [ ] River linking Project and Impact on Environment
+	- [ ] Algal Bloom Issue
+	- [ ] Illegal Salt Mining and its Impact
+	- [ ] India’s Wetland Report, 2016
+	- [ ] Deep Sea Mining 
+	- [ ] Mass Coral Bleaching
+	- [ ] Ganga River Pollution
+- [ ] Environmental Impact Assessment
+	- [ ] Government Body which Executes EIA
+	- [ ] Environmental Effects Analysed under EIA
+	- [ ] Process of EIA
+	- [ ] EIA Ruling 1984
+- [ ] Environmental Laws
+	- [ ] Provisions in the Indian Constitution  Towards Environment Protection
+	- [ ] Salient Features of Air [ Prevention and Control of Pollution ] Act , 1981
+	- [ ] Salient Features of Water [ Prevention and Control of Pollution ] Act , 1974
+	- [ ] Salient Features of Forest Conservation Act , 1980
+	- [ ] Salient Features of Wildlife Conservation Act , 1972
+	- [ ] Salient Features of Environment  [ Protection ] Act , 1986
+	- [ ] Role of Government in Environment Protection
+- [ ] Environment related Institutions and Organizations
+	- [ ] Pollution Control Boards
+	- [ ] National Green Tribunal
+	- [ ] Forest Survey of India
+	- [ ] National Board for Wildlife
+- [ ] Schemes
+	- [ ] Ecomark Scheme
+	- [ ] National Afforestation Program
+	- [ ] National River Conservation Plan
+	- [ ] National Mission for Clean Ganga
+	- [ ] National Air Quality Index (AQI)
+	- [ ] National
+	- [ ] Action
+	- [ ] Programme to Combat Desertification
+	- [ ] UJALA Scheme
+	- [ ] Bharat Stage Norms
+- [ ] International Environmental Governance
+	- [ ] UNEP
+	- [ ] UNDP
+	- [ ] Centre for Biological Diversity
+	- [ ] WWF for Nature
+	- [ ] IUCN - Red List
+	- [ ] Birdlife International
+	- [ ] International Conventions / Protocols & their Objectives
+- [ ] Basics of Climate Change
+	- [ ] Green House Effect
+	- [ ] Global Warming
+	- [ ] International Efforts to Control Global Warming or Global Climate Change
+	- [ ] Ozone Layer Depletion or Ozone Hole
+	- [ ] Acid Raid
+	- [ ] Ocean Acidification
+	- [ ] El Nino
+	- [ ] La Nina
+- [ ] Mitigation Strategies for Climate Change
+	- [ ] Carbon Sequestration
+	- [ ] Carbon Sink
+	- [ ] Carbon Credit
+	- [ ] Carbon Offsetting
+	- [ ] Carbon Tax
+	- [ ] Geo-Engineering
+	- [ ] Green Building
+	- [ ] Green Rating for Integrated Habitat Assessment [ GRIHA ]
+	- [ ] UNFCC
+	- [ ] Agenda 21
+	- [ ] REDD and REDD+
+	- [ ] IPCC
+	- [ ] Green Climate Fund
+	- [ ] Global Environment Facility
+- [ ] Urbanization and Climate
+	- [ ] Pollution in Metros and Climate change
+	- [ ] Real Estate Boom and Environment Degradation
+	- [ ] Urban Heat Island
+	- [ ] Polythene Bags and Pollution
+	- [ ] Methane Generation from Waste
+- [ ] Impact of Agriculture on Climate
+	- [ ] Agriculture Increases Carbon Dioxide Emissions
+	- [ ] Monoculture Practice Impacts Biodiversity
+	- [ ] Pollution Due to Use of Chemical Fertilizers
+	- [ ] Soil-related Effects
+	- [ ] Fertilizer’s Effect on the Environment
+	- [ ] Impact of Livestock on Environment
+	- [ ] Impact of Use of Pesticides on Environment
+	- [ ] Impact of GM crop on Environment
+	- [ ] Emission of Methane from Agricultural Practices
+	- [ ] Sustainable Agriculture Techniques
+- [ ] Global Warming and Health
+	- Health Impacts of Global Warming
+	- Mosquito-Born Diseases
+	- Ozone Depletion and Human Health
+
+-----
+
+### Recent Developments
+
+- [ ] Wildlife
+	- [ ] Man-Animal Conflicts in India
+	- [ ] Poaching Activities in India
+	- [ ] Controlling Wildlife Crimes Using Sniffer Dogs
+	- [ ] Draft on Animal Cruelty
+	- [ ] Formation of Tiger Reserves: Critical Analysis
+	- [ ] International Treaties for Wildlife Conservation
+	- [ ] Use of Drones for Wildlife Conservation
+- [ ] Combating Pollution
+	- [ ] Impact of Particulate Matter
+	- [ ] Smog and Its Impact
+	- [ ] Plastic Pollution
+	- [ ] Light Pollution
+	- [ ] Oil Spill
+	- [ ] Solid Waste Management
+	- [ ] E-waste Management Rules 2016
+	- [ ] Groundwater contamination
+	- [ ]  Bharat Stage Norm
+- [ ] Climate Change
+	- [ ] Climate Change Indicators: WMO Report
+	- [ ] Climate Change Performance Index
+	- [ ] IPCC 5th Assessment Report
+	- [ ] Paris Agreement
+	- [ ] Marrakech Climate Change Conference
+	- [ ] Kigali Agreement
+	- [ ] Kyoto Protocol (2nd Commitment)
+	- [ ] International Solar Alliance
+	- [ ] Programmes and Policies Initiated for Mitigating Climate Change
+	- [ ] International Collaboration for Mitigating Climate Change
+	- [ ] Carbon Neutrality Concept
+	- [ ] Concept of Green Bond
+	- [ ] Green Climate Fund 
+	- [ ] Carbon Tax Feasibility in India 
+	- [ ] Concept of Green Building
+	- [ ] Climate Change and Cities
+	- [ ] Ethical issue involved in Climate Change
+	- [ ] Climate Change and Its Impact on Health
+- [ ] Renewable Energy
+	- [ ] National Solar Mission
+	- [ ] Status of Hydro Power Energy in India
+	- [ ] Status of Wind Energy in India
+	- [ ] Green Transportation
+- [ ] Initiatives for Environmental Conservation
+	- [ ] Ganga River Pollution
+	- [ ] Compensatory Afforestation Fund Act
+	- [ ] Draft National Wildlife Action Plan
+	- [ ] Draft Wetland Management Rules
+	- [ ] Initiatives to Enhance Green Cover
+	- [ ] Policy on Promotion of City Compost
+	- [ ] Living status to Rivers
+	- [ ] National Hydrology Project
+- [ ] Environmental Institutions
+	- [ ] Pollution Control Board: Analysis
+	- [ ] National Green Tribunal: Analysis
+	- [ ] Forest Survey of India
+	- [ ] Genetic Engineering Appraisal Committee
+	- [ ] Traditional Knowledge Digital Library
+	- [ ] T S R Subramanian Panel Report
+- [ ] Miscellaneous Issues
+	- [ ] Algal bloom Issue
+	- [ ] Melting of Antarctica and Its Impact
+	- [ ] River Linking Project and Its Impact
+	- [ ] Public Participation for Environmental Conservation
+
+----
+
+### Acts and Policies
+
+- [ ] Paris Climate Deal 
+- [ ] Wildlife Protection Act 1972 
+- [ ] Environmental Protection Act 1986
+- [ ] Eco Sensitive Zones 
+- [ ] Biological Diversity Act 2002
+- [ ] Schedule Tribes And Other Forest Dwellers Act 2006 
+- [ ] Prevention Of Animal Cruelty Act 
+- [ ] National Forest Policy 
+- [ ] Coastal Regulation Zone 
+- [ ] Wetlands Rule 2010 
+- [ ] National Green Tribunal
+- [ ] Animal Welfare Board 
+- [ ] Central Zoo Authority 
+- [ ] National Biodiversity Authority
+- [ ] Convention On Biological Diversity (CBD) 
+- [ ] Ramsar Convention On Wetlands 
+- [ ] CITES 
+- [ ] TRAFFIC 
+- [ ] Convention On The Conservation Of Migratory Species (CMS) 
+- [ ] Coalition Against Wildlife Trafficking (CAWT) 
+- [ ] Global Tiger Forum 
+- [ ] Stockholm Convention 
+- [ ] Basel Convention 
+- [ ] Rotterdam Convention 
+- [ ] United Nations Convention To Combat Desertification 
+- [ ] International Whaling Commission (IWC) 
+- [ ] Vienna Convention And Montreal Protocol 
+- [ ] Kyoto Protocol
+- [ ] Nagoya Protocol 
+- [ ] Cartagena Protocol
+
+-----
+
+
+# Science & Technology
+
+### Biology
+
+- [ ] Chemical Building Blocks of Life
+- [ ] History and Origin of Life
+- [ ] Cells
+	- [ ] Cell Structure
+	- [ ] Membranes
+	- [ ] Cell-Cell Interactions
+	- [ ] Energy and Metabolism
+	- [ ] Respiration
+	- [ ] Photosynthesis
+	- [ ] How Cells Divide
+	- [ ] Sexual Reproduction
+- [ ] Genetics
+	- [ ] Inheritance
+	- [ ] DNA, The Genetic Material
+	- [ ] Gene Expression
+	- [ ] Gene Regulation
+	- [ ] Mutation
+	- [ ] Recombinant DNA Technology
+- [ ] Classification of Living Things
+	- [ ] Classification and Domains of Life
+	- [ ] General Biology
+	- [ ] Classification of Living Things
+	- [ ] Viruses
+	- [ ] Prokaryotes
+	- [ ] Eukaryotes
+	- [ ] Protists
+	- [ ] Plants
+	- [ ] Fungi
+	- [ ] Animals
+- [ ] Evolution
+	- [ ] Evolution of Life
+	- [ ] Animal Evolution
+	- [ ] Human Evolution
+- [ ] Tissues
+	- [ ] Epithelial Tissue
+	- [ ] Connective Tissue
+	- [ ] Muscle Tissue
+- [ ] Economic Zoology
+	- [ ] Beneficial animals: 
+		 - [ ] Corals 
+		 - [ ] Earthworm
+		 - [ ] Vermiculture
+	- [ ] Beneficial Insects
+		- [ ] Prawns
+		- [ ] Lobster
+		- [ ] Crabs
+		- [ ] Pearl
+		- [ ] Oysters
+		- [ ] Fishes
+		- [ ] Guano
+	- [ ] Aquarium
+	- [ ] Vivarium
+- [ ] Endocrine System
+	- [ ] Hypothalamus
+	- [ ] Pineal body (epiphysis)
+	- [ ] Pituitary gland (hypophysis)
+	- [ ] Thyroid
+	- [ ] Adrenal Glands
+	- [ ] Reproductive Glands
+- [ ] Respiration
+	- [ ] External and Internal Respiration
+	- [ ] Respiratory system in Plants
+	- [ ] Respiratory System in Insects
+	- [ ] Respiratory System in Humans and Animals
+- [ ] The Transport System in Organisms
+	- [ ] Transport system in a Cell
+	- [ ] Transport System in Plants
+	- [ ] Transport System in Animals
+	- [ ] Blood Vascular System
+	- [ ] The Lymphatic System
+- [ ] Skeletal and Muscular Systems
+	- [ ] Bone and Skeleton System (Osteology)
+	- [ ] Ligaments (Syndesmology)
+	- [ ] Muscular System (Myology)
+	- [ ] Vertebrates
+- [ ] Reproduction
+	- [ ] Asexual Reproduction in Plants
+	- [ ] Asexual Reproduction in Animals
+	- [ ] Sexual Reproduction in Plants
+	- [ ] Sexual Reproduction in Animals
+	- [ ] Sexual Reproduction in Humans
+- [ ] Excretion, Osmoregulation and Thermoregulation
+	- [ ] Excretory Products
+	- [ ] Excretion in Plants
+	- [ ] Excretion in Animals
+	- [ ] Osmoregulation
+	- [ ] ADH
+	- [ ] Formation of Urine in Animals
+	- [ ] Physiological and Behavioural Adjustments
+- [ ] Nutrition
+	 - [ ] Classification by Source of Energy and Carbon
+	 - [ ] Plant Nutrition
+	 - [ ] Animal Nutrition
+	 - [ ] Human Diet
+	 - [ ] The Digestive System
+- [ ] Immune System and Diseases
+	- [ ] Human Immune System
+		- [ ] Antibodies
+		- [ ] Antigens
+		- [ ] Vaccinations
+		- [ ] The Difference Between Them
+	- [ ] Why are Vaccines Important?
+	- [ ] Diseases
+		- [ ] It's Source 
+			- [ ] Bacteria
+			- [ ] Virus
+			- [ ] Fungi
+		- [ ] Mode of Transmission
+			- [ ] Water
+			- [ ] Air
+			- [ ] Sexually Transmitted
+		- [ ] It's Vectors
+			- [ ] Mosquito
+			- [ ] Bats
+			- [ ] Worms
+			- [ ] Others
+		- [ ] Symptoms and It's Effect on Humans
+	- [ ] Anti-Microbial Resistance or Anti-Biotic Resistance
+
+----
+
+### Institutions and Policy
+
+- [ ] India’s policy in the Field of the Science and Technology
+- [ ] The S&T Policy Resolution in 1958
+- [ ] S&T policy of the 1983
+- [ ] S&T policy of the 2003
+- [ ] S&T policy 2013
+- [ ] Institutional Structure
+- [ ] Department of Science & Technology
+- [ ] CSIR
+- [ ] Survey of India
+- [ ] Science and Engineering Research Council
+- [ ] Technology Development Board
+- [ ] National Accreditation Board For Testing And Calibration Laboratories
+- [ ] Science and Technology as a Source of Human Resource Development
+- [ ] Awards Related to Science New Initiatives Aligned with the National Agenda
+- [ ] India and World Collaboration in Science Projects
+- [ ] Technology Vision Document 2035
+- [ ] National Biotechnology Development Strategy 2015-2020
+- [ ] National Intellectual Property Rights Policy
+- [ ] Organ Donation Rules in India
+- [ ] Policy on Synthetic Biology
+
+
+----
+
+### Biotechnology
+
+- [ ] Basics
+	- [ ] Genetic Material
+		- [ ] DNA
+		- [ ] RNA
+		- [ ] Differences
+	- [ ] Types of RNA
+		- [ ] Messenger RNA [ mRNA ]
+		- [ ] Transfer RNA [ tRNA ]
+		- [ ] Ribosome RNA [ rRNA ]
+	- [ ] DNA Replication
+		- [ ] Transcription
+		- [ ] Translation
+	- [ ] Genetic Engineering
+		- [ ] Application
+		- [ ] Tools [ Recombitant DNA ]
+		- [ ] Methods
+			- [ ] Gene Silencing
+			- [ ] Gene Knockdown
+			- [ ] Grafting
+			- [ ] Others
+		- [ ] Stem Cells
+			- [ ] Induced Pluripotent Cells
+			- [ ] Somatic Cell Nuclear Transfer Technology
+		- [ ] Tissue Culture
+		- [ ] Innovation in Medicine Technology
+			- [ ] CRISPR
+			- [ ] Bacteriophage
+			- [ ] Others
+- [ ] Genetics and Biotechnology
+	- [ ] Industrial Genetics
+	- [ ] Protoplast
+	- [ ] Cell Fusion Technologies
+	- [ ] Genetic Engineering
+	- [ ] DNA Sequencing
+	- [ ] Nucleic Acid Probes
+	- [ ] Genomics and Proteomics
+	- [ ] Antisense and RNA Interface
+	- [ ] Potential Laboratory Biohazards of Genetic Engineering
+	- [ ] Bioprocess / Fermentation Technology
+- [ ] Biological Fuel Generation
+	- [ ] Global Warming and Significance of Fossil Fuels
+	- [ ] Photosynthesis : The Ultimate Energy Source
+	- [ ] Biofuels from Biomass
+	- [ ] Bioethanol from Biomass
+	- [ ] Biodiesel
+	- [ ] Methane
+	- [ ] Hydrogen
+- [ ] Environmental Biotechnology
+	- [ ] Microbial Ecology Environmental Biotechnology
+	- [ ] Waste Water and Sewage Treatment
+	- [ ] Landfilling Technologies
+	- [ ] Composting
+	- [ ] Bioremediation
+	- [ ] Detection and Monitoring of Pollutants
+	- [ ] Microbes and the Geological Environment
+	- [ ] Environmental Sustainability and Clean Technology
+- [ ] Plant and Forest Biotechnology
+	- [ ] Plant biotechnology
+	- [ ] Forest biotechnology
+- [ ] Animal and Insect Biotechnology
+	- [ ] Genetic Manipulation and Transgenic Animals 
+	- [ ] Genetically Engineered Hormone and  Vaccines
+	- [ ] Animal Organs for Human Patients
+	- [ ] Genetically Modified Insects
+- [ ] Food and Beverage Biotechnology
+	- [ ] Food and Beverage Fermentations
+	- [ ] Microorganisms as Food
+	- [ ] Enzymes and Food Processing
+	- [ ] Amino Acids , Vitamins and Sweeteners
+	- [ ] Organic Acids
+	- [ ] Polysaccharides
+	- [ ] Public Acceptance and Safety of New Biotechnology Foods
+	- [ ] Biotechnology and Medicine
+	- [ ] Pharmaceuticals and Biopharmaceuticals
+	- [ ] Antibiotics
+	- [ ] Vaccines and Monoclonal Antibodies
+	- [ ] Biopharmaceuticals / Therapeutic Proteins
+	- [ ] Pharmacogenetics
+	- [ ] Molecular Biology and Human Disease
+	- [ ] Diagnostics in Developing Countries
+	- [ ] Gene Therapy
+	- [ ] Systems Biology and Medicine
+	- [ ] Stem Cell Biotechnology
+- [ ] Protection of Biotechnological Inventions
+	- [ ] Patent Protection
+	- [ ] Trade Secrets
+	- [ ] Plant Breeder's Rights
+- [ ] Recent Initiatives in Health and Biotechnology
+	- Recent initiatives in Health & Biotechnology
+	- Diseases in News
+	- India Declared Maternal and Neonatal Tetanus, H5N1 and Yaws Free
+	- IPV Injection
+	- Mission Indradhanush
+	- New TB Drug Regimen
+	- E-Cigarettes
+	- Digital Biopiracy
+	- Kendrapara Sheep
+	- DNA Tagging of Convicts
+	- U.K. Grants Gene Editing Licence 
+	- Genetically Modified Mosquito
+	- Designer Babies’ OR Three Parents Babies
+	- U.K. Grants Gene Editing Licence
+	- National Biotechnology Development Strategy 2015-2020
+
+
+----
+
+### Space
+
+- [ ] Space - Basics
+	- [ ] Space Terms
+		- [ ] Kuiper Belt
+		- [ ] Goldilocks Zone
+		- [ ] Exo Planet
+		- [ ] Tidal Locking
+		- [ ] Meteors
+		- [ ] Asteroids
+		- [ ] Others
+	- [ ] Space Phenomena
+		- [ ] Supernova Explosion
+		- [ ] Neutrino
+		- [ ] Gravitational Waves
+		- [ ] Red Shift Phenomenon
+		- [ ] Others
+	- [ ] Important Missiles Around The World
+		- [ ] eLISA
+		- [ ] LIGO
+		- [ ] Quantum Satellite
+		- [ ] Missiles With Unique Characteristics [ Like Nuclear Powered or Solar Powered or First to Achieve The Milestone]
+	- [ ] Signature Missions Around the World
+	- [ ] Important Missiles from India
+		- [ ] Chandrayan
+		- [ ] Mangalyan
+		- [ ] Astrosat
+		- [ ] Others
+	- [ ] Space Vehicles
+		- [ ] Types [ PSLV , GSLV ]
+		- [ ] It's Carrying Capacity
+		- [ ] It's Altitude
+		- [ ] Other Features
+	- [ ] Innovation in Space Vehicles
+		- [ ] RLV
+		- [ ] Others
+	- [ ] Various Satellites and It's Applications
+- [ ] Types of Orbits
+- [ ] Launch Vehicle
+- [ ] Satellite Communication in India
+- [ ] INSAT Satellite Application
+- [ ] Remote Sensing Applications
+- [ ] Cryogenic Rockets
+- [ ] Global Positioning System
+- [ ] Galileo
+- [ ] GLONASS
+- [ ] IRNSS
+- [ ] GAGAN
+- [ ] Chandrayaan – I & II
+- [ ] Mars Orbitor Mission
+- [ ] Space Organisations
+- [ ] Space Race / Space Junk
+- [ ] Recent Updates
+- [ ] South Asia Satellite: Significance
+- [ ] Neutrino Observatory
+- [ ] Solar Mission- ADITYA
+- [ ] Gravitational Waves
+- [ ] FAST (Five-hundred-meter Aperture Spherical Radio Telescope)
+- [ ] Spitzer Space Telescope
+- [ ] Giant Metrewave Radio Telescope
+- [ ] Chandra X-ray Observatory
+- [ ] James Webb Space Telescope
+- [ ] ARIES/Devasthal Telescope
+- [ ] Multi Application Solar Telescope
+- [ ] Thirty Metre Telescope
+- [ ] RESOURCESAT- 2A
+- [ ] ASTROSAT
+- [ ] Sunspot
+- [ ] Magnetars
+- [ ] Neutron Stars
+- [ ] Air-breathing Propulsion System
+- [ ] Space Junk
+- [ ] Graveyard Orbit
+- [ ] India, NASA Join Hands for Astrobiology Mission
+- [ ] Neutrino Observatory
+- [ ] Indian Space Vision-2025
+
+----
+
+### Defence
+
+- [ ] Important Missiles
+- [ ] Important Tech Components [ SPI ]
+- [ ] Important Vehicles
+- [ ] Missile System and Classification
+- [ ] On the Basis of Type
+- [ ] On the Basis of Launch Vehicle
+- [ ] On the Basis of Range
+- [ ] On the Basis of Propulsion Scheme
+- [ ] India's Missle System
+	- [ ] Agni
+	- [ ] Prithvi
+	- [ ] Trishul
+	- [ ] Nag
+	- [ ] Dhanush
+	- [ ] Astra
+	- [ ] Prahaar
+- [ ] Brahmos Missile System
+- [ ] Indian Submarines and Naval Ships
+- [ ] Light Combat Aircraft
+- [ ] Unmanned Aerial Vehicle
+- [ ] Stealth Technology
+- [ ] Chemical Weapon
+- [ ] Biological Weapon
+
+-----
+
+### Nuclear Energy
+
+- [ ] Types of Nuclear Reactions
+- [ ] Nuclear Power Reactor
+- [ ] N-Power Policy of India
+- [ ] Advantages of Nuclear Energy
+- [ ] Disadvantages of Nuclear Energy
+- [ ] Non-Energy Applications of Nuclear Energy
+- [ ] Impact of Radiation
+- [ ] Issues of Radioactive Waste
+- [ ] Institutions Involved in Nuclear Energy Development 
+- [ ] AERB
+- [ ] Safety Standards in Nuclear Power Plant
+- [ ] Nuclear and Radiological Disasters
+- [ ] International Thermonuclear Experiment Reactor [ IETR ] + 3 Stages
+- [ ] Nuclear Power Programming
+- [ ] Thorium
+	- It's Source
+	- Efficiency
+	- Advantages for India With Respect to Nuclear Energy
+	- Medical Uses [ Cyber Knife ]
+
+
+----
+
+### IT, Electronics and Telecom
+
+- [ ] Computers
+- [ ] Generation of Computers
+- [ ] Computer Terminologies
+- [ ] Supercomputer and Its Applications
+- [ ] Five Generations of Network
+- [ ] E - Governance
+	- [ ] BHIM
+	- [ ] UPI
+	- [ ] M - Stripes
+	- [ ] Others
+- [ ] Information Technology
+- [ ] Components of IT
+- [ ] IT enabled Services
+- [ ] Application of IT
+- [ ] Display Technologies
+- [ ] Cathode Ray
+- [ ] LCD
+- [ ] LED
+- [ ] Plasma Monitors
+- [ ] OLED
+- [ ] Telecommunications
+- [ ] Mobile Generations
+- [ ] Smartphone
+- [ ] Important Concepts
+- [ ] Government Initiatives
+- [ ] Digital India Initiative
+- [ ] MeghRaj
+- [ ] Code Free for India
+- [ ] E-Kranti
+- [ ] Bharat Net Project
+- [ ] Bharat QR
+- [ ] Contemporary Debates
+- [ ] Net Nuetrality
+- [ ] Internet of Things
+- [ ] Big Data Initiative and Privacy
+- [ ] Cyber Crime and Security
+- [ ] Cyber Swachhta Kendra
+- [ ] Digital Transaction Methodologies
+- [ ] Smart Credit Cards
+- [ ] Wi-fi Technology
+- [ ] Bluetooth
+- [ ] Block Chain Technology and Bitcoins
+- [ ] Digital Terrestrial Television Transmission System
+- [ ] Disaster Management Network
+- [ ] PARAM ISHAN
+- [ ] Big Data
+- [ ] Artificial Intelligence
+- [ ] Central Parking Services
+- [ ] Block Chains
+- [ ] Virtual Reality
+- [ ] Artificial Reality
+- [ ] Malwares
+
+
+-----
+
+### Nano-Science and Nano Technologies
+
+- [ ] What is Nano-science?
+- [ ] What is Nanotechnology?
+- [ ] Basics of Nano-science
+- [ ] Nanomaterials
+- [ ] Applications of Nanotechnology
+- [ ] Nano Medicine
+- [ ] Semiconductors and Computing
+- [ ] Food
+- [ ] Textiles
+- [ ] Sustainable Energy
+- [ ] Environment
+- [ ] Transport
+- [ ] Space
+- [ ] Agriculture
+- [ ] Adverse Health and Environmental Impacts of Nanotechnology
+- [ ] Social and Ethical Impacts
+- [ ] Nano-science and Nanotechnology in India
+
+-----
+
+### Robotics
+
+- [ ] What is Robotics?
+- [ ] Machine vs Computer vs Robots
+- [ ] Parts of a Robot
+- [ ] Controller
+- [ ] Manipulator
+- [ ] End Effector
+- [ ] Sensor
+- [ ] Classification of Robots
+- [ ] Rolling Robots
+- [ ] Walking Robots
+- [ ] Autonomous Robots
+- [ ] Artificial Intelligence
+- [ ] Advantages and Disadvantages of Robot
+- [ ] Applications of Robotics
+- [ ] Industrial Sector
+- [ ] Aerospace
+- [ ] Healthcare Delivery
+- [ ] Outer Space
+- [ ] Exploration
+- [ ] Military Robots
+- [ ] Disaster Areas
+- [ ] Entertainment
+- [ ] Agriculture
+- [ ] Domestic Work
+ 
+
+-----
+
+### Electronics and Green Tech
+
+- [ ] Solar Energy
+	- [ ] Photo Voltaic Cell
+	- [ ] Solar Thermal Cells [ Functioning Not Needed ]
+	- [ ] Government Initiatives
+	- [ ] How Effective Is It?
+- [ ] Wind Energy
+- [ ] Bharat Stage Norms
+- [ ] Electronic Vehicles
+- [ ] Coal
+	- [ ] Formation
+	- [ ] By-Products
+		- [ ] Fly Ash
+		- [ ] Pollution from Coal
+- [ ] Bio-Fuel
+	- [ ] What is it?
+	- [ ] 4 Generations of Bio Fuels
+- [ ] Fuel Cells
+- [ ] Hydrogen Cells
+- [ ] Microbial Cells
+- [ ] Bio Toilet
+
+----
+
+# Internal Security
+
+- [ ] Internal Security Challenges
+	- [ ] Internal Security Challenges
+	- [ ] Social Diversity as Issues of Security Threat
+	- [ ] Challenges from within Neighbours as Issue of Security Threat
+	- [ ] Non-State Actors as Issue of Security Threat
+	- [ ] Global Indices and Measurement of Vulnerability of a State Towards such Non-State Actors
+	- [ ] Law and Order vs. Internal Security
+- [ ] Terrorism Threat to India
+	- [ ] Terrorism Threat to India
+	- [ ] Changing Face of Terrorism
+	- [ ] Terror Threats Faced by India
+	- [ ] Broader Framework to Deal with Terrorism
+	- [ ] Drawbacks in Intelligence Infrastructure
+- [ ] Organized Crime
+	- [ ] Types of Organized Crime
+	- [ ] Problems in controlling Organized Crimes
+	- [ ] Combating Organized Crimes
+	- [ ] Linkage of Terrorism and Organized Crime in India
+- [ ] Linkage between Development and Spread of Extremism
+	- [ ] Stated Purpose of the Naxal Movement
+	- [ ] Why Naxalism got Huge Support from Common Man?
+	- [ ] Why Naxalism is the Biggest Threat to Internal Security?
+- [ ] Security Challenges in Border Areas
+	- [ ] Challenges to Border Management
+	- [ ] Issues Faced in Border Management
+	- [ ] Community Participation for Border Management
+- [ ] Basics of Cyber Security
+	- [ ] Types of Cyber Crimes
+	- [ ] Impact and Steps needed
+	- [ ] Recent Incident: Ransomware 
+	- [ ] The National Cyber Security Policy of India 2013
+- [ ] Cyber Warfare
+	- [ ] Factors Contributing/Aggravating 
+	- [ ] Rise of Cyber Attack
+	- [ ] Recent Initiatives for Tackling Cyber Warfare
+- [ ] Social Media and Internal Security Threat
+	- [ ] Regulation of Social Media in India for Internal Security
+	- [ ] Challenges in Monitoring Social Media
+	- [ ] Steps Needed
+- [ ] Money Laundering
+	- [ ] Meaning of Money Laundering
+	- [ ] Harmful Effects of Money Laundering
+	- [ ] Steps taken by the Government
+- [ ] Black Money in India
+	- [ ] Parallel Economy in India
+	- [ ] What are the Various Measures Taken by Government to Curb Black Money?
+	- [ ] Impact of Demonetisation on Black Money 
+	- [ ] Criticisms
+- [ ] Police Reforms in India
+	- [ ] The Organisational Structure 
+	- [ ] Duties and Responsibilities of the Police
+	- [ ] Centre’s Role in Policing
+	- [ ] Traditional Security Challenges
+	- [ ] Non-Traditional Security Challenges (NTS)
+	- [ ] Recommendations for Police Reforms
+	- [ ] Police we Want in 21st Century
+- [ ] Various Security Forces and Their Mandate
+	- [ ] Assam Rifles
+	- [ ] Border Security Force [ BSF ]
+	- [ ] Indo-Tibetan Border Police
+	- [ ] Central Industrial Security Force [ CISF ]
+	- [ ] Central Reserve Police Force
+	- [ ] National Security Guard
+	- [ ] Issues with Paramilitary Forces
+
+-----
+
+# Ethics, Integrity and Aptitude
+
+- [ ] Ethics Basic Introduction
+	- [ ] Dimensions of Ethics
+	- [ ] Essence of Ethics
+	- [ ] Approaches of Ethical Study as
+	- [ ] Indian Perspective and Western Perspective
+	- [ ] Basic Concept of Ethics , Morality and Value
+	- [ ] Ethics in Public Life
+	- [ ] Ethics in Economic Life
+	- [ ] Freedom and Discipline
+	- [ ] Duties and Rights
+	- [ ] Virtue Ethics
+	- [ ] Consequences of Ethics in Human Actions
+	- [ ] Values and Ethics in Government:
+	- [ ] Legislature, Executive and Judiciary
+	- [ ] Contribution of Family in Value Education
+	- [ ] Contribution of Society in Inculcating Values
+	- [ ] Role of Educational Institutions in Inculcating Values
+- [ ] Human Values
+	- [ ] Human Value & Socialization
+	- [ ]  Individual Personality And Value
+	- [ ] Values And Skill
+	- [ ] Fundamental And Instrumental Values
+	- [ ] Democratic Values
+	- [ ] Role Of Ethical Value In Governance And Society
+	- [ ] Significance Of Value In Civil Services
+	- [ ] Aesthetic Values
+	- [ ] Values In Work Life And Professional Ethics
+- [ ] Aptitude and Foundational Values of Civil Services
+	- [ ] Essential Aptitude For Civil Servants 
+	- [ ] Foundational Values Of Civil Services
+	- [ ] Neutrality
+	- [ ] Anonymity
+	- [ ] Civil Services Accountability
+	- [ ] Integrity
+	- [ ] Humility
+	- [ ] Adaptability
+	- [ ] Magnanimity
+	- [ ] Perseverance
+	- [ ] Impartiality And Non-Partisanship
+	- [ ] Tolerance And Compassion For The Weaker Section
+	- [ ] Contribution To Society
+- [ ] India and World Thinkers
+	- [ ] Indian Thinkers
+		- [ ] Mahatama Gandhi
+		- [ ] Dr. S. Radhakrishnan 
+		- [ ] Rabindranath Tagore
+		- [ ] Swami Dayanand Saraswati
+		- [ ] Mahadeva Govinda Ranade
+		- [ ] Sri Aurobindo
+		- [ ] Swami Vivekananda
+		- [ ] Sardar Patel
+		- [ ] Buddha Bhim Rao Ambedkar
+		- [ ] Raja Ram Mohan Roy
+		- [ ] Chhatrapati Shahu Maharaj
+		- [ ] Mother Teresa
+		- [ ] Amitabha Chowdhury
+		- [ ] Aruna Roy
+		- [ ] T. N. Seshan
+		- [ ] E. Sreedharan
+	- [ ] Administrative Thinkers
+		- [ ] Max Weber
+		- [ ] Elton Mayo
+		- [ ] Peter Drucker
+		- [ ] Chestar Barnard
+		- [ ] Mary Parker Follet
+	- [ ] World Thinkers
+		- [ ] Plato
+		- [ ] Aristotle
+		- [ ] Socrates
+		- [ ] Jeremy Bentham
+		- [ ] JS Mill
+		- [ ] Thomas Hobbes
+		- [ ] John Locke
+		- [ ] Jean Jacques Rousseau
+		- [ ] John Rawls
+		- [ ] Immanuel Kant
+		- [ ] Carol Gilligan
+		- [ ] Jean Paul Sartre
+		- [ ] Georg Wilhelm Friedrich Hegel
+		- [ ] Confucius
+		- [ ] René Descartes
+		- [ ] Karl Marx
+		- [ ] Adam Smith
+		- [ ] Thomas Aquinas
+		- [ ] David Hume
+		- [ ] Democritus
+		- [ ] Galileo
+		- [ ] Friedrich Nietzsche
+		- [ ] Montesquieu
+		- [ ] Voltaire
+		- [ ] Thomas Jefferson
+	- [ ] Indian & World Leaders
+		- [ ] Benjamin Franklin
+		- [ ] Martin Luther King
+		- [ ] Dalai Lama
+		- [ ] Nelson Mandela
+		- [ ] Mahatma Gandhi
+		- [ ] Siddhartha Gautama
+		- [ ] Aung San Suu Kyi
+		- [ ] Swami Vivekanand
+		- [ ] Albert Einstein
+		- [ ] Abraham Lincoln
+		- [ ] Mother Teresa
+		- [ ] J L Nehru
+		- [ ] Lee Kuan Yew
+		- [ ] Henry Ford
+		- [ ] Abdul Kalam
+		- [ ] Muhammad Yunus
+		- [ ] Wangari Maathai
+		- [ ] Kofi Annan
+		- [ ] Lech Walesa
+		- [ ] Desmond Tutu
+		- [ ] Isaac Newton
+		- [ ] Elie Wiesel
+		- [ ] King Ashoka
+		- [ ] Sun Yat Sen
+- [ ] Attitude
+	- [ ] Components of Attitude
+		- [ ] Affective Component
+		- [ ] Cognitive Component
+		- [ ] Behavioral Component
+	- [ ] Functions of Attitude
+		- [ ] Adjustive Function
+		- [ ] Ego-Defensive Function
+		- [ ] Value-Expressive Function
+		- [ ] Knowledge Function
+	- [ ] Attitude Formation Model
+	- [ ] Impact of Beliefs and Values
+	- [ ] Group Influences
+	- [ ] Social Influence
+	- [ ] Persuasion Tactics
+	- [ ] Tools of Persuasion
+	- [ ] Moral Attitude Formation
+	- [ ] Political Attitude Formation
+- [ ] Emotional Intelligence
+	- [ ] Theories Associated with Emotional Intelligence
+	- [ ] Can Emotional Intelligence be Developed?
+	- [ ] Components of Emotional Competencies
+		- [ ] The Self-Awareness Cluster: 
+			- [ ] Understanding Feelings
+			- [ ] Accurate Self-Assessment
+		- [ ] The Self-Management Cluster
+			- [ ] Managing Internal States
+			- [ ] Managing Impulses
+			- [ ] Managing Resources
+		- [ ] The Social Awareness Cluster
+			- [ ] Reading People 
+			- [ ] Reading Groups Accurately 
+		- [ ] The Relationship Management Cluster
+			- [ ] Inducing Desirable Responses in Others
+	- [ ] Importance of Emotional Intelligence at Workplace
+	- [ ] Importance of Emotional Intelligence in Civil Services
+- [ ] Values and Ethics in Public Administration
+	- [ ] Ethical Concerns in Public Institution
+	- [ ] Ethical Concerns in Private Institutions
+	- [ ] Ethical Dilemmas in Public and Private Institutions
+	- [ ] Laws, Rules and Regulations as Source of Ethical Guidance
+	- [ ] Accountability and Ethical Governance Strengthening of Ethical and Moral Values in Governance
+	- [ ] Moral Judgments in International Relations
+	- [ ] Ethical Relation in Funding
+	- [ ] International Relations and Concept of Moral Responsibility
+	- [ ] Ethics in Working of International Organizations
+	- [ ] What is Corporate Governance?
+	- [ ] Models of Corporate Social Responsibility
+	- [ ] Steps taken by World Bank for Good Corporate Governance
+	- [ ] Norms for Corporate Government in India
+	- [ ] Concept of Business Ethics
+- [ ] Probity in Governance
+	- [ ] Concept of Public Service
+	- [ ] Philosophical basis of Governance and Probity
+	- [ ] Information Sharing, Transparency and Right to Information
+	- [ ] Flaws in RTI and Recommendations for Improvement
+	- [ ] Importance of Vigilant Citizens
+	- [ ] Information Sharing and Participation
+	- [ ] Importance of Code of Ethics
+	- [ ] Code of Ethics in Professions
+	- [ ] Code of Conduct
+		- [ ] For Ministers
+		- [ ] For Legislators
+		- [ ] For Civil Servants
+		- [ ] For Regulators
+		- [ ] For The Judiciary
+	- [ ] Components of a Citizen Charter
+	- [ ] Steps in formulation of a Citizen’s Charter
+	- [ ] Concept of Work Culture
+	- [ ] The Indian Approach to Work
+	- [ ] Methods of improving Work Culture
+	- [ ] Quality of Service Delivery
+	- [ ] Utilisation of Public Funds
+	- [ ] Problems in Fund Release and Utilization
+	- [ ] Parliamentary Control on Expenditure
+	- [ ] Corruption in India: Extent, Dimension, and Response 
+	- [ ] Corruption as a Social Evil
+	- [ ] Probity in Public life Corrupt Practice Among Civil Servants and Official Misconduct
+	- [ ] Exposing Corruption: Civil Society initiatives and Role of Whistleblower Act
+	- [ ] Tackling Corruption: Role of Government and Institutions of governance
+	- [ ] Controlling Corruption: Various approaches and Efficacy
+
+-----
+
+### ==Applied Ethics==
+
+- [ ] Euthanasia Issue
+	- [ ] Social Angle
+	- [ ] Ethical Angle
+	- [ ] Different Arguments Realted to Euthanasia
+	- [ ] Conclusion
+- [ ] Surrogacy
+	- [ ] Case Study
+	- [ ] Issues
+	- [ ] Ethical Issues
+	- [ ] Concept of Ethical Surrogacy
+	- [ ] Conclusion
+- [ ] Ethics and Sports
+	- [ ] Important of Sports
+	- [ ] Ethical Issues
+		- [ ] Need for Sports
+		- [ ] Doping
+		- [ ] Discrimination
+		- [ ] Sexual Harassment
+		- [ ] Sports as a Business
+	- [ ] Steps Needed
+- [ ] Media Ethics
+	- [ ] Role of Media
+	- [ ] Ethical Issues Faced by Reporters
+	- [ ] Trial by Media
+	- [ ] Media Prejudice
+	- [ ] Ethical Dilemma Faced by Photo Journalists
+	- [ ] Digital Media Ethics
+	- [ ] Paid News
+- [ ] Business Ethics
+	- [ ] Principle of Business Ethics
+	- [ ] Dimensions Related to Business Ethics in Organisation
+	- [ ] Business Ethics
+	- [ ] Corporate Governance
+	- [ ] Journey from Philanthropy to Corporate Social Responsibility
+	- [ ] Issues in Implementation of Business Ethics
+- [ ] Ethics Related to Economic Sanctions
+	- [ ] Why Economic Sanctions Placed? 
+	- [ ] Ethics in Economic Sanctions 
+	- [ ] Conclusion
+- [ ] Refugees and Ethics
+	- [ ] Why Migration Occurs?
+	- [ ] Case Study of Syria
+	- [ ] Dilemmas related to Refugee Crisis
+	- [ ] Steps needed
+- [ ] Ethical Dilemmas of Globalization
+	- [ ] What is Globalisation?
+	- [ ] Free Trade in Globalised World
+	- [ ] Issues with Newly Developed Trade Patterns
+	- [ ] Criticism against Global Regime
+	- [ ] Way forward
+- [ ] Ethics of War
+	- [ ] Ethics and War Theories
+	- [ ] Evils of War
+- [ ] Environmental Ethics
+	- [ ] Linkage Between Ethics and Environment
+	- [ ] Theories Related to It
+	- [ ] Role of Individual
+- [ ] Ethics in Biotechnology
+	- [ ] Issues Related to Stem Cell
+	- [ ] Issues Related to Cloning
+	- [ ] Issues Related to Designer Babies
+- [ ] Animal Ethics
+	- [ ] Introduction
+	- [ ] Issues of Conducting Research on Animals
+	- [ ] Issues of Keeping Animals as Pets
+	- [ ] Issues of Cruelty Against Animals
+	- [ ] Conclusion
+- [ ] Food Adulteration and Ethics
+	- [ ] Ethical Dimension
+	- [ ] Ethical Issues Related to Food Additive
+- [ ] Abortion : Ethical or Unethical
+	- [ ] Law of Abortion in India
+	- [ ] Recent Supreme Court Verdict
+	- [ ] Ethical Issues : Health of Women vs Fetus
+	- [ ] Justification of Abortion
+	- [ ] Argument Against Abortion
+	- [ ] Abortion and Women Rights
+	- [ ] Abortion and Father Rights
+- [ ] Honour Killing
+	- [ ] Honour Killing is Unethical
+	- [ ] Role of Khap Panchayat
+- [ ] Marital Rape
+	- [ ] Why Marital Rape should not be Criminalized?
+	- [ ] Why Marital Rape should be Criminalized?
+	- [ ] What are the Hurdles?
+- [ ] Ethical Issues Involved in Child Labour
+	- [ ] Rights of Children
+	- [ ] Child Labour and Company
+	- [ ] Solution
+	- [ ] Role of Consumer
+- [ ] Ethical Issues Involved in Treating Juvenile as Adult
+	- [ ] Juvenile Justice System
+	- [ ] Negative Implications
+- [ ] Ethics and Old Age
+	- [ ] Ethical Issues
+	- [ ] Issues Faced
+	- [ ] Importance of Autonomy
+- [ ] Ethics in Public and Private Relationships
+	- [ ] Ethical values in Private Relationships
+	- [ ] Ethical principles in Public Relationships
+	- [ ] Linkage between Private Relationships and Public Relationships
+
+
+----
+
+# International Organisations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------
