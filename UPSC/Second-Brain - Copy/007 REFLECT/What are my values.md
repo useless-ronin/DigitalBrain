@@ -1,1 +1,0 @@
-The best possible career decision you can make is to get crystal clear on your highest values and live accordingly to them, when an individual is clear on their highest values they are able to prioritise goals plans and decisions faster better more efficiently and they activate their leadership capacities.
