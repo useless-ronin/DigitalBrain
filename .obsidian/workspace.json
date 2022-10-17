@@ -11,8 +11,12 @@
             "id": "d384823b5cb84113",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "UPSC/Obsidian Notes/Templates/Short Notes.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UPSC/Obsidian Notes/UPSC/Examples.md",
+                "file": "UPSC/Obsidian Notes/Templates/Short Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UPSC/Obsidian Notes/UPSC/Examples.md",
+                "file": "UPSC/Obsidian Notes/Templates/Short Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UPSC/Obsidian Notes/UPSC/Examples.md"
+                "file": "UPSC/Obsidian Notes/Templates/Short Notes.md"
               }
             }
           }
@@ -135,10 +139,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "434e77fec315eee0",
+  "active": "d384823b5cb84113",
   "lastOpenFiles": [
-    "UPSC/Obsidian Notes/Templates/Short Notes.md",
     "UPSC/Obsidian Notes/Templates/Big Topics.md",
+    "UPSC/Obsidian Notes/Templates/Short Notes.md",
     "UPSC/Obsidian Notes/PYQS Polity Images/Pasted image 20220505204153.png",
     "UPSC/Obsidian Notes/README.md"
   ]
