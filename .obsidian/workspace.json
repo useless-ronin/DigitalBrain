@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "6677c7110e8d2c0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6189ee851b74ef0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d384823b5cb84113",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee95b00967c289dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ae954e553287543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "434e77fec315eee0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20b05bfc7c65a2aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c33aaf14c60eb44",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "60c89483f8926f7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5229caf62c24fe8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78578e79724f8643",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UPSC/Obsidian Notes/UPSC/Examples.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4e26af78047e555",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UPSC/Obsidian Notes/UPSC/Examples.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec39053c3739c003",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02f4fb67337a982d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UPSC/Obsidian Notes/UPSC/Examples.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "434e77fec315eee0",
+  "lastOpenFiles": [
+    "UPSC/Obsidian Notes/Templates/Short Notes.md",
+    "UPSC/Obsidian Notes/Templates/Big Topics.md",
+    "UPSC/Obsidian Notes/PYQS Polity Images/Pasted image 20220505204153.png",
+    "UPSC/Obsidian Notes/README.md"
+  ]
+}
