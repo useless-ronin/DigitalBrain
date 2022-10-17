@@ -1,0 +1,14 @@
+---
+---
+- How I got my first tweeting client
+	- Pretty impressive reach out in examples. Re-follow them
+- Traffic
+	- No matter how bad someone is with women, if they talk to 100 different women, he'll eventually get the one that likes him
+	- No matter how bad your landing page or product is, if you get million people see it, you'll eventually get a sale.
+		- Traffic solves a lot of problems but its only a part of the equation
+- OFFERS
+	- It's what you give to people in exchange for their money
+	- Your target market has money. And they want to spend it. But they're not going to spend it in a product or service. They're going to spend it in a **magic box**:
+	- A box where they can get $3 by puttin in $1
+- Good offere+Traffic =Big $$$
+- 

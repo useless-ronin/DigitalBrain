@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "bcd9d1098152d4db",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9cfffe5fc3e04bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "To-do List/Syllabus.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de65ff3e0e9d4579",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c34e98daa270e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "455dcdbe4b791126",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9451f0c47314ad98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8d159cf0a7057690",
+    "type": "split",
+    "children": [
+      {
+        "id": "42875147a4f15e2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "707cb277a1cd521f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "To-do List/Syllabus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a9cfffe5fc3e04bc",
+  "lastOpenFiles": [
+    "To-do List/Syllabus.md",
+    "Syllabus.md",
+    "Linking.md",
+    "Discord.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Examples.md",
+    "Table of Contents.md",
+    "Templates/Big Topics.md",
+    "Templates/Short Notes.md"
+  ]
+}

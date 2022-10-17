@@ -1,0 +1,436 @@
+# The Art of Impossible
+
+![rw-book-cover](https://is4-ssl.mzstatic.com/image/thumb/Publication113/v4/4a/7a/a3/4a7aa318-54fb-c997-0d80-6a0a39258282/9780062977526.jpg/1600x2416bb.jpeg)
+
+## Metadata
+- Author: [[Steven Kotler]]
+- Full Title: The Art of Impossible
+- Category: #books
+
+## Highlights
+- It was my own private impossible.
+- figuring out how to get paid to do what you love is another lowercase i impossible
+- As is rising out of poverty; overcoming deep trauma; becoming a successful entrepreneur, CEO, artist, musician, comedian, or athlete, or generally world-class at what you do
+- There is no clear path between points and, statistically, very poor odds of success
+- overcome those odds, I’ve repeatedly learned the same lesson: if you devote your life to accomplishing lowercase i impossibles, you can sometimes end up accomplishing a capital I impossible along the way.
+- significantly more dangerous and a lot less fun. As far as I can tell, the only thing more difficult than the emotional toil of pursuing true excellence is the emotional toil of not pursuing true excellence
+- More meaningful does not typically mean more pleasant.
+- chasing the impossible has a cost.
+- Things that were impossible in the morning were possible by the evening
+- impossible as a form of extreme innovation, this is exactly what I meant.
+- And the next day, those same friends would head into the mountains and do something that for all of recorded history had never been done and that nobody believed ever would be done
+- I was desperate for the formula. I was also pretty convinced there was a formula. And I felt this way because, even though these feats were mind-bending, this wasn’t the first time my mind had been bent.
+- MY LITTLE BROTHER WASN’T MAGIC
+- meant that impossible had a formula. And more than anything I had ever wanted, I wanted to know that formula.
+- matter how mind-bendingly improbable a trick looked on the front end, there was always an understandable logic on the back end
+- The impossible always had a formula and—the weirder part—if I applied myself, sometimes I could learn that formula.
+- Very little is impossible with ten years’ practice.”
+- “if you don’t know the formula, it looks like magic. But now you know better.”
+- What does it take for individuals, organizations, even institutions, to significantly level up their game? What does it take to achieve paradigm-shifting breakthroughs?
+- Abundance was about individuals and small groups tackling and solving impossible global challenges such as poverty, hunger, and water scarcity, challenges so big that just a decade earlier they’d been the sole province of large corporations and big governments.
+- Whenever the impossible becomes possible, there’s always a formula
+- BIOLOGY SCALES
+- we have all been shaped by eons of evolution
+- we share the same basic machinery. At
+- Neurobiology is the structure and function of the nervous system—meaning the parts of the nervous system, including the brain, how those parts work, and how they work together
+- Personality doesn’t scale. Biology scales
+- It rarely does
+- your risk tolerance or where you land on the introversion-to-extroversion scale—are genetically coded, neurobiologically hardwired, and difficult to change.
+- Personality doesn’t scale.
+  Biology, on the other hand, scales
+- Basic biological mechanism. Shaped by evolution, present in most mammals and all humans.
+- What’s the biological formula for the impossible?
+- Flow is defined as “an optimal state of consciousness where we feel our best and perform our best.
+- whenever the impossible becomes possible, flow always plays a starring role
+- Action and awareness merge.
+- Why would evolution create a state of consciousness that amplifies all of these particular skills?
+- Evolution shaped the brain to enable survival.
+- evolution itself is driven forward by the availability of resources.
+- Scarcity of resources is always the largest threat to our survival, making it the largest driver of evolution.
+- You can fight over dwindling resources, or you can go exploring, get creative, innovative, and cooperative, and make new resources.
+- Flow is to extreme innovation what oxygen is to breathing—simply the biology of how it gets done.
+- when it comes to tackling the impossible, flow is necessary but not sufficient.
+- significantly leveling up your own game—absolutely requires flow, but it also requires training up many of the same skills that flow amplifies: motivation, learning, and creativity
+- the road toward impossible is long, and there will be lengthy stretches that we need to navigate without flow
+- motivation, learning, creativity, and flow
+- THE HABIT OF INFERIORITY
+- Infinite games are the opposite. They have no clear winners or losers, no established time frame for play, and no fixed rules
+- only goal is to keep on playing.
+- Peak performance isn’t something we win. There are no fixed rules, no established time frame for the contest, and the field of play is as big or as small as you choose to live your life.
+- It may be unwinnable, but you can definitely lose
+- the reason we’re not living up to our potential is that we’re not in the habit of living up to our potential.
+- We’ve automatized the wrong processes. We’re playing the wrong game. And it’s bad
+- The human individual lives usually far within his limits; he possesses powers of various sorts which he habitually fails to use. He energizes below his maximum, and he behaves below his optimum. In elementary faculty, in coordination, in power of inhibition and control, in every conceivable way, his life is contracted like the field of vision of an hysteric subject—but with less excuse, for the poor hysteric is diseased, while in the rest of us, it is only an inveterate habit—the habit of inferiority to our full self—that is bad.”
+- “When you’re young, your potential is infinite. You might do anything, really. You might be Einstein. You might be DiMaggio. Then you get to an age when what you might be gives way to what you have been. You weren’t Einstein. You weren’t anything. That’s a bad moment.”1
+- You get one shot at this life, and you’re going to spend one-third of it asleep
+- what do you choose to do with the remaining two-thirds? That is the only question that matters
+- you lose by not trying to play full out, by not trying to do the impossible—whatever that is for you.
+- We are all capable of so much more than we know.
+- contains the possibility of extraordinary.
+- extraordinary capability is an emergent property, one that only arises when we push ourselves toward the edge of our abilities
+- Motivation is what gets you into this game; learning is what helps you continue to play; creativity is how you steer; and flow is how you turbo-boost the results beyond all rational standards and reasonable expectations.
+- attempting to pull off the impossible.
+## New highlights added July 30, 2022 at 9:06 AM
+- impossible has a formula.
+- we are witnessing the end result of a quartet of skills—motivation, learning, creativity, and flow—expertly applied and significantly amplified.
+- motivation, as psychologists use the term, is actually a catch-all for three subsets of skills: drive, grit, and goals.
+- Drive
+- These are feelings that drive behavior automatically.1 This is the big deal
+- When we’re curious about a subject, doing the hard work to learn more about that subject doesn’t feel like hard work
+- when work becomes play
+- you’re playing the infinite game.
+- when we know where we’re trying to go, we get there much more quickly
+- s persistence, determination, and fortitude—the ability to continue with the journey no matter the difficulty involved.
+- THE PSYCHOLOGY OF DRIVE
+- elite-level performers never rely on a single source of fuel to sustain them along the way.
+- They “stack”—that is, cultivate, amplify, and align—the foundational requirements for producing physical energy.
+- They cultivate and align drivers such as curiosity, passion, and purpose
+- We know that scarcity drives evolution
+- At each level, resource acquisition is key.
+- Either you fight over dwindling resources, or you get creative and make more resources.
+- psychological fuels that energize behaviors that best solve resource scarcity: fight/flee and explore/innovate.
+- extrinsic and intrinsic.
+- the brain treats our desire for it as a basic survival need
+- famous people often have significantly more access to resources—food, water, shelter, mates, and so on—so we’re wired to want it
+- And sex is the only way for humans to win evolution’s game of surviva
+- curiosity, passion, meaning, and purpose.
+- External drivers are fantastic, but only until we feel safe and secure
+- Happiness becomes untethered to income because, once we can meet our basic needs, the lure of all the stuff it took to meet them begins to lose its luster.
+- They want to be in control of their own time (autonomy), they want to work on projects that interest them (curiosity/passion), and they want to work on projects that matter (meaning and purpose).
+- Once baseline needs are met, you can devote yourself to ways to get, well, you guessed it, seriously more resources—for yourself, for your family, for your tribe, for your species.
+- Okay, you’ve got enough resources for yourself and your family. Now it’s time to help your tribe or your species get more.
+- THE NEUROCHEMISTRY OF REWARD
+- It’s the brain saying: Hey, get off the couch, do this thing, it’s super important to your survival.
+- neurochemistry and neuroelectricity, which are the messages themselves, and neuroanatomy and networks, which are the places those messages are sent from and received.
+- electrical signals have only one meaning: do more of what you’re doing.
+- Networks, meanwhile, refer to brain structures that are hardwired together by direct connections or structures that tend to activate at the same time.8
+- forward—we’re really talking about the two final systems: play/social engagement and seeking/desire.
+- The play/social engagement system is about all the fun stuff we used to do as kids: running, jumping, chasing, wrestling, and, of course, socializing.
+- play is mostly designed to teach us about social rules and social interaction
+- When we play, the brain releases dopamine and oxytocin, two of our most crucial “reward chemicals.”
+- The pleasurable feeling created by each of these chemicals drives us to act and, if that action was successful, reinforces the behavior in memory.
+- Dopamine specializes in driving all the various manifestations of desire, from our sexual appetites to our quest for knowledge.
+- excitement, enthusiasm, and the desire to make meaning from a situation
+- When you’re obsessed with an idea, can’t stop working on a project, or can’t stop thinking about the person you just met, norepinephrine is responsible
+- Oxytocin produces trust, love, and friendship
+- Serotonin is a calming, peaceful chemical that provides a gentle lift in mood
+- It also appears to play a role in satisfaction and contentment, that feeling of a job well done.
+- pain-killing bliss producers
+- Flow may be the biggest neurochemical cocktail of al
+- The seeking/desire system is the second system that plays an important role in drive
+- When fully aroused, the seeking system fills the mind with interest and motivates organisms to effortlessly search for the things they need”
+- When we’re passionate, we don’t have to work hard to stay on task. Because of dopamine and norepinephrine, that happens automatically.
+- But mostly, grit takes care of itself because I have curiosity, passion, and purpose.
+- My craft is my salvation
+- drive: “I’m doing what I love. If you’re doing what you want to do all the time then you’re happy. You’re not going to work every day wishing you were doing something else. I get up and I go to work every day and I’m stoked. That does not suck.”
+- THE RECIPE FOR DRIVE
+- curiosity, passion, purpose (chapter 2), autonomy, and mastery
+- Curiosity is where we’ll begin because that’s where the biology is designed to begin
+- curiosity alone is a potent driver, it’s also a foundational ingredient in passion, which is an even bigger driver.
+- meaning and purpose
+- autonomy and mastery
+- once you have a purpose, the system demands autonomy, which is the freedom to pursue that purpose
+- With intrinsic drivers properly stacked, our biology is working for us rather than against us.
+- cultivate curiosity, amplify it into passion, and transform the results into purpose
+- You don’t want to be two years into pursuing your passion only to discover it was actually a phase
+- sometimes you have to go slow to go fast
+- MAKE A LIST
+- HUNT FOR INTERSECTIONS
+- for learning, pen and paper triumph over laptop and keyboard every time
+- writing down twenty-five things you’re curious about.
+- conversation or two with an expert.
+- The specificity gives your brain’s pattern recognition system the raw materials it needs to make connections between ideas.
+- The more detailed the information, the better.
+- you want to look for places where three or four items on your curiosity list intersect. I
+- When multiple curiosity streams intersect, you not only amp up engagement—you create the necessary conditions for pattern recognition, or the linking of new ideas together.2
+- whenever we recognize a pattern, the brain rewards us with a tiny squirt of dopamine.
+- dopamine is a powerful focusing drug
+- attention is laser-targeted on the task at hand. We’re excited, engaged, and more likely to drop into flow.
+- the neurochemical increases signal, decreases noise, and, as a result, helps us detect more patterns
+- a feel-good drug produced by the brain to drive behavior.
+- The more dopamine you get, the more fun and addictive the experience; the more fun and addictive the experience, the more you can’t wait to do it again.
+- neurochemicals: they tag experiences as “Important, save for later.”
+- PLAY IN THE INTERSECTIONS
+- The goal is to feed those curiosities a little bit at a time, and feed them on a daily basis
+- This slow-growth strategy takes advantage of the brain’s inherent learning software
+- the brain begins looking for connections between older bits of info you’ve already learned and the newer bits you’re currently learning
+- this means more patterns, more dopamine, more motivation, and, eventually, a bit of expertise.8
+- brains love narrative—which is nothing more than pattern recognition over time.
+- The technical language that surrounds a subject is the second place to put your attention.
+- large chunks of the explanation of a subject are contained within the technical language that surrounds that subject.
+- apparently, someone once thought we were “wise apes”). Thus, understanding a subject’s insider parlance allows you to see the ideas and the connective tissue that holds these ideas together.
+- Knowing the history of a subject and the technical language that surrounds that subject helps you converse with others about these ideas
+- GO PUBLIC
+- you’re going to need to amplify that passion with a series of “public successes.”
+- A public success is nothing more than positive feedback from others
+- Positive attention from others causes the brain to release more dopamine than we get from passion alone
+- The combination of dopamine and oxytocin rewards “social interaction,” creating the feelings of trust and love that are so critical for our survival.
+- Simple conversations with strangers will get things going.
+- start chatting with whoever sits next to you, and teach them about the stuff you’ve been teaching yourself.
+- Talk to a different stranger, tell a few friends about your ideas, or join a meetup devoted to the subject. An online community. A book club. And if one doesn’t exist, start your own.
+- There’s a lot of excitement that builds up as you start to investigate these intersections, but it’s important to keep it to yourself for a bit
+- There’s nothing very fulfilling or passion-cultivating about being an absolute beginner
+- you’re approaching escape velocity
+- TRANSFORMING PASSION INTO PURPOSE
+- passion can be a fairly selfish experience.
+- There’s not much room for other people. But if you’re going to tackle the impossible, sooner or later, you’re going to need some outside assistance
+- As social creatures, humans have an innate desire for connection and caring.
+- We want to be connected to other people and we want to care for other people.
+- Purpose takes all the motivational energy found in passion and gives it an extra kick.
+- purpose alters the brain
+- having a “purpose-in-life” (the technical term) has been shown to lower incidences of stroke, dementia, and cardiovascular disease.
+- from a performance standpoint, purpose boosts motivation, productivity, resilience, and focus.
+- purpose guards against obsessive self-rumination
+- It protects you from yourself and the very real possibility of being swallowed whole by your new passion.
+- Purpose acts as a rallying cry, inspiring others and attracting them to your cause.
+- PUTTING PURPOSE INTO PRACTICE
+- When it comes to crafting your purpose, dream big. This is going to become the overarching mission statement for your life. Your capital I: Impossible.
+- Massively means large and audacious
+- clear why behind the work being done. An MTP is exactly the kind of big dream you’re hunting.
+- Write down a list of fifteen massive problems that you would love to see solved.
+- Stuff that keeps you up at night. Hunger, poverty, or, my personal favorite: protecting biodiversity
+- The overlap between passion and purpose, that’s what you’re hunting.
+- I was a bartender for the first decade of my writing career, which allowed me the time to develop my craft without the terror of having to pay my bills off the results. This was critical to my success
+- An MTP is both a crucial driver and a great foundation for a commercial enterprise
+- start out with a hobbyist approach to their first start-up: nights and weekends
+- Curiosity into passion; passion into purpose; and purpose into patient profit—that’s the safest way to play this game.
+## New highlights added July 30, 2022 at 2:04 PM
+- Curiosity, passion, and purpose are a launching pad toward the impossible.
+- if autonomy is the desire to steer your own ship, mastery is the drive to steer that ship well.
+- OUR NEED FOR AUTONOMY
+- psychologists defined motivation as “the energy required for action.” Assessments were binary:
+- there were different types of motivation and that different types of motivation produced different results.
+- intrinsic motivation (a term that is synonymous with drive) is much more effective than extrinsic motivation in every situation excluding those where our basic needs haven’t been met.
+- Autonomous motivation is the opposite. It means you’re doing what you’re doing by choice.
+- Autonomy is always the more powerful driver.
+- the wrong motivation can easily produce the wrong behaviors.
+- the seeking system likes to be in charge of exactly what kinds of resources it’s seeking
+- autonomy turns us into a much more effective version of ourselves.
+- The boost in neurochemistry provided by autonomy increases our drive, of course, but it also amplifies a host of additional skills.
+- When we’re steering our own ship, we’re more focused, productive, optimistic, resilient, creative, and healthy.
+- TWENTY PERCENT TIME
+- How much autonomy do we need to add?
+- Google engineers get to spend 20 percent of their time pursuing projects of their own creation,
+- you can get the results you desire by spending four to five hours a week devoted to your newfound purpose.
+- PATAGONIA’S BIG FOUR
+- the answer is very little autonomy, provided that very little is well deployed
+- Beyond a good night’s rest, making your own schedule also lets you work in accordance with your circadian rhythms.
+- schedule autonomy allows people to get the sleep they need to be most effective and allows people to work when they’re most alert in order to maximize that effectiveness.
+- nervous system regulation.
+- exercise doesn’t just reduce the level of stress hormones in our system, it replaces them with mood boosters like endorphins and anandamide
+- you need the freedom to control your sleep, work, and exercise schedule
+- OUR NEED FOR MASTERY
+- competence, but we now know it as mastery.
+- the desire to get better at the things we do. It’s devotion to craft, the need for progress, the urge to continually improve.
+- Humans love nothing more than stacking little victory atop little victory atop little victory
+- dopamine is actually the brain’s way of encouraging us to act—
+- the chemical doesn’t show up after we take a risk, to reward our risk-taking
+- it arrives right before we take that risk, to encourage our risk-taking.
+- When we work hard toward an important goal—that is, when we pursue mastery—dopamine levels spike.
+- The sensation of being stuck in the mud, wheels spinning and not getting anywhere, is the single largest drain on motivation that scientists have discovere
+- discovered. If momentum is a peak performer’s favorite feeling, then lack of momentum is their least favorite.
+- FLOW TRIGGERS
+- The state is universal, showing up in anyone, anywhere, provided certain initial conditions are met.
+- researchers have identified twenty-two different flow triggers—there are probably more—yet they all share one thing in common.
+- Flow follows focu
+- The state can only arise when all of our attention is directed at the present moment. So that’s exactly what all these triggers do: they drive attention into the now.
+- By lowering cognitive load, we’re liberating energy, which the brain can then repurpose for paying attention to the task at hand
+- Either they push dopamine and/or norepinephrine
+- Drive is the psychological fuel that pushes us to obtain resources
+- If all these intrinsic drivers are not properly stacked, their misalignment becomes a persistent form of anxiety, which is the psychological weight of not doing exactly what we came here to do
+- almost all of this happens automatically. When we’re curious, passionate, and purposeful, cognitive load lightens and dopamine and norepinephrine flow into our system. The same is true for autonomy.
+- When we are pushing on our talents and advancing our abilities, we are walking the path to mastery—and the brain notices. It rewards this effort with dopamine. And because dopamine enhances focus even more, this increases our chances of getting into flow, and the cycle continues.
+- To push myself over the top, what I need to do is something that drives me into the challenge-skills sweet spot
+- I’ve upped the challenge level a little bit, and my brain rewards that risk-taking effort with even more dopamine.
+- Seeking out that challenge-skills sweet spot has become a habit.
+- Start chasing the high of incremental improvement. Get hooked on the dopamine loop of advancement
+- We are all designed for optimal performance. This is how the system wants to work, and there are serious consequences for trying to buck the syste
+- disconnection from meaningful values and disconnection from meaningful work are major causes of anxiety and depression
+- it’s so crucial to get our biology to work for us rather than against us: because the failure to do this work carries serious psychological penalties.
+- since we’re now going to be moving through our lives at greater speeds, it’s increasingly important that we know exactly where we want to go—which is why we need to turn our attention to the topic of goals.
+- goals tell us exactly where we want to go.
+- when we created our massively transformative purpose, or what could be considered a mission statement for our lives
+- we want to break that mission statement down into smaller chunks, dividing up the impossible into a long series of difficult but doable goals that, if accomplished, render said impossible much more probable.
+- called goals one of the four foundational “causes” or big drivers of change in the world.
+- not every goal is the same, nor is every goal appropriate for every situation
+- wrong goal in the wrong situation can seriously hinder performance and actually lower productivity and motivation.
+- the establishment of a goal is one of the easiest ways to increase motivation and enhance performanc
+- setting goals increased performance and productivity 11 to 25 percent
+- wrote: “Human needs [such as autonomy, mastery, and purpose] provide the energy for behavior; people value goals because the goals are expected to provide satisfaction of their needs.”
+- why does this target matter so much? Because consciousness is an extremely limited resource.
+- To understand what another person is saying takes about 40 bits. If three people are talking at once, we’re maxed out
+- Evolution shaped the brain for survival, so anything that could threaten that survival always grabs our attention.
+- We need to know our needs—that is, our intrinsic motivations—before we can utilize goals as a way of fulfilling those needs.
+- With passion and purpose properly stacked atop autonomy and mastery,
+- “We found that if you want the largest increase in motivation and productivity, then big goals lead to the best outcomes. Big goals significantly outperform small goals, medium-sized goals, and vague goals.”10
+- THE IMPORTANCE OF HIGH, HARD GOALS
+- n the way to impossible, you’re going to need both MTPs and HHGs, and we’ll start with the former
+- two or three core passion/purpose combinations.
+- turn those ideas into core mission statements.
+- write books that have a deep impact, advance the science and training of flow, and make the world a better place for animals.
+- If a project comes my way, if it doesn’t advance these three missions, then it’s not for me.
+- “You have to believe in what you’re doing,
+- “Big goals work best when there’s an alignment between an individual’s values and the desired outcome of the goal. When everything lines up, we’re totally committed—meaning we’re paying even more attention, are even more resilient, and are way more productive as a result.”
+- keep your goals to yourself.
+- giving voice to an aim, you’re creating what’s called a “social reality,” and this has negative consequences for real reality.
+- Most important, momentum matters most
+- CLEAR GOALS
+- Turns out, there are significant differences between high, hard goals and clear goals, which are all the daily sub-steps required to accomplish those high, hard goals.
+- High, hard goals are our longer missions, the ones that can take years to achieve.
+- Clear goals are the inverse
+- They’re all the tiny, daily steps it takes to accomplish that mission.
+- Writing 500 words between 8:00 A.M. and 10:00 A.M. that produce a feeling of excitement in the reader—now, that’s an even clearer goal.
+- A proper to-do list is just a set of clear goals for your day.
+- clear goals are an important flow trigger.
+- When goals are clear, the mind doesn’t have to wonder about what to do or what to do next—it already knows.
+- clear goals act as a priority list for the brain, lowering cognitive load and telling the system where to expend its energy.
+- breaking tasks into bite-sized chunks and setting goals accordingly
+- Think challenging, yet manageable—just enough stimulation to shortcut attention into the now, not enough stress to pull you back out again.
+- clear goals are accomplished one minute at a time
+- But it also means knowing which goal to focus on when
+- When it comes to writing up your daily to-do lists, try to write the next day’s list at the end of the previous day
+- I limit the number of items on my to-do lists to around eight—which is my maximum capacity for a good day’s work.
+- don’t try for nine or ten or eleven, because then I’m overloaded. Nor do I shirk the work, and try for six or seven
+- Track how many things you can do in a day and still be your best at all of them.
+- By getting this right, we maximize motivation.
+- I can turn off my brain and recover.
+- knowing how to stop working without feeling bad about stopping is key for long-term success.
+- Impossible is always a checklist. Do every item on your checklist today, do every item on your checklist tomorrow, and repeat.
+- Even if you’re winning your days and making noticeable progress toward your goals, the need to endlessly repeat this process demands persistence. And resilience. And this explains where we’re going next—straight into grit
+## New highlights added July 31, 2022 at 6:47 PM
+- excellence has a cost.
+- Grit is motivation writ large—not just the energy it takes to push through a difficult task but the energy needed to push through years of difficult tasks.
+- intrinsic motivation launches you down the path of peak performance, proper goal setting helps define that path, and grit is what keeps you keeping on despite the odds and obstacles.
+- self-regulation is both the ability to control our emotions and the ability to persist through challenging, strenuous tasks.
+- whenever we accomplish a hard task, dopamine is our reward
+- the brain starts to connect the feeling of persistence with the dopamine reward to come. We’re making the act of tapping into our emotional reservoirs a habit. This automatization may be the reason that the dorsal medial prefrontal cortex stays quiet in gritty people.
+- If you ask peak performers this question, they don’t answer it like the scientists.
+- sustained high performance and high achievement, you’ll need all six
+- THE GRIT TO PERSEVERE
+- Perseverance is the most familiar version of gri
+- purpose
+- Less gritty people hunt happiness through pleasure, while grittier folks choose engagement
+- while grit requires more energy and emotional fortitude in the short run, it provides a much bigger boost in mood and motivation in the long run.
+- There’s always a handful of occasions when you get exactly what you want without having to work very hard to achieve it.
+- We humans like gritty hard work, because gritty hard work provides better long-term survival benefits
+- willpower, mindset, and passion
+- WILLPOWER
+## New highlights added August 1, 2022 at 10:37 AM
+- Willpower is self-control. It’s the ability to resist distraction, stay focused, and delay gratification. It’s also a finite resource
+- when forced to solve a series of hard problems, the quality of our solutions deteriorates over time
+- peak performers fight back with scheduling.
+- Just start your day with your hardest task and work backward—in descending order of importance and difficulty—to the easiest.
+- Always start your clear-goals list, and thus your day, by attacking the task that, once accomplished, will produce the biggest win for that day.
+- do one extra item on my to-do list before I take my first break.
+- they’ll talk about eating for certain (Baumeister’s suggestion), but naps, meditation, and exercise are frequently mentioned as wel
+- MINDSET
+- mindset refers to our attitudes toward learning.
+- When faced with a hard problem, the brains of fixed mindsetters show a total lack of activity, as if their mindset were filtering out all incoming information. Since fixed mindsetters believe talent is innate, they didn’t believe they could solve the problem.
+- Growth mindsetters work harder, longer, and smarter, deploying a much wider range of problem-solving strategies when facing complicated challenges
+- How to cultivate a growth mindset?
+- Curiosity is the first step.
+- Once we believe we can learn, we can become curious about what else we can learn, and suddenly we’re deploying our growth mindset on a regular basis and for maximum benefit.
+- PASSION
+- Passion matters in a discussion of grit because there’s no other way to persevere for years on end.
+- “Get obsessed, stay obsessed.”14
+## New highlights added August 3, 2022 at 8:12 PM
+- Gervais, “talent and ability are mostly equal. The difference is in the head. High performance is 90 percent mental. And most of that mental edge comes from being able to control your thoughts.”1
+- learning how to think really means learning how to exercise some control over how and what you think.
+- It means being conscious and aware enough to choose what you pay attention to and to choose how you construct meaning from experience.
+- Excellence requires repetition
+- boredom, routine, and petty frustration.
+- Without the grit to control your thoughts, the boredom and frustration that come with every routine will quickly spiral downward.
+- SELF-TALK
+- If you want to control your thoughts, positive self-talk is the place to start.
+- Constricting thoughts are along the lines of: “This sucks. I can’t handle this. Why is my life so unfair?” They shrink your options and abilities. Positive thoughts move in the other direction: “I choose to be here. I’ve got this. I can definitely rise to this occasion.”
+- you’ll need a lot more positive self-talk than you might assume
+- it takes three positive thoughts to counter a single negative thought.
+- Positive self-talk leads to positive emotions, which expand perspective, giving us the ability to create action plans beyond our normal routines.
+- positive self-talk has to be grounded in reality
+- When we try to bolster ourselves with false claims, the brain is not fooled.
+- why affirmations tend to backfire.20 If you’re telling yourself you’re a millionaire but actually work at Walmart, the brain knows.
+- The best way to talk yourself up is to remind yourself of stuff you know is true. If there have been times when you’ve faced similar challenges and succeeded, that’s where to start. Actual information trumps New Age aspiration every time.
+- GRATITUDE
+- the first filter most of that information encounters is the amygdala, our threat detector.22
+- No creativity, no innovation; no innovation, no impossible.
+- Positive self-talk is one solution to this problem. Gratitude is another.
+- Write down ten things you’re grateful for, and each time you write an item down, really take the time to feel that gratitude. You’re trying to recall the somatic address of the emotion, discovering where it lives in the body (your gut, your head, your heart) and exactly how it feels.
+- Write down three things you’re grateful for and expand one into a paragraph of description. While writing the paragraph, once again, be sure to focus on the somatic address of your gratitude.
+- strong link between gratitude and flow
+- MINDFULNESS
+- There’s a little gap, no more than a millisecond, between the moment a thought arises and the moment our brain attaches an emotion to that thought.
+- Once that feeling is attached, especially if it’s negative, there’s usually too much energy in the system to shut it down.
+- This isn’t a spiritual practice; it’s a cognitive tool. By observing your thoughts as they arise, you’ll start to notice this gap between thought and feeling, and soon discover the simple act of noticing gives you freedom
+- you have two options
+- single-point mindfulness
+- put all of your attention on one thing: your breath, a candle flame, a repeated word or phrase, the sound of wind in the distance, take your pick.
+- in the beginning of each session, the mind will do what minds do: it will wander. Expect it, notice it, and simply return your focus to that single point.
+- Iron-fisted thought control isn’t the point. The point is simply noticing that,
+- the best way to develop the grit to control your thoughts is to first start to notice how uncontrollable thought actually is.
+- ght actually is.
+  Second option: an open-senses meditation
+- Watch the show; don’t engage.
+- THE GRIT TO MASTER FEAR
+- I thought bravery meant not being afraid. I
+- I had no idea that fear was okay.
+- further: “Fear is the most common emotion in my life. I’ve been afraid for so long—well, honestly, I can’t ever remember not being afraid. It’s what you do with that fear that makes all the difference.”
+- If you’re interested in impossible, then you’re interested in challenge, and if you’re interested in challenge, you’re going to be scared.
+- Fear is a fantastic motivator. Which is why learning to treat fear as a challenge to rise toward rather than a threat to be avoided can make such a profound difference in our lives. This approach takes our most primal drive, the need for safety and security, and gets it to work for our benefit.
+- this—fear is a constant in peak performance. If you don’t learn to work with this emotion, it’s certainly going to learn to work with you.
+- A FEAR PRACTICE
+- the first step to transforming one’s relationship to fear involves developing a regular fear practice
+- you have to develop an awareness of your fear
+- You have to start by noticing fear in the body,
+- Any form of emotional or even physical discomfort is where you’ll find
+- fear is not nearly as unpleasant as we thought. It’s our attempt to avoid the fear that’s so uncomfortable.
+- Instead of saying “Do it despite the fear,” say, “Do it because of the fear.”
+- Look at fear as excitement, or as an emotion designed to help you focus
+- Once you start confronting your fears,” he explains, “you quickly realize that imagination is greater than reality.
+- Either build up a tolerance slowly, what psychologists call “systematic desensitization,” or go all in at once, what’s appropriately called “flooding.” Either way, the process is the same.
+- First, identify the location and expression of that dread in your system. Is it a queasiness in your gut? Are your thoughts racing? Maybe both?
+- Learning to create space is how you learn to play in hostile, rugged, and stressful environments.”34
+- When we take a risk, dopamine is released into our system, which is the brain’s way of rewarding exploratory behavior.
+- take physical risks, for sure, but also try emotional risks, intellectual risks, or creative risks.
+- The brain processes social risk and physical risk with the exact same structures,
+- fear of public speaking is the number one fear in the world
+- FEAR AS A COMPASS
+- If you can learn to be comfortable with being uncomfortable, you can begin to take the final step in this process, which is learning how to use fear as a compass.
+- Going in the direction that scares you most amplifies attention and this translates into flow.
+- By confronting fear we are expanding capacity, teaching ourselves to remain psychologically stable and in control even in situations that feel unstable and uncontrollable
+- THE GRIT TO BE YOUR BEST WHEN YOU’RE AT YOUR WORST
+- The grit that matters most,” he says, “is learning to be your best when you’re at your worst. Th
+- the only way to train being your best when at your worst is to, well, you guessed it, train when you’re at your worst.
+- THE GRIT TO TRAIN YOUR WEAKNESSES
+  In the last section, we saw that training
+- THE GRIT TO TRAIN YOUR WEAKNESSES
+- We don’t rise to the level of our expectations, we fall to the level of our training
+- identify your biggest weaknesses and get to work
+- Ask friends to identify your weaknesses. You want them to be truthful but not go overboard.
+- The inability to think at scale is a cognitive problem
+- The best way to train up physical and emotional weaknesses is head-on, but slowly. Don’t expect you’ll solve these problems in a week or two. Old habits die hard. Learn to love slow progress. Learn to forgive yourself for the inevitable backsliding.
+- THE GRIT TO RECOVER
+- Burnout isn’t just extreme stress; it’s peak performance gone off the rails.
+- Passive recovery is TV and a beer—sound familiar?
+- protect your sleep.
+- You need a dark room, cold temperatures, and no screens.
+- put an active recovery protocol into place
+- Body work, restorative yoga, Tai Chi, long walks in the woods
+- Burnout costs you both motivation and momentum
+- inserting mandatory time-outs into your schedule can feel like a waste of time, it’s nothing compared to the time you’ll waste once burnout sets in. If you get gritty about recovery sooner rather than later, you’ll go farther faster as a result.
+## New highlights added August 4, 2022 at 12:47 PM
+- Excellence always has a cost.
+- if your goal is greatness, then you’re going to put just about every available hour toward that goal
+- Excellence, no matter what level, will always take everything we’ve got.
+- If you’ve turned curiosity into passion and passion into purpose and used that information to sculpt a massively transformative purpose, you’re already dangerous
+- Impossible will always be a lengthy journey. Flow is one of the key ingredients in long-term perseverance
+- This is the ability to immediately and automatically rise to any challenge.
+- they lean in before they can even think about not leaning in
+- we don’t rise to the level of our expectations, we sink to the level of our training
+- On any path to peak performance, if you don’t develop the habit of ferocity—that is, automatize the motivation triad of drive, goals, and grit—sooner or later you’ll trip over your own fear.
+- “Figure out what you would die for, then live for it.”
+- human beings are habit machines and the easiest way to live an extraordinary life is to develop extraordinary habits.
+- “Sow an action and you reap a habit, sow a habit and you reap a character, sow a character and you reap a destiny.”
+- developing the habit of ferocity also lowers cognitive load. We burn a lot of calories being anxious about the task ahead. But once we can automatize our lean-in instinct, we not only save time, we save energy.
+- Align all of your intrinsic motivators. Augment this stack with proper goal setting. Train all six levels of grit.
+- When someone asks what you’ve been working on and the list of accomplishments that tumbles out of your mouth surprises both of you—now you know.
+- How we spend our days is, of course, how we spend our lives.

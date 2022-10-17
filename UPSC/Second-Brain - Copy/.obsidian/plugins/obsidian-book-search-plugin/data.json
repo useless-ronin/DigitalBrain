@@ -1,0 +1,8 @@
+{
+  "folder": "003 RESOURCES",
+  "fileNameFormat": "{{title}}",
+  "frontmatter": "My rate:\nstatus:\nDate Started:\nDate Finished: ",
+  "content": "**Title:** {{title}}\n**Author:** {{author}}\n**Type:** #litnote #book #todevelop \n\n---",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Snake Case"
+}

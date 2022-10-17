@@ -1,0 +1,22 @@
+{
+  "legacyEditor": false,
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "trashOption": "local",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "fileSortOrder": "alphabetical",
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "communityPluginSortOrder": "release",
+  "communityThemeSortOrder": "downloadReverse",
+  "showFrontmatter": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 83
+  }
+}

@@ -1,0 +1,15 @@
+- Krisp https://krisp.ai/ Remove Background noise
+- Tango Create guide workflows easily
+- Descript Edit videos faster
+- Typestudio
+- Gumroad
+- Webflow
+- Airtable
+- Riverside.fm
+- Substack
+- Convertkit
+- Carrd
+- Figma
+- Canva
+- Notion
+- Buffer
