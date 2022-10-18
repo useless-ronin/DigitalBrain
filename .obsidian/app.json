@@ -1,3 +1,10 @@
 {
-  "livePreview": false
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "legacyEditor": false,
+  "livePreview": false,
+  "communityThemeSortOrder": "download",
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }
