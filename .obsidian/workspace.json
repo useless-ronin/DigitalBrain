@@ -1,39 +1,33 @@
 {
   "main": {
-    "id": "6677c7110e8d2c0b",
+    "id": "e8fda4761ae9742b",
     "type": "split",
     "children": [
       {
-        "id": "e6189ee851b74ef0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d384823b5cb84113",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UPSC/Obsidian Notes/Templates/Short Notes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
+        "id": "c9161bafc2345235",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Polity/1 - Basic Concepts.md",
+            "mode": "preview",
+            "source": true
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ee95b00967c289dd",
+    "id": "0cb23a3e01c9001c",
     "type": "split",
     "children": [
       {
-        "id": "7ae954e553287543",
+        "id": "86372c4e85de5a80",
         "type": "tabs",
         "children": [
           {
-            "id": "434e77fec315eee0",
+            "id": "e1abc1321847798b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +37,7 @@
             }
           },
           {
-            "id": "20b05bfc7c65a2aa",
+            "id": "9ab1f5361bfc8a84",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,36 +50,29 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "9c33aaf14c60eb44",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
-    "id": "60c89483f8926f7b",
+    "id": "49c68b39fd317562",
     "type": "split",
     "children": [
       {
-        "id": "5229caf62c24fe8d",
+        "id": "cf7939d09ee4350c",
         "type": "tabs",
         "children": [
           {
-            "id": "78578e79724f8643",
+            "id": "2b3d60e5f3016f39",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UPSC/Obsidian Notes/Templates/Short Notes.md",
+                "file": "Polity/1 - Basic Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,53 +84,59 @@
             }
           },
           {
-            "id": "e4e26af78047e555",
+            "id": "62da6eca5084f61d",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "UPSC/Obsidian Notes/Templates/Short Notes.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "calendar",
+              "state": {}
             }
           },
           {
-            "id": "ec39053c3739c003",
+            "id": "c2dc6f9a939bf54e",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "review-queue-list-view",
+              "state": {}
             }
           },
           {
-            "id": "02f4fb67337a982d",
+            "id": "c198becce5d62754",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "UPSC/Obsidian Notes/Templates/Short Notes.md"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a7b3f6336fd0886",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 266.5,
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d384823b5cb84113",
+  "active": "c9161bafc2345235",
   "lastOpenFiles": [
-    "UPSC/Obsidian Notes/Templates/Big Topics.md",
-    "UPSC/Obsidian Notes/Templates/Short Notes.md",
-    "UPSC/Obsidian Notes/PYQS Polity Images/Pasted image 20220505204153.png",
-    "UPSC/Obsidian Notes/README.md"
+    "Excalidraw/Government.md",
+    "Polity/1 - Basic Concepts.md",
+    "Excalidraw/Drawing 2022-10-18 19.32.46.excalidraw.md",
+    "Home.md",
+    "Excalidraw/GovermentPic.svg",
+    "Pasted image 20221018103748.png",
+    "Polity/Polit PYQs Images/Pasted image 20221018104009.png",
+    "Untitled.md",
+    "Excalidraw/Drawing 2022-10-18 06.44.48.excalidraw.png",
+    "Templates/Short Notes.md"
   ]
 }
